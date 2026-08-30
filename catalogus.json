@@ -3091,6 +3091,3641 @@
    ]
   },
   {
+   "id": "games-xbox",
+   "groep": "Microsoft",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "Xbox",
+   "auteur": "Microsoft · 2004-2005",
+   "type": "game",
+   "kleur": "#2E6B3A",
+   "motief": "pixel",
+   "bron": "gelezen van vijf foto's van je eigen kast op 30/08/2026. De jaartallen zijn die van de Europese uitgave. Twijfelgevallen staan bij het spel zelf vermeld.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Prince of Persia: Warrior Within",
+     "j": 2004
+    },
+    {
+     "k": "2",
+     "t": "Prince of Persia: The Two Thrones",
+     "j": 2005,
+     "b": "Kan ook de Xbox 360-uitgave zijn; het etiket was niet scherp genoeg"
+    }
+   ]
+  },
+  {
+   "id": "games-xbox-360",
+   "groep": "Microsoft",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "Xbox 360",
+   "auteur": "Microsoft · 2007-2010",
+   "type": "game",
+   "kleur": "#3E7A3E",
+   "motief": "pixel",
+   "bron": "gelezen van vijf foto's van je eigen kast op 30/08/2026. De jaartallen zijn die van de Europese uitgave. Twijfelgevallen staan bij het spel zelf vermeld.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Fable II",
+     "j": 2008
+    },
+    {
+     "k": "2",
+     "t": "Fable III",
+     "j": 2010
+    },
+    {
+     "k": "3",
+     "t": "Harry Potter en de Halfbloed Prins",
+     "j": 2009
+    },
+    {
+     "k": "4",
+     "t": "Prince of Persia",
+     "j": 2008,
+     "b": "De Classics-heruitgave"
+    },
+    {
+     "k": "5",
+     "t": "Prince of Persia: The Forgotten Sands",
+     "j": 2010
+    },
+    {
+     "k": "6",
+     "t": "The Darkness",
+     "j": 2007
+    },
+    {
+     "k": "7",
+     "t": "Virtua Tennis 2009",
+     "j": 2009
+    },
+    {
+     "k": "8",
+     "t": "Onbekende Limited Edition",
+     "j": 2009,
+     "b": "Zwarte doos, de titel was op de foto niet leesbaar - zeg jij welke het is"
+    }
+   ]
+  },
+  {
+   "id": "games-xbox-one",
+   "groep": "Microsoft",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "Xbox One",
+   "auteur": "Microsoft · 2013-2016",
+   "type": "game",
+   "kleur": "#1E5B2E",
+   "motief": "pixel",
+   "bron": "gelezen van vijf foto's van je eigen kast op 30/08/2026. De jaartallen zijn die van de Europese uitgave. Twijfelgevallen staan bij het spel zelf vermeld.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Dead Rising 3",
+     "j": 2013
+    },
+    {
+     "k": "2",
+     "t": "Dead Rising 4",
+     "j": 2016
+    },
+    {
+     "k": "3",
+     "t": "Gears of War: Ultimate Edition",
+     "j": 2015
+    },
+    {
+     "k": "4",
+     "t": "Gears of War 4",
+     "j": 2016
+    },
+    {
+     "k": "5",
+     "t": "Halo 5: Guardians",
+     "j": 2015
+    },
+    {
+     "k": "6",
+     "t": "Halo: The Master Chief Collection",
+     "j": 2014
+    },
+    {
+     "k": "7",
+     "t": "Killer Instinct",
+     "j": 2013
+    },
+    {
+     "k": "8",
+     "t": "Project Spark",
+     "j": 2014
+    },
+    {
+     "k": "9",
+     "t": "Quantum Break",
+     "j": 2016
+    },
+    {
+     "k": "10",
+     "t": "Rare Replay",
+     "j": 2015,
+     "b": "Verzamelbundel met dertig spellen van Rare"
+    },
+    {
+     "k": "11",
+     "t": "Rise of the Tomb Raider",
+     "j": 2016
+    },
+    {
+     "k": "12",
+     "t": "Sunset Overdrive",
+     "j": 2014
+    },
+    {
+     "k": "13",
+     "t": "Titanfall",
+     "j": 2014
+    },
+    {
+     "k": "14",
+     "t": "Zombie Army Trilogy",
+     "j": 2015
+    }
+   ]
+  },
+  {
+   "id": "games-nintendo-64",
+   "groep": "Nintendo",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "Nintendo 64",
+   "auteur": "Nintendo · 1997-",
+   "type": "game",
+   "kleur": "#6B4A8E",
+   "motief": "pixel",
+   "bron": "gelezen van een foto van je kast op 30/08/2026. Voorlopig staat hier alleen de doos die naast je NESPi lag; stuur een foto van de rest van je N64-spellen en ik vul aan.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Diddy Kong Racing",
+     "j": 1997,
+     "b": "De doos die bovenop de kast naast de NESPi stond"
+    },
+    {
+     "k": "2",
+     "t": "Donkey Kong 64",
+     "j": 1999
+    }
+   ]
+  },
+  {
+   "id": "games-nintendo-gamecube",
+   "groep": "Nintendo",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "Nintendo GameCube",
+   "auteur": "Nintendo · 2002-2005",
+   "type": "game",
+   "kleur": "#4B3B8E",
+   "motief": "pixel",
+   "bron": "gelezen van vijf foto's van je eigen kast op 30/08/2026. De jaartallen zijn die van de Europese uitgave. Twijfelgevallen staan bij het spel zelf vermeld.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Disney's Donald Duck: Quack Attack",
+     "j": 2002
+    },
+    {
+     "k": "2",
+     "t": "Eternal Darkness: Sanity's Requiem",
+     "j": 2003
+    },
+    {
+     "k": "3",
+     "t": "Harry Potter en de Geheime Kamer",
+     "j": 2003
+    },
+    {
+     "k": "4",
+     "t": "Harry Potter and the Prisoner of Azkaban",
+     "j": 2004
+    },
+    {
+     "k": "5",
+     "t": "Star Fox Adventures",
+     "j": 2003
+    }
+   ]
+  },
+  {
+   "id": "games-nintendo-switch",
+   "groep": "Nintendo",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "Nintendo Switch",
+   "auteur": "Nintendo · 2017-2025",
+   "type": "game",
+   "kleur": "#B0301F",
+   "motief": "pixel",
+   "bron": "gelezen van vijf foto's van je eigen kast op 30/08/2026. De jaartallen zijn die van de Europese uitgave. Twijfelgevallen staan bij het spel zelf vermeld.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Astral Chain",
+     "j": 2019
+    },
+    {
+     "k": "2",
+     "t": "Bayonetta + Bayonetta 2",
+     "j": 2018,
+     "b": "Dubbelpak"
+    },
+    {
+     "k": "3",
+     "t": "Bayonetta 3",
+     "j": 2022
+    },
+    {
+     "k": "4",
+     "t": "Captain Toad: Treasure Tracker",
+     "j": 2018
+    },
+    {
+     "k": "5",
+     "t": "Cuphead",
+     "j": 2020
+    },
+    {
+     "k": "6",
+     "t": "Disney Illusion Island",
+     "j": 2023
+    },
+    {
+     "k": "7",
+     "t": "Donkey Kong Country: Tropical Freeze",
+     "j": 2018
+    },
+    {
+     "k": "8",
+     "t": "Hyrule Warriors: Definitive Edition",
+     "j": 2018
+    },
+    {
+     "k": "9",
+     "t": "Luigi's Mansion 3",
+     "j": 2019
+    },
+    {
+     "k": "10",
+     "t": "Mario Kart 8 Deluxe",
+     "j": 2017,
+     "b": "Je hebt hier twee exemplaren van staan"
+    },
+    {
+     "k": "11",
+     "t": "Mario Party Superstars",
+     "j": 2021
+    },
+    {
+     "k": "12",
+     "t": "Mario Tennis Aces",
+     "j": 2018
+    },
+    {
+     "k": "13",
+     "t": "Mario + Rabbids Kingdom Battle",
+     "j": 2017
+    },
+    {
+     "k": "14",
+     "t": "Metroid Dread",
+     "j": 2021
+    },
+    {
+     "k": "15",
+     "t": "Metroid Prime Remastered",
+     "j": 2023
+    },
+    {
+     "k": "16",
+     "t": "New Super Mario Bros. U Deluxe",
+     "j": 2019
+    },
+    {
+     "k": "17",
+     "t": "Nintendo Switch Sports",
+     "j": 2022
+    },
+    {
+     "k": "18",
+     "t": "Paper Mario: The Origami King",
+     "j": 2020
+    },
+    {
+     "k": "19",
+     "t": "Pikmin 4",
+     "j": 2023
+    },
+    {
+     "k": "20",
+     "t": "Pokemon: Let's Go, Eevee!",
+     "j": 2018
+    },
+    {
+     "k": "21",
+     "t": "Pokemon Sword",
+     "j": 2019
+    },
+    {
+     "k": "22",
+     "t": "Splatoon 2",
+     "j": 2017
+    },
+    {
+     "k": "23",
+     "t": "Splatoon 3",
+     "j": 2022
+    },
+    {
+     "k": "24",
+     "t": "Super Mario 3D All-Stars",
+     "j": 2020
+    },
+    {
+     "k": "25",
+     "t": "Super Mario 3D World + Bowser's Fury",
+     "j": 2021
+    },
+    {
+     "k": "26",
+     "t": "Super Mario Bros. Wonder",
+     "j": 2023
+    },
+    {
+     "k": "27",
+     "t": "Super Mario Galaxy + Super Mario Galaxy 2",
+     "j": 2025
+    },
+    {
+     "k": "28",
+     "t": "Super Mario Odyssey",
+     "j": 2017
+    },
+    {
+     "k": "29",
+     "t": "Super Mario Party",
+     "j": 2018
+    },
+    {
+     "k": "30",
+     "t": "Super Mario Party Jamboree",
+     "j": 2024
+    },
+    {
+     "k": "31",
+     "t": "Super Mario RPG",
+     "j": 2023
+    },
+    {
+     "k": "32",
+     "t": "Super Smash Bros. Ultimate",
+     "j": 2018
+    },
+    {
+     "k": "33",
+     "t": "The Legend of Zelda: Skyward Sword HD",
+     "j": 2021
+    },
+    {
+     "k": "34",
+     "t": "The Legend of Zelda: Tears of the Kingdom",
+     "j": 2023
+    },
+    {
+     "k": "35",
+     "t": "WarioWare: Move It!",
+     "j": 2023
+    },
+    {
+     "k": "36",
+     "t": "Yoshi's Crafted World",
+     "j": 2019
+    }
+   ]
+  },
+  {
+   "id": "games-nintendo-switch-2",
+   "groep": "Nintendo",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "Nintendo Switch 2",
+   "auteur": "Nintendo · 2026-",
+   "type": "game",
+   "kleur": "#8E1B1B",
+   "motief": "pixel",
+   "bron": "gelezen van een kastfoto op 30/08/2026; de uitgavedatum is nagekeken bij Nintendo",
+   "items": [
+    {
+     "k": "1",
+     "t": "Star Fox",
+     "j": 2026,
+     "b": "Exclusief voor Switch 2, verschenen op 25 juni 2026"
+    },
+    {
+     "k": "2",
+     "t": "Mario Kart World",
+     "j": 2025,
+     "b": "Lanceertitel van de Switch 2, 5 juni 2025"
+    },
+    {
+     "k": "3",
+     "t": "Donkey Kong Bananza",
+     "j": 2025,
+     "b": "Verschenen op 17 juli 2025"
+    }
+   ]
+  },
+  {
+   "id": "games-nintendo-wii",
+   "groep": "Nintendo",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "Nintendo Wii",
+   "auteur": "Nintendo · 2007-2011",
+   "type": "game",
+   "kleur": "#3F6B8E",
+   "motief": "pixel",
+   "bron": "gelezen van vijf foto's van je eigen kast op 30/08/2026. De jaartallen zijn die van de Europese uitgave. Twijfelgevallen staan bij het spel zelf vermeld.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Bully: Scholarship Edition",
+     "j": 2008
+    },
+    {
+     "k": "2",
+     "t": "Disney Epic Mickey",
+     "j": 2010
+    },
+    {
+     "k": "3",
+     "t": "GoldenEye 007",
+     "j": 2010
+    },
+    {
+     "k": "4",
+     "t": "The House of the Dead: Overkill",
+     "j": 2009
+    },
+    {
+     "k": "5",
+     "t": "Kirby's Epic Yarn",
+     "j": 2011
+    },
+    {
+     "k": "6",
+     "t": "MadWorld",
+     "j": 2009
+    },
+    {
+     "k": "7",
+     "t": "Metroid: Other M",
+     "j": 2010
+    },
+    {
+     "k": "8",
+     "t": "Metroid Prime 3: Corruption",
+     "j": 2007
+    },
+    {
+     "k": "9",
+     "t": "Red Steel 2",
+     "j": 2010
+    },
+    {
+     "k": "10",
+     "t": "Super Mario All-Stars: Super Mario History 1985-2010",
+     "j": 2010,
+     "b": "De rode jubileumuitgave"
+    },
+    {
+     "k": "11",
+     "t": "Super Mario Galaxy",
+     "j": 2007
+    },
+    {
+     "k": "12",
+     "t": "Super Mario Galaxy 2",
+     "j": 2010
+    },
+    {
+     "k": "13",
+     "t": "Super Smash Bros. Brawl",
+     "j": 2008
+    },
+    {
+     "k": "14",
+     "t": "Wii Sports Resort",
+     "j": 2009
+    }
+   ]
+  },
+  {
+   "id": "games-nintendo-wii-u",
+   "groep": "Nintendo",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "Nintendo Wii U",
+   "auteur": "Nintendo · 2012-2016",
+   "type": "game",
+   "kleur": "#1F6B7A",
+   "motief": "pixel",
+   "bron": "gelezen van vijf foto's van je eigen kast op 30/08/2026. De jaartallen zijn die van de Europese uitgave. Twijfelgevallen staan bij het spel zelf vermeld.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Bayonetta",
+     "j": 2014,
+     "b": "Losse uitgave; zat oorspronkelijk ook bij Bayonetta 2"
+    },
+    {
+     "k": "2",
+     "t": "Bayonetta 2",
+     "j": 2014
+    },
+    {
+     "k": "3",
+     "t": "Disney Infinity",
+     "j": 2013
+    },
+    {
+     "k": "4",
+     "t": "Game & Wario",
+     "j": 2013
+    },
+    {
+     "k": "5",
+     "t": "Hyrule Warriors",
+     "j": 2014
+    },
+    {
+     "k": "6",
+     "t": "LEGO City Undercover",
+     "j": 2013
+    },
+    {
+     "k": "7",
+     "t": "Mario Kart 8",
+     "j": 2014
+    },
+    {
+     "k": "8",
+     "t": "Mario vs. Donkey Kong: Tipping Stars",
+     "j": 2015,
+     "b": "Doosje met downloadcode"
+    },
+    {
+     "k": "9",
+     "t": "Nintendo Land",
+     "j": 2012
+    },
+    {
+     "k": "10",
+     "t": "Pikmin 3",
+     "j": 2013
+    },
+    {
+     "k": "11",
+     "t": "Rayman Legends",
+     "j": 2013
+    },
+    {
+     "k": "12",
+     "t": "Splatoon",
+     "j": 2015
+    },
+    {
+     "k": "13",
+     "t": "Star Fox Zero",
+     "j": 2016
+    },
+    {
+     "k": "14",
+     "t": "Super Smash Bros. for Wii U",
+     "j": 2014
+    },
+    {
+     "k": "15",
+     "t": "The Legend of Zelda: Twilight Princess HD",
+     "j": 2016
+    },
+    {
+     "k": "16",
+     "t": "The Wonderful 101",
+     "j": 2013
+    },
+    {
+     "k": "17",
+     "t": "ZombiU",
+     "j": 2012
+    }
+   ]
+  },
+  {
+   "id": "games-pc",
+   "groep": "PC",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "PC",
+   "auteur": "PC · 2018-",
+   "type": "game",
+   "kleur": "#5C4E86",
+   "motief": "pixel",
+   "bron": "gelezen van een kastfoto op 30/08/2026; voorlopig een pc-doos gezien",
+   "items": [
+    {
+     "k": "1",
+     "t": "Assassin's Creed Odyssey",
+     "j": 2018,
+     "b": "De pc-doos die naast de PlayStation-versie stond"
+    }
+   ]
+  },
+  {
+   "id": "games-playstation-3",
+   "groep": "Sony",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "PlayStation 3",
+   "auteur": "Sony · 2007-2014",
+   "type": "game",
+   "kleur": "#2A2A33",
+   "motief": "pixel",
+   "bron": "gelezen van vijf foto's van je eigen kast op 30/08/2026. De jaartallen zijn die van de Europese uitgave. Twijfelgevallen staan bij het spel zelf vermeld.",
+   "items": [
+    {
+     "k": "1",
+     "t": "007: Blood Stone",
+     "j": 2010
+    },
+    {
+     "k": "2",
+     "t": "007: Quantum of Solace",
+     "j": 2008
+    },
+    {
+     "k": "3",
+     "t": "50 Cent: Blood on the Sand",
+     "j": 2009
+    },
+    {
+     "k": "4",
+     "t": "Afro Samurai",
+     "j": 2009
+    },
+    {
+     "k": "5",
+     "t": "Alice: Madness Returns",
+     "j": 2011
+    },
+    {
+     "k": "6",
+     "t": "Army of Two",
+     "j": 2008,
+     "b": "Kan ook The 40th Day zijn; het rugje was niet volledig leesbaar"
+    },
+    {
+     "k": "7",
+     "t": "Assassin's Creed II",
+     "j": 2009
+    },
+    {
+     "k": "8",
+     "t": "Assassin's Creed: Brotherhood",
+     "j": 2010,
+     "b": "De grote Collector's Edition in kartonnen doos"
+    },
+    {
+     "k": "9",
+     "t": "Assassin's Creed: Revelations",
+     "j": 2011
+    },
+    {
+     "k": "10",
+     "t": "Assassin's Creed III",
+     "j": 2012
+    },
+    {
+     "k": "11",
+     "t": "Assassin's Creed Rogue",
+     "j": 2014
+    },
+    {
+     "k": "12",
+     "t": "Brutal Legend",
+     "j": 2009
+    },
+    {
+     "k": "13",
+     "t": "Buzz!: Quiz TV",
+     "j": 2008
+    },
+    {
+     "k": "14",
+     "t": "Call of Duty: Black Ops",
+     "j": 2010
+    },
+    {
+     "k": "15",
+     "t": "Call of Duty: Black Ops II",
+     "j": 2012
+    },
+    {
+     "k": "16",
+     "t": "Call of Juarez: Bound in Blood",
+     "j": 2009
+    },
+    {
+     "k": "17",
+     "t": "Castlevania: Lords of Shadow 2",
+     "j": 2014
+    },
+    {
+     "k": "18",
+     "t": "Catherine",
+     "j": 2012
+    },
+    {
+     "k": "19",
+     "t": "Clive Barker's Jericho",
+     "j": 2007,
+     "b": "Titel nog te bevestigen"
+    },
+    {
+     "k": "20",
+     "t": "Condemned 2",
+     "j": 2008
+    },
+    {
+     "k": "21",
+     "t": "Crysis 3",
+     "j": 2013,
+     "b": "Hunter Edition"
+    },
+    {
+     "k": "22",
+     "t": "Dante's Inferno",
+     "j": 2010,
+     "b": "Death Edition"
+    },
+    {
+     "k": "23",
+     "t": "Dark Sector",
+     "j": 2008
+    },
+    {
+     "k": "24",
+     "t": "Dead Space",
+     "j": 2008
+    },
+    {
+     "k": "25",
+     "t": "Dead Space 2",
+     "j": 2011,
+     "b": "Collector's Edition"
+    },
+    {
+     "k": "26",
+     "t": "Deus Ex: Human Revolution",
+     "j": 2011,
+     "b": "Augmented Edition"
+    },
+    {
+     "k": "27",
+     "t": "Dragon Age: Origins",
+     "j": 2009
+    },
+    {
+     "k": "28",
+     "t": "Enslaved: Odyssey to the West",
+     "j": 2010,
+     "b": "Collector's Edition"
+    },
+    {
+     "k": "29",
+     "t": "Far Cry 2",
+     "j": 2008
+    },
+    {
+     "k": "30",
+     "t": "Grand Theft Auto IV",
+     "j": 2008
+    },
+    {
+     "k": "31",
+     "t": "Heavenly Sword",
+     "j": 2007
+    },
+    {
+     "k": "32",
+     "t": "Hitman",
+     "j": 2012,
+     "b": "Vermoedelijk Absolution; het rugje vermeldde alleen Hitman"
+    },
+    {
+     "k": "33",
+     "t": "ICO & Shadow of the Colossus Classics HD",
+     "j": 2011
+    },
+    {
+     "k": "34",
+     "t": "inFamous",
+     "j": 2009,
+     "b": "Special Edition"
+    },
+    {
+     "k": "35",
+     "t": "inFamous 2",
+     "j": 2011
+    },
+    {
+     "k": "36",
+     "t": "Just Cause 2",
+     "j": 2010,
+     "b": "Limited Edition"
+    },
+    {
+     "k": "37",
+     "t": "Killzone 2",
+     "j": 2009
+    },
+    {
+     "k": "38",
+     "t": "Killzone 3",
+     "j": 2011
+    },
+    {
+     "k": "39",
+     "t": "Lair",
+     "j": 2007
+    },
+    {
+     "k": "40",
+     "t": "LittleBigPlanet",
+     "j": 2008
+    },
+    {
+     "k": "41",
+     "t": "LittleBigPlanet 2",
+     "j": 2011
+    },
+    {
+     "k": "42",
+     "t": "Mass Effect 2",
+     "j": 2011
+    },
+    {
+     "k": "43",
+     "t": "Mass Effect 3",
+     "j": 2012
+    },
+    {
+     "k": "44",
+     "t": "Mercenaries 2: World in Flames",
+     "j": 2008
+    },
+    {
+     "k": "45",
+     "t": "Metal Gear Rising: Revengeance",
+     "j": 2013
+    },
+    {
+     "k": "46",
+     "t": "Mirror's Edge",
+     "j": 2008
+    },
+    {
+     "k": "47",
+     "t": "MotorStorm Apocalypse",
+     "j": 2011
+    },
+    {
+     "k": "48",
+     "t": "Prince of Persia",
+     "j": 2008
+    },
+    {
+     "k": "49",
+     "t": "Prince of Persia Trilogy",
+     "j": 2011
+    },
+    {
+     "k": "50",
+     "t": "Prince of Persia: The Forgotten Sands",
+     "j": 2010
+    },
+    {
+     "k": "51",
+     "t": "Prototype",
+     "j": 2009
+    },
+    {
+     "k": "52",
+     "t": "Prototype 2",
+     "j": 2012
+    },
+    {
+     "k": "53",
+     "t": "Ratchet & Clank: A Crack in Time",
+     "j": 2009,
+     "b": "Collector's Edition"
+    },
+    {
+     "k": "54",
+     "t": "Ratchet & Clank: All 4 One",
+     "j": 2011
+    },
+    {
+     "k": "55",
+     "t": "Ratchet & Clank: Nexus",
+     "j": 2013
+    },
+    {
+     "k": "56",
+     "t": "Ratchet & Clank: QForce",
+     "j": 2012
+    },
+    {
+     "k": "57",
+     "t": "Ratchet & Clank: Quest for Booty",
+     "j": 2008
+    },
+    {
+     "k": "58",
+     "t": "Ratchet and Clank: Tools of Destruction",
+     "j": 2007
+    },
+    {
+     "k": "59",
+     "t": "Rayman Origins",
+     "j": 2011
+    },
+    {
+     "k": "60",
+     "t": "Red Dead Redemption",
+     "j": 2010,
+     "b": "Limited Edition"
+    },
+    {
+     "k": "61",
+     "t": "Red Dead Redemption: Undead Nightmare",
+     "j": 2010
+    },
+    {
+     "k": "62",
+     "t": "Resistance: Fall of Man",
+     "j": 2007
+    },
+    {
+     "k": "63",
+     "t": "Saints Row: The Third",
+     "j": 2011
+    },
+    {
+     "k": "64",
+     "t": "Shadows of the Damned",
+     "j": 2011
+    },
+    {
+     "k": "65",
+     "t": "Spider-Man: Shattered Dimensions",
+     "j": 2010
+    },
+    {
+     "k": "66",
+     "t": "Splatterhouse",
+     "j": 2010
+    },
+    {
+     "k": "67",
+     "t": "The Bureau: XCOM Declassified",
+     "j": 2013
+    },
+    {
+     "k": "68",
+     "t": "The Godfather II",
+     "j": 2009
+    },
+    {
+     "k": "69",
+     "t": "The Jak and Daxter Trilogy",
+     "j": 2012
+    },
+    {
+     "k": "70",
+     "t": "The Ratchet & Clank Trilogy",
+     "j": 2012
+    },
+    {
+     "k": "71",
+     "t": "The Simpsons Game",
+     "j": 2007
+    },
+    {
+     "k": "72",
+     "t": "Vanquish",
+     "j": 2010
+    },
+    {
+     "k": "73",
+     "t": "Virtua Tennis 2009",
+     "j": 2009
+    },
+    {
+     "k": "74",
+     "t": "Warhammer 40,000: Space Marine",
+     "j": 2011
+    },
+    {
+     "k": "75",
+     "t": "X-Men Origins: Wolverine",
+     "j": 2009
+    },
+    {
+     "k": "76",
+     "t": "Beyond: Two Souls",
+     "j": 2013
+    },
+    {
+     "k": "77",
+     "t": "Heavy Rain",
+     "j": 2010
+    },
+    {
+     "k": "78",
+     "t": "Buzz! The Ultimate Music Quiz",
+     "j": 2010
+    },
+    {
+     "k": "79",
+     "t": "The Last of Us",
+     "j": 2013,
+     "b": "Ellie Edition, de hoge zwarte doos"
+    }
+   ]
+  },
+  {
+   "id": "games-playstation-4",
+   "groep": "Sony",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "PlayStation 4",
+   "auteur": "Sony · 2013-2014",
+   "type": "game",
+   "kleur": "#1D4E9C",
+   "motief": "pixel",
+   "bron": "gelezen van vijf foto's van je eigen kast op 30/08/2026. De jaartallen zijn die van de Europese uitgave. Twijfelgevallen staan bij het spel zelf vermeld.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Assassin's Creed IV: Black Flag",
+     "j": 2013
+    },
+    {
+     "k": "2",
+     "t": "Agents of Mayhem",
+     "j": 2017
+    },
+    {
+     "k": "3",
+     "t": "Assassin's Creed Chronicles",
+     "j": 2016
+    },
+    {
+     "k": "4",
+     "t": "Assassin's Creed Odyssey",
+     "j": 2018
+    },
+    {
+     "k": "5",
+     "t": "Assassin's Creed Origins",
+     "j": 2017,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "6",
+     "t": "Assassin's Creed Syndicate",
+     "j": 2015
+    },
+    {
+     "k": "7",
+     "t": "Assassin's Creed Unity",
+     "j": 2014
+    },
+    {
+     "k": "8",
+     "t": "Asterix & Obelix XXL Collection",
+     "j": 2020
+    },
+    {
+     "k": "9",
+     "t": "Batman: Arkham Knight",
+     "j": 2015
+    },
+    {
+     "k": "10",
+     "t": "Batman: The Telltale Series",
+     "j": 2016
+    },
+    {
+     "k": "11",
+     "t": "Biomutant",
+     "j": 2021
+    },
+    {
+     "k": "12",
+     "t": "BioShock: The Collection",
+     "j": 2016
+    },
+    {
+     "k": "13",
+     "t": "Bloodborne",
+     "j": 2015
+    },
+    {
+     "k": "14",
+     "t": "Borderlands 3",
+     "j": 2019
+    },
+    {
+     "k": "15",
+     "t": "Call of Duty: Advanced Warfare",
+     "j": 2014
+    },
+    {
+     "k": "16",
+     "t": "Call of Duty: Black Ops III",
+     "j": 2015
+    },
+    {
+     "k": "17",
+     "t": "Call of Duty: Ghosts",
+     "j": 2013
+    },
+    {
+     "k": "18",
+     "t": "Call of Duty: Infinite Warfare",
+     "j": 2016,
+     "b": "Legacy Pro Edition"
+    },
+    {
+     "k": "19",
+     "t": "Call of Duty: Modern Warfare",
+     "j": 2019
+    },
+    {
+     "k": "20",
+     "t": "Call of Duty: WWII",
+     "j": 2017
+    },
+    {
+     "k": "21",
+     "t": "Catherine: Full Body",
+     "j": 2019
+    },
+    {
+     "k": "22",
+     "t": "Child of Light",
+     "j": 2014,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "23",
+     "t": "Concrete Genie",
+     "j": 2019
+    },
+    {
+     "k": "24",
+     "t": "Crash Bandicoot 4: It's About Time",
+     "j": 2020
+    },
+    {
+     "k": "25",
+     "t": "Crysis Remastered Trilogy",
+     "j": 2021
+    },
+    {
+     "k": "26",
+     "t": "Cyberpunk 2077",
+     "j": 2020
+    },
+    {
+     "k": "27",
+     "t": "Darksiders: Warmastered Edition",
+     "j": 2016
+    },
+    {
+     "k": "28",
+     "t": "Darksiders II: Deathinitive Edition",
+     "j": 2015
+    },
+    {
+     "k": "29",
+     "t": "Darksiders III",
+     "j": 2018
+    },
+    {
+     "k": "30",
+     "t": "Deadpool",
+     "j": 2015
+    },
+    {
+     "k": "31",
+     "t": "Death Stranding",
+     "j": 2019
+    },
+    {
+     "k": "32",
+     "t": "Detroit: Become Human",
+     "j": 2018
+    },
+    {
+     "k": "33",
+     "t": "Deus Ex: Mankind Divided",
+     "j": 2016
+    },
+    {
+     "k": "34",
+     "t": "Dishonored: Definitive Edition",
+     "j": 2015
+    },
+    {
+     "k": "35",
+     "t": "Dishonored 2",
+     "j": 2016
+    },
+    {
+     "k": "36",
+     "t": "DmC: Devil May Cry - Definitive Edition",
+     "j": 2015
+    },
+    {
+     "k": "37",
+     "t": "Dreams",
+     "j": 2020
+    },
+    {
+     "k": "38",
+     "t": "Final Fantasy VII Remake",
+     "j": 2020
+    },
+    {
+     "k": "39",
+     "t": "Final Fantasy VIII Remastered",
+     "j": 2019
+    },
+    {
+     "k": "40",
+     "t": "Final Fantasy X / X-2 HD Remaster",
+     "j": 2015
+    },
+    {
+     "k": "41",
+     "t": "Final Fantasy XII: The Zodiac Age",
+     "j": 2017
+    },
+    {
+     "k": "42",
+     "t": "Final Fantasy XIV Online: The Complete Edition",
+     "j": 2019
+    },
+    {
+     "k": "43",
+     "t": "Final Fantasy Type-0 HD",
+     "j": 2015
+    },
+    {
+     "k": "44",
+     "t": "Five Nights at Freddy's: Core Collection",
+     "j": 2021
+    },
+    {
+     "k": "45",
+     "t": "Far Cry 4",
+     "j": 2014
+    },
+    {
+     "k": "46",
+     "t": "Far Cry 5",
+     "j": 2018,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "47",
+     "t": "Far Cry Primal",
+     "j": 2016
+    },
+    {
+     "k": "48",
+     "t": "Ghostbusters",
+     "j": 2016
+    },
+    {
+     "k": "49",
+     "t": "God of War",
+     "j": 2018
+    },
+    {
+     "k": "50",
+     "t": "Gravity Rush Remastered",
+     "j": 2016
+    },
+    {
+     "k": "51",
+     "t": "Gravity Rush 2",
+     "j": 2017
+    },
+    {
+     "k": "52",
+     "t": "Hellblade: Senua's Sacrifice",
+     "j": 2018
+    },
+    {
+     "k": "53",
+     "t": "Hitman: The Complete First Season",
+     "j": 2017
+    },
+    {
+     "k": "54",
+     "t": "Horizon Zero Dawn",
+     "j": 2017,
+     "b": "Limited Edition"
+    },
+    {
+     "k": "55",
+     "t": "inFAMOUS: First Light",
+     "j": 2014
+    },
+    {
+     "k": "56",
+     "t": "inFAMOUS: Second Son",
+     "j": 2014,
+     "b": "Collector's Edition"
+    },
+    {
+     "k": "57",
+     "t": "Injustice 2",
+     "j": 2017,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "58",
+     "t": "It Takes Two",
+     "j": 2021
+    },
+    {
+     "k": "59",
+     "t": "Jak and Daxter: The Precursor Legacy",
+     "j": 2017,
+     "b": "Limited Run-uitgave"
+    },
+    {
+     "k": "60",
+     "t": "Jak II",
+     "j": 2017,
+     "b": "Limited Run-uitgave"
+    },
+    {
+     "k": "61",
+     "t": "Jak 3",
+     "j": 2017,
+     "b": "Limited Run-uitgave"
+    },
+    {
+     "k": "62",
+     "t": "Jak X: Combat Racing",
+     "j": 2018,
+     "b": "Limited Run-uitgave"
+    },
+    {
+     "k": "63",
+     "t": "Journey",
+     "j": 2015,
+     "b": "Collector's Edition, met Flow en Flower erbij"
+    },
+    {
+     "k": "64",
+     "t": "Jurassic World Evolution",
+     "j": 2018
+    },
+    {
+     "k": "65",
+     "t": "Just Cause 3",
+     "j": 2015
+    },
+    {
+     "k": "66",
+     "t": "Just Cause 4",
+     "j": 2018
+    },
+    {
+     "k": "67",
+     "t": "Killzone: Shadow Fall",
+     "j": 2013
+    },
+    {
+     "k": "68",
+     "t": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+     "j": 2017
+    },
+    {
+     "k": "69",
+     "t": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
+     "j": 2017
+    },
+    {
+     "k": "70",
+     "t": "Kingdom Hearts III",
+     "j": 2019
+    },
+    {
+     "k": "71",
+     "t": "Knack",
+     "j": 2013
+    },
+    {
+     "k": "72",
+     "t": "Knack 2",
+     "j": 2017
+    },
+    {
+     "k": "73",
+     "t": "L.A. Noire",
+     "j": 2017
+    },
+    {
+     "k": "74",
+     "t": "Lara Croft and the Temple of Osiris",
+     "j": 2014
+    },
+    {
+     "k": "75",
+     "t": "Legend of Kay: Anniversary",
+     "j": 2015
+    },
+    {
+     "k": "76",
+     "t": "LEGO Batman 3: Beyond Gotham",
+     "j": 2014
+    },
+    {
+     "k": "77",
+     "t": "LEGO Dimensions",
+     "j": 2015
+    },
+    {
+     "k": "78",
+     "t": "LEGO Marvel Super Heroes",
+     "j": 2013
+    },
+    {
+     "k": "79",
+     "t": "LEGO The Hobbit",
+     "j": 2014
+    },
+    {
+     "k": "80",
+     "t": "LEGO Double Pack",
+     "j": 2016,
+     "b": "Welke twee spellen erin zitten kon ik niet lezen"
+    },
+    {
+     "k": "81",
+     "t": "Life is Strange",
+     "j": 2016,
+     "b": "Limited Edition"
+    },
+    {
+     "k": "82",
+     "t": "Life is Strange 2",
+     "j": 2019,
+     "b": "Limited Edition"
+    },
+    {
+     "k": "83",
+     "t": "LittleBigPlanet 3",
+     "j": 2014
+    },
+    {
+     "k": "84",
+     "t": "Little Nightmares",
+     "j": 2017,
+     "b": "Six Edition, in de metalen doos"
+    },
+    {
+     "k": "85",
+     "t": "Little Nightmares II",
+     "j": 2021
+    },
+    {
+     "k": "86",
+     "t": "Lords of the Fallen",
+     "j": 2014
+    },
+    {
+     "k": "87",
+     "t": "Mad Max",
+     "j": 2015
+    },
+    {
+     "k": "88",
+     "t": "Mafia: Trilogy",
+     "j": 2020
+    },
+    {
+     "k": "89",
+     "t": "Marvel's Avengers",
+     "j": 2020
+    },
+    {
+     "k": "90",
+     "t": "Marvel's Guardians of the Galaxy",
+     "j": 2021
+    },
+    {
+     "k": "91",
+     "t": "Marvel's Spider-Man",
+     "j": 2018,
+     "b": "Special Edition"
+    },
+    {
+     "k": "92",
+     "t": "Mass Effect: Legendary Edition",
+     "j": 2021
+    },
+    {
+     "k": "93",
+     "t": "MediEvil",
+     "j": 2019
+    },
+    {
+     "k": "94",
+     "t": "Mega Man Legacy Collection",
+     "j": 2016
+    },
+    {
+     "k": "95",
+     "t": "Metal Gear Solid V: Ground Zeroes",
+     "j": 2014
+    },
+    {
+     "k": "96",
+     "t": "Metal Gear Solid V: The Phantom Pain",
+     "j": 2015
+    },
+    {
+     "k": "97",
+     "t": "Metro Redux",
+     "j": 2014
+    },
+    {
+     "k": "98",
+     "t": "Middle-earth: Shadow of Mordor",
+     "j": 2014
+    },
+    {
+     "k": "99",
+     "t": "Middle-earth: Shadow of War",
+     "j": 2017
+    },
+    {
+     "k": "100",
+     "t": "Mighty No. 9",
+     "j": 2016
+    },
+    {
+     "k": "101",
+     "t": "Minecraft: Story Mode",
+     "j": 2015
+    },
+    {
+     "k": "102",
+     "t": "Monster Hunter: World",
+     "j": 2018
+    },
+    {
+     "k": "103",
+     "t": "NieR Replicant ver.1.22474487139",
+     "j": 2021
+    },
+    {
+     "k": "104",
+     "t": "NieR: Automata",
+     "j": 2017
+    },
+    {
+     "k": "105",
+     "t": "Ninja Gaiden: Master Collection",
+     "j": 2021,
+     "b": "Japanse uitgave"
+    },
+    {
+     "k": "106",
+     "t": "Outlast Trinity",
+     "j": 2017
+    },
+    {
+     "k": "107",
+     "t": "PayDay 2: Crimewave Edition",
+     "j": 2015
+    },
+    {
+     "k": "108",
+     "t": "Persona 5 Strikers",
+     "j": 2021
+    },
+    {
+     "k": "109",
+     "t": "Ratchet & Clank",
+     "j": 2016
+    },
+    {
+     "k": "110",
+     "t": "Resident Evil: Origins Collection",
+     "j": 2016
+    },
+    {
+     "k": "111",
+     "t": "Resident Evil: Revelations 2",
+     "j": 2015
+    },
+    {
+     "k": "112",
+     "t": "Resident Evil 2",
+     "j": 2019
+    },
+    {
+     "k": "113",
+     "t": "Resident Evil 3",
+     "j": 2020
+    },
+    {
+     "k": "114",
+     "t": "Resident Evil 4",
+     "j": 2016
+    },
+    {
+     "k": "115",
+     "t": "Resident Evil 5",
+     "j": 2016
+    },
+    {
+     "k": "116",
+     "t": "Resident Evil 6",
+     "j": 2016
+    },
+    {
+     "k": "117",
+     "t": "Resident Evil VII: Biohazard",
+     "j": 2017
+    },
+    {
+     "k": "118",
+     "t": "Rise of the Tomb Raider",
+     "j": 2016,
+     "b": "20 Year Celebration"
+    },
+    {
+     "k": "119",
+     "t": "Saints Row",
+     "j": 2015,
+     "b": "Twee Saints Row-dozen naast elkaar; welke edities kon ik niet lezen"
+    },
+    {
+     "k": "120",
+     "t": "Saints Row (tweede doos)",
+     "j": 2015,
+     "b": "Zeg jij welke twee je hebt, dan verbeter ik ze"
+    },
+    {
+     "k": "121",
+     "t": "Shadow of the Colossus",
+     "j": 2018
+    },
+    {
+     "k": "122",
+     "t": "Shadow of the Tomb Raider",
+     "j": 2018
+    },
+    {
+     "k": "123",
+     "t": "Sherlock Holmes: The Devil's Daughter",
+     "j": 2016
+    },
+    {
+     "k": "124",
+     "t": "Sleeping Dogs: Definitive Edition",
+     "j": 2014
+    },
+    {
+     "k": "125",
+     "t": "Song of Horror",
+     "j": 2021,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "126",
+     "t": "South Park: The Fractured but Whole",
+     "j": 2017
+    },
+    {
+     "k": "127",
+     "t": "Spyro Reignited Trilogy",
+     "j": 2018
+    },
+    {
+     "k": "128",
+     "t": "Star Wars Battlefront",
+     "j": 2015
+    },
+    {
+     "k": "129",
+     "t": "Star Wars Battlefront II",
+     "j": 2017,
+     "b": "Elite Trooper Deluxe Edition"
+    },
+    {
+     "k": "130",
+     "t": "Star Wars Jedi: Fallen Order",
+     "j": 2019,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "131",
+     "t": "Star Wars Racer and Commando Combo",
+     "j": 2021
+    },
+    {
+     "k": "132",
+     "t": "Star Wars: Squadrons",
+     "j": 2020
+    },
+    {
+     "k": "133",
+     "t": "Subnautica",
+     "j": 2018
+    },
+    {
+     "k": "134",
+     "t": "Tearaway Unfolded",
+     "j": 2015
+    },
+    {
+     "k": "135",
+     "t": "The Dark Pictures Anthology: Little Hope",
+     "j": 2020
+    },
+    {
+     "k": "136",
+     "t": "The Dark Pictures Anthology: Man of Medan",
+     "j": 2019
+    },
+    {
+     "k": "137",
+     "t": "The Evil Within",
+     "j": 2014,
+     "b": "Limited Edition"
+    },
+    {
+     "k": "138",
+     "t": "The Evil Within 2",
+     "j": 2017
+    },
+    {
+     "k": "139",
+     "t": "The Last Guardian",
+     "j": 2016
+    },
+    {
+     "k": "140",
+     "t": "The Last of Us Part II",
+     "j": 2020
+    },
+    {
+     "k": "141",
+     "t": "The Order: 1886",
+     "j": 2015
+    },
+    {
+     "k": "142",
+     "t": "The Walking Dead: A New Frontier",
+     "j": 2017
+    },
+    {
+     "k": "143",
+     "t": "The Walking Dead: The Complete First Season",
+     "j": 2014
+    },
+    {
+     "k": "144",
+     "t": "The Witcher 3: Wild Hunt",
+     "j": 2015
+    },
+    {
+     "k": "145",
+     "t": "The Witcher 3: Wild Hunt - Blood and Wine",
+     "j": 2016,
+     "b": "Uitbreiding"
+    },
+    {
+     "k": "146",
+     "t": "The Witcher 3: Wild Hunt - Hearts of Stone",
+     "j": 2015,
+     "b": "Uitbreiding"
+    },
+    {
+     "k": "147",
+     "t": "The Wolf Among Us",
+     "j": 2014
+    },
+    {
+     "k": "148",
+     "t": "Tom Clancy's Ghost Recon Wildlands",
+     "j": 2017,
+     "b": "Gold Edition"
+    },
+    {
+     "k": "149",
+     "t": "Tomb Raider",
+     "j": 2014,
+     "b": "Definitive Edition"
+    },
+    {
+     "k": "150",
+     "t": "Transformers: Devastation",
+     "j": 2015,
+     "b": "Titel nog te bevestigen"
+    },
+    {
+     "k": "151",
+     "t": "Tunic",
+     "j": 2023
+    },
+    {
+     "k": "152",
+     "t": "Watch Dogs",
+     "j": 2014
+    },
+    {
+     "k": "153",
+     "t": "Watch Dogs 2",
+     "j": 2016,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "154",
+     "t": "The Yakuza Remastered Collection",
+     "j": 2019
+    },
+    {
+     "k": "155",
+     "t": "Wolfenstein II: The New Colossus",
+     "j": 2017,
+     "b": "Welcome to Amerika-uitgave"
+    },
+    {
+     "k": "156",
+     "t": "Wolfenstein: The New Order",
+     "j": 2014,
+     "b": "Occupied Edition"
+    },
+    {
+     "k": "157",
+     "t": "Wolfenstein: The Old Blood",
+     "j": 2015
+    },
+    {
+     "k": "158",
+     "t": "Wolfenstein: Youngblood",
+     "j": 2019,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "159",
+     "t": "Yakuza 0",
+     "j": 2017
+    },
+    {
+     "k": "160",
+     "t": "Yakuza 6: The Song of Life",
+     "j": 2018
+    },
+    {
+     "k": "161",
+     "t": "Yakuza Kiwami",
+     "j": 2017
+    },
+    {
+     "k": "162",
+     "t": "Yakuza Kiwami 2",
+     "j": 2018
+    },
+    {
+     "k": "163",
+     "t": "Yooka-Laylee and the Impossible Lair",
+     "j": 2019
+    }
+   ]
+  },
+  {
+   "id": "games-playstation-5",
+   "groep": "Sony",
+   "rubriek": "games",
+   "taal": "en",
+   "naam": "PlayStation 5",
+   "auteur": "Sony · 2020-2026",
+   "type": "game",
+   "kleur": "#0B4FA0",
+   "motief": "pixel",
+   "bron": "gelezen van vijf kastfoto's op 30/08/2026; de jaartallen zijn die van de Europese uitgave",
+   "items": [
+    {
+     "k": "1",
+     "t": "007 First Light",
+     "j": 2026
+    },
+    {
+     "k": "2",
+     "t": "Alan Wake Remastered",
+     "j": 2021
+    },
+    {
+     "k": "3",
+     "t": "Alan Wake II",
+     "j": 2023,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "4",
+     "t": "Among Us",
+     "j": 2022,
+     "b": "Crewmate Edition"
+    },
+    {
+     "k": "5",
+     "t": "Armored Core VI: Fires of Rubicon",
+     "j": 2023
+    },
+    {
+     "k": "6",
+     "t": "Assassin's Creed Mirage",
+     "j": 2023,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "7",
+     "t": "Assassin's Creed Valhalla",
+     "j": 2020
+    },
+    {
+     "k": "8",
+     "t": "Assassin's Creed Valhalla: Dawn of Ragnarok",
+     "j": 2022
+    },
+    {
+     "k": "9",
+     "t": "Astro Bot",
+     "j": 2024
+    },
+    {
+     "k": "10",
+     "t": "Atomic Heart",
+     "j": 2023
+    },
+    {
+     "k": "11",
+     "t": "Avatar: Frontiers of Pandora",
+     "j": 2023,
+     "b": "Gold Edition"
+    },
+    {
+     "k": "12",
+     "t": "Babylon's Fall",
+     "j": 2022
+    },
+    {
+     "k": "13",
+     "t": "Back 4 Blood",
+     "j": 2021,
+     "b": "Special Edition"
+    },
+    {
+     "k": "14",
+     "t": "Baldur's Gate 3",
+     "j": 2023,
+     "b": "Deluxe Edition, de doos in boekvorm"
+    },
+    {
+     "k": "15",
+     "t": "Borderlands 4",
+     "j": 2025
+    },
+    {
+     "k": "16",
+     "t": "Bye Sweet Carole",
+     "j": 2025
+    },
+    {
+     "k": "17",
+     "t": "Call of Duty: Black Ops Cold War",
+     "j": 2020
+    },
+    {
+     "k": "18",
+     "t": "Call of Duty: Modern Warfare II",
+     "j": 2022
+    },
+    {
+     "k": "19",
+     "t": "Call of Duty: Vanguard",
+     "j": 2021
+    },
+    {
+     "k": "20",
+     "t": "Chernobylite",
+     "j": 2021
+    },
+    {
+     "k": "21",
+     "t": "Chorus",
+     "j": 2021
+    },
+    {
+     "k": "22",
+     "t": "Clair Obscur: Expedition 33",
+     "j": 2025
+    },
+    {
+     "k": "23",
+     "t": "Control",
+     "j": 2021,
+     "b": "Ultimate Edition"
+    },
+    {
+     "k": "24",
+     "t": "Crime Boss: Rockay City",
+     "j": 2023
+    },
+    {
+     "k": "25",
+     "t": "Crimson Desert",
+     "j": 2026
+    },
+    {
+     "k": "26",
+     "t": "Crisis Core: Final Fantasy VII Reunion",
+     "j": 2022
+    },
+    {
+     "k": "27",
+     "t": "Cronos: The New Dawn",
+     "j": 2025
+    },
+    {
+     "k": "28",
+     "t": "Dead Island 2",
+     "j": 2023
+    },
+    {
+     "k": "29",
+     "t": "Dead Space",
+     "j": 2023
+    },
+    {
+     "k": "30",
+     "t": "Death Stranding Director's Cut",
+     "j": 2021
+    },
+    {
+     "k": "31",
+     "t": "Deathloop",
+     "j": 2021,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "32",
+     "t": "Devil May Cry 5",
+     "j": 2020,
+     "b": "Special Edition"
+    },
+    {
+     "k": "33",
+     "t": "Diablo IV",
+     "j": 2023
+    },
+    {
+     "k": "34",
+     "t": "Directive 8020",
+     "j": 2026
+    },
+    {
+     "k": "35",
+     "t": "Disney Epic Mickey: Rebrushed",
+     "j": 2024
+    },
+    {
+     "k": "36",
+     "t": "Doom: The Dark Ages",
+     "j": 2025
+    },
+    {
+     "k": "37",
+     "t": "Dragon Age: The Veilguard",
+     "j": 2024
+    },
+    {
+     "k": "38",
+     "t": "Dying Light 2 Stay Human",
+     "j": 2022,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "39",
+     "t": "Dynasty Warriors: Origins",
+     "j": 2025
+    },
+    {
+     "k": "40",
+     "t": "EA Sports FC 25",
+     "j": 2024
+    },
+    {
+     "k": "41",
+     "t": "Elden Ring",
+     "j": 2022
+    },
+    {
+     "k": "42",
+     "t": "Elden Ring Nightreign",
+     "j": 2025,
+     "b": "Seekers Edition"
+    },
+    {
+     "k": "43",
+     "t": "Evil West",
+     "j": 2022
+    },
+    {
+     "k": "44",
+     "t": "Far Cry 6",
+     "j": 2021
+    },
+    {
+     "k": "45",
+     "t": "Final Fantasy VII Rebirth",
+     "j": 2024
+    },
+    {
+     "k": "46",
+     "t": "Final Fantasy XVI",
+     "j": 2023
+    },
+    {
+     "k": "47",
+     "t": "Five Nights at Freddy's: Security Breach",
+     "j": 2022
+    },
+    {
+     "k": "48",
+     "t": "Forspoken",
+     "j": 2023
+    },
+    {
+     "k": "49",
+     "t": "Fort Solis",
+     "j": 2023,
+     "b": "Limited Edition"
+    },
+    {
+     "k": "50",
+     "t": "Gears of War: Reloaded",
+     "j": 2025
+    },
+    {
+     "k": "51",
+     "t": "Ghost of Tsushima Director's Cut",
+     "j": 2021
+    },
+    {
+     "k": "52",
+     "t": "Ghost of Yotei",
+     "j": 2025
+    },
+    {
+     "k": "53",
+     "t": "Ghostwire: Tokyo",
+     "j": 2022
+    },
+    {
+     "k": "54",
+     "t": "God of War Ragnarok",
+     "j": 2022
+    },
+    {
+     "k": "55",
+     "t": "Gotham Knights",
+     "j": 2022,
+     "b": "Special Edition"
+    },
+    {
+     "k": "56",
+     "t": "Grand Theft Auto V",
+     "j": 2022
+    },
+    {
+     "k": "57",
+     "t": "Hades",
+     "j": 2021
+    },
+    {
+     "k": "58",
+     "t": "Hell Is Us",
+     "j": 2025
+    },
+    {
+     "k": "59",
+     "t": "Horizon Forbidden West",
+     "j": 2022
+    },
+    {
+     "k": "60",
+     "t": "Immortals Fenyx Rising",
+     "j": 2020
+    },
+    {
+     "k": "61",
+     "t": "Indiana Jones and the Great Circle",
+     "j": 2025,
+     "b": "Premium Edition"
+    },
+    {
+     "k": "62",
+     "t": "Judgment",
+     "j": 2021
+    },
+    {
+     "k": "63",
+     "t": "Kena: Bridge of Spirits",
+     "j": 2022,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "64",
+     "t": "LEGO Star Wars: The Skywalker Saga",
+     "j": 2022
+    },
+    {
+     "k": "65",
+     "t": "Lies of P",
+     "j": 2023
+    },
+    {
+     "k": "66",
+     "t": "Life is Strange Remastered Collection",
+     "j": 2022
+    },
+    {
+     "k": "67",
+     "t": "Life is Strange: Double Exposure",
+     "j": 2024
+    },
+    {
+     "k": "68",
+     "t": "Life is Strange: True Colors",
+     "j": 2021
+    },
+    {
+     "k": "69",
+     "t": "Like a Dragon: Ishin!",
+     "j": 2023
+    },
+    {
+     "k": "70",
+     "t": "Like a Dragon: Pirate Yakuza in Hawaii",
+     "j": 2025
+    },
+    {
+     "k": "71",
+     "t": "Little Nightmares III",
+     "j": 2025
+    },
+    {
+     "k": "72",
+     "t": "Lollipop Chainsaw RePOP",
+     "j": 2024
+    },
+    {
+     "k": "73",
+     "t": "Lost Judgment",
+     "j": 2021
+    },
+    {
+     "k": "74",
+     "t": "Mafia: The Old Country",
+     "j": 2025
+    },
+    {
+     "k": "75",
+     "t": "Martha Is Dead",
+     "j": 2022
+    },
+    {
+     "k": "76",
+     "t": "Marvel's Guardians of the Galaxy",
+     "j": 2021
+    },
+    {
+     "k": "77",
+     "t": "Marvel's Midnight Suns",
+     "j": 2022
+    },
+    {
+     "k": "78",
+     "t": "Marvel's Spider-Man 2",
+     "j": 2023
+    },
+    {
+     "k": "79",
+     "t": "Marvel's Spider-Man Remastered",
+     "j": 2020
+    },
+    {
+     "k": "80",
+     "t": "Marvel's Spider-Man: Miles Morales",
+     "j": 2020
+    },
+    {
+     "k": "81",
+     "t": "Metro Exodus",
+     "j": 2021
+    },
+    {
+     "k": "82",
+     "t": "Mortal Kombat 1",
+     "j": 2023
+    },
+    {
+     "k": "83",
+     "t": "Ninja Gaiden 4",
+     "j": 2025
+    },
+    {
+     "k": "84",
+     "t": "Ninja Gaiden: Ragebound",
+     "j": 2025
+    },
+    {
+     "k": "85",
+     "t": "One Piece Odyssey",
+     "j": 2023
+    },
+    {
+     "k": "86",
+     "t": "Oddworld: Soulstorm",
+     "j": 2021
+    },
+    {
+     "k": "87",
+     "t": "Pragmata",
+     "j": 2026
+    },
+    {
+     "k": "88",
+     "t": "Prince of Persia: The Lost Crown",
+     "j": 2024
+    },
+    {
+     "k": "89",
+     "t": "Ratchet & Clank: Rift Apart",
+     "j": 2021
+    },
+    {
+     "k": "90",
+     "t": "Resident Evil 4",
+     "j": 2023
+    },
+    {
+     "k": "91",
+     "t": "Resident Evil Village",
+     "j": 2021
+    },
+    {
+     "k": "92",
+     "t": "Returnal",
+     "j": 2021
+    },
+    {
+     "k": "93",
+     "t": "Rise of the Ronin",
+     "j": 2024
+    },
+    {
+     "k": "94",
+     "t": "RoboCop: Rogue City",
+     "j": 2023
+    },
+    {
+     "k": "95",
+     "t": "RoboCop: Rogue City - Unfinished Business",
+     "j": 2025
+    },
+    {
+     "k": "96",
+     "t": "Sackboy: A Big Adventure",
+     "j": 2020
+    },
+    {
+     "k": "97",
+     "t": "Saints Row",
+     "j": 2022,
+     "b": "Notorious Edition"
+    },
+    {
+     "k": "98",
+     "t": "Saros",
+     "j": 2026
+    },
+    {
+     "k": "99",
+     "t": "Scarlet Nexus",
+     "j": 2021
+    },
+    {
+     "k": "100",
+     "t": "Scorn",
+     "j": 2022,
+     "b": "Deluxe Edition"
+    },
+    {
+     "k": "101",
+     "t": "Sifu",
+     "j": 2022,
+     "b": "Vengeance Edition"
+    },
+    {
+     "k": "102",
+     "t": "Silent Hill 2",
+     "j": 2024
+    },
+    {
+     "k": "103",
+     "t": "Skull and Bones",
+     "j": 2024
+    },
+    {
+     "k": "104",
+     "t": "Star Wars Jedi: Survivor",
+     "j": 2023
+    },
+    {
+     "k": "105",
+     "t": "Star Wars Outlaws",
+     "j": 2024
+    },
+    {
+     "k": "106",
+     "t": "Stellar Blade",
+     "j": 2024
+    },
+    {
+     "k": "107",
+     "t": "Still Wakes the Deep",
+     "j": 2024
+    },
+    {
+     "k": "108",
+     "t": "Stray",
+     "j": 2022
+    },
+    {
+     "k": "109",
+     "t": "Subnautica: Below Zero",
+     "j": 2021
+    },
+    {
+     "k": "110",
+     "t": "Suicide Squad: Kill the Justice League",
+     "j": 2024
+    },
+    {
+     "k": "111",
+     "t": "Super Monkey Ball Banana Mania",
+     "j": 2021
+    },
+    {
+     "k": "112",
+     "t": "Tales of Arise",
+     "j": 2021
+    },
+    {
+     "k": "113",
+     "t": "The Callisto Protocol",
+     "j": 2022
+    },
+    {
+     "k": "114",
+     "t": "The Dark Pictures Anthology: House of Ashes",
+     "j": 2021
+    },
+    {
+     "k": "115",
+     "t": "The Dark Pictures Anthology: The Devil in Me",
+     "j": 2022
+    },
+    {
+     "k": "116",
+     "t": "The Last of Us Part II Remastered",
+     "j": 2024
+    },
+    {
+     "k": "117",
+     "t": "The Lord of the Rings: Gollum",
+     "j": 2023
+    },
+    {
+     "k": "118",
+     "t": "The Medium",
+     "j": 2021
+    },
+    {
+     "k": "119",
+     "t": "The Nioh Collection",
+     "j": 2021
+    },
+    {
+     "k": "120",
+     "t": "The Pathless",
+     "j": 2020
+    },
+    {
+     "k": "121",
+     "t": "A Plague Tale: Innocence",
+     "j": 2021
+    },
+    {
+     "k": "122",
+     "t": "The Quarry",
+     "j": 2022
+    },
+    {
+     "k": "123",
+     "t": "The Thing: Remastered",
+     "j": 2024
+    },
+    {
+     "k": "124",
+     "t": "Turok Trilogy Bundle",
+     "j": 2024
+    },
+    {
+     "k": "125",
+     "t": "Uncharted: Legacy of Thieves Collection",
+     "j": 2022,
+     "b": "Op het rugje staat Uncharted 4: A Thief's End"
+    },
+    {
+     "k": "126",
+     "t": "Warhammer 40,000: Space Marine 2",
+     "j": 2024
+    },
+    {
+     "k": "127",
+     "t": "Watch Dogs: Legion",
+     "j": 2020
+    },
+    {
+     "k": "128",
+     "t": "Wild Hearts",
+     "j": 2023
+    },
+    {
+     "k": "129",
+     "t": "Wo Long: Fallen Dynasty",
+     "j": 2023
+    },
+    {
+     "k": "130",
+     "t": "Yooka-Replaylee",
+     "j": 2025
+    },
+    {
+     "k": "131",
+     "t": "Onbekende roze doos",
+     "j": 2023,
+     "b": "Rugje niet leesbaar, stond tussen Star Wars Jedi Survivor en Star Wars Outlaws"
+    },
+    {
+     "k": "132",
+     "t": "Resident Evil Requiem",
+     "j": 2026
+    },
+    {
+     "k": "133",
+     "t": "Resonance: A Plague Tale Legacy",
+     "j": 2026
+    },
+    {
+     "k": "134",
+     "t": "Vampire: The Masquerade - Bloodlines 2",
+     "j": 2025,
+     "b": "Premium Edition"
+    },
+    {
+     "k": "135",
+     "t": "Kuifje Reporter: De Sigaren van de Farao",
+     "j": 2023,
+     "b": "Nederlandstalige uitgave"
+    }
+   ]
+  },
+  {
+   "id": "x-pre-historie-mtfmm1dq",
+   "groep": "Verzamelreeksen",
+   "rubriek": "muziek",
+   "taal": "nl",
+   "naam": "De Pre Historie",
+   "auteur": "diverse artiesten",
+   "type": "cd",
+   "kleur": "#7A3B8E",
+   "motief": "zon",
+   "bron": "Samengesteld uit de Discogs-databank, zowel de labelpagina De Pre Historie (label 511516, 275 releases) als de release- en masterzoekopdrachten, aangevuld en gecontroleerd met zoekresultaten van ultratop.be, bibliotheek.be, bol.com, specialcdshop.nl, themusicstore.be, musicbrainz.org en nieuwsberichten van showbizzsite.be (die de boxen van de jaren 70 uit 2018 en de jaren 60 Vol. 2 bevestigen). De Nederlandstalige Wikipedia-pagina kon niet worden opgehaald, alle domeinen buiten de zoekmachine gaven een blokkade, dus de reeksstructuur steunt in de eerste plaats op Discogs. ONZEKER: de exacte uitgavejaren van de boxen 200 Original Hits 1950-1959, 200 Original Hits 1960-1969, Original Hits 1960-1969 Vol. 2 en The Best Of De Pre Historie staan nergens vermeld en zijn hier afgeleid uit de reeks. ONZEKER: de box Oldies Collection 1950-1959 draagt op Discogs het jaar 1990 terwijl de losse jaargangen van de jaren 50 uit 1992 komen. ONZEKER: van De Pre Historie 1961 Vol. 2 staat op Discogs enkel een herperssing zonder jaar, 1993 is afgeleid uit de rest van de reeks. ONZEKER: de boxen De Pre Historie 60 en 70 bestaan in een versie uit 2010 en een deluxe versie uit 2011, en De Pre Historie 80 in een versie uit 2010 en een uit 2012, beide zijn opgenomen. NIET GEVONDEN: van de door u genoemde spin-offs Golden Oldies, Sixties, Seventies, Eighties, Party, Love Songs en Belgian Classics is in geen enkele bron een uitgave onder de naam De Pre Historie terug te vinden, ze zijn dus niet opgenomen. NIET OPGENOMEN: op hetzelfde label verschenen ook compilaties van Guy De Pre zonder de naam De Pre Historie in de titel, zoals Hits Om Dorst Van Te Krijgen uit 2002, Doet Beestig Deugd uit 2001 en Mag Ik Deze Dans Van U uit 2003. Er zijn geen jaargangen na 1999 verschenen.",
+   "items": [
+    {
+     "k": "1",
+     "t": "De Pre Historie 1950",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1950, deel van de jaren 50-reeks uit 1992"
+    },
+    {
+     "k": "2",
+     "t": "De Pre Historie 1951",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1951, deel van de jaren 50-reeks uit 1992"
+    },
+    {
+     "k": "3",
+     "t": "De Pre Historie 1952",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1952, deel van de jaren 50-reeks uit 1992"
+    },
+    {
+     "k": "4",
+     "t": "De Pre Historie 1953",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1953, deel van de jaren 50-reeks uit 1992"
+    },
+    {
+     "k": "5",
+     "t": "De Pre Historie 1954",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1954, deel van de jaren 50-reeks uit 1992"
+    },
+    {
+     "k": "6",
+     "t": "De Pre Historie 1955",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1955, deel van de jaren 50-reeks uit 1992"
+    },
+    {
+     "k": "7",
+     "t": "De Pre Historie 1956",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1956, deel van de jaren 50-reeks uit 1992"
+    },
+    {
+     "k": "8",
+     "t": "De Pre Historie 1957",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1957, deel van de jaren 50-reeks uit 1992"
+    },
+    {
+     "k": "9",
+     "t": "De Pre Historie 1958",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1958, deel van de jaren 50-reeks uit 1992"
+    },
+    {
+     "k": "10",
+     "t": "De Pre Historie 1959",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1959, deel van de jaren 50-reeks uit 1992"
+    },
+    {
+     "k": "11",
+     "t": "De Pre Historie 1960",
+     "j": 1990,
+     "b": "dubbel-cd met de hits van 1960, deel van de allereerste reeks uit 1990"
+    },
+    {
+     "k": "12",
+     "t": "De Pre Historie 1961",
+     "j": 1990,
+     "b": "dubbel-cd met de hits van 1961, deel van de allereerste reeks uit 1990"
+    },
+    {
+     "k": "13",
+     "t": "De Pre Historie 1962",
+     "j": 1990,
+     "b": "dubbel-cd met de hits van 1962, deel van de allereerste reeks uit 1990"
+    },
+    {
+     "k": "14",
+     "t": "De Pre Historie 1963",
+     "j": 1990,
+     "b": "dubbel-cd met de hits van 1963, deel van de allereerste reeks uit 1990"
+    },
+    {
+     "k": "15",
+     "t": "De Pre Historie 1964",
+     "j": 1990,
+     "b": "dubbel-cd met de hits van 1964, deel van de allereerste reeks uit 1990"
+    },
+    {
+     "k": "16",
+     "t": "De Pre Historie 1965",
+     "j": 1990,
+     "b": "dubbel-cd met de hits van 1965, deel van de allereerste reeks uit 1990"
+    },
+    {
+     "k": "17",
+     "t": "De Pre Historie 1966",
+     "j": 1990,
+     "b": "dubbel-cd met de hits van 1966, deel van de allereerste reeks uit 1990"
+    },
+    {
+     "k": "18",
+     "t": "De Pre Historie 1967",
+     "j": 1990,
+     "b": "dubbel-cd met de hits van 1967, deel van de allereerste reeks uit 1990"
+    },
+    {
+     "k": "19",
+     "t": "De Pre Historie 1968",
+     "j": 1990,
+     "b": "dubbel-cd met de hits van 1968, deel van de allereerste reeks uit 1990"
+    },
+    {
+     "k": "20",
+     "t": "De Pre Historie 1969",
+     "j": 1990,
+     "b": "dubbel-cd met de hits van 1969, deel van de allereerste reeks uit 1990"
+    },
+    {
+     "k": "21",
+     "t": "De Pre Historie 1970",
+     "j": 1991,
+     "b": "dubbel-cd met de hits van 1970, deel van de jaren 70-reeks uit 1991"
+    },
+    {
+     "k": "22",
+     "t": "De Pre Historie 1971",
+     "j": 1991,
+     "b": "dubbel-cd met de hits van 1971, deel van de jaren 70-reeks uit 1991"
+    },
+    {
+     "k": "23",
+     "t": "De Pre Historie 1972",
+     "j": 1991,
+     "b": "dubbel-cd met de hits van 1972, deel van de jaren 70-reeks uit 1991"
+    },
+    {
+     "k": "24",
+     "t": "De Pre Historie 1973",
+     "j": 1991,
+     "b": "dubbel-cd met de hits van 1973, deel van de jaren 70-reeks uit 1991"
+    },
+    {
+     "k": "25",
+     "t": "De Pre Historie 1974",
+     "j": 1991,
+     "b": "dubbel-cd met de hits van 1974, deel van de jaren 70-reeks uit 1991"
+    },
+    {
+     "k": "26",
+     "t": "De Pre Historie 1975",
+     "j": 1991,
+     "b": "dubbel-cd met de hits van 1975, deel van de jaren 70-reeks uit 1991"
+    },
+    {
+     "k": "27",
+     "t": "De Pre Historie 1976",
+     "j": 1991,
+     "b": "dubbel-cd met de hits van 1976, deel van de jaren 70-reeks uit 1991"
+    },
+    {
+     "k": "28",
+     "t": "De Pre Historie 1977",
+     "j": 1991,
+     "b": "dubbel-cd met de hits van 1977, deel van de jaren 70-reeks uit 1991"
+    },
+    {
+     "k": "29",
+     "t": "De Pre Historie 1978",
+     "j": 1991,
+     "b": "dubbel-cd met de hits van 1978, deel van de jaren 70-reeks uit 1991"
+    },
+    {
+     "k": "30",
+     "t": "De Pre Historie 1979",
+     "j": 1991,
+     "b": "dubbel-cd met de hits van 1979, deel van de jaren 70-reeks uit 1991"
+    },
+    {
+     "k": "31",
+     "t": "De Pre Historie 1980",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1980, deel van de jaren 80-reeks uit 1992"
+    },
+    {
+     "k": "32",
+     "t": "De Pre Historie 1981",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1981, deel van de jaren 80-reeks uit 1992"
+    },
+    {
+     "k": "33",
+     "t": "De Pre Historie 1982",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1982, deel van de jaren 80-reeks uit 1992"
+    },
+    {
+     "k": "34",
+     "t": "De Pre Historie 1983",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1983, deel van de jaren 80-reeks uit 1992"
+    },
+    {
+     "k": "35",
+     "t": "De Pre Historie 1984",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1984, deel van de jaren 80-reeks uit 1992"
+    },
+    {
+     "k": "36",
+     "t": "De Pre Historie 1985",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1985, deel van de jaren 80-reeks uit 1992"
+    },
+    {
+     "k": "37",
+     "t": "De Pre Historie 1986",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1986, deel van de jaren 80-reeks uit 1992"
+    },
+    {
+     "k": "38",
+     "t": "De Pre Historie 1987",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1987, deel van de jaren 80-reeks uit 1992"
+    },
+    {
+     "k": "39",
+     "t": "De Pre Historie 1988",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1988, deel van de jaren 80-reeks uit 1992"
+    },
+    {
+     "k": "40",
+     "t": "De Pre Historie 1989",
+     "j": 1992,
+     "b": "dubbel-cd met de hits van 1989, deel van de jaren 80-reeks uit 1992"
+    },
+    {
+     "k": "41",
+     "t": "De Pre Historie 1990",
+     "j": 2001,
+     "b": "dubbel-cd met de hits van 1990, deel van de jaren 90-reeks uit 2001"
+    },
+    {
+     "k": "42",
+     "t": "De Pre Historie 1991",
+     "j": 2001,
+     "b": "dubbel-cd met de hits van 1991, deel van de jaren 90-reeks uit 2001"
+    },
+    {
+     "k": "43",
+     "t": "De Pre Historie 1992",
+     "j": 2001,
+     "b": "dubbel-cd met de hits van 1992, deel van de jaren 90-reeks uit 2001"
+    },
+    {
+     "k": "44",
+     "t": "De Pre Historie 1993",
+     "j": 2001,
+     "b": "dubbel-cd met de hits van 1993, deel van de jaren 90-reeks uit 2001"
+    },
+    {
+     "k": "45",
+     "t": "De Pre Historie 1994",
+     "j": 2001,
+     "b": "dubbel-cd met de hits van 1994, deel van de jaren 90-reeks uit 2001"
+    },
+    {
+     "k": "46",
+     "t": "De Pre Historie 1995",
+     "j": 2001,
+     "b": "dubbel-cd met de hits van 1995, deel van de jaren 90-reeks uit 2001"
+    },
+    {
+     "k": "47",
+     "t": "De Pre Historie 1996",
+     "j": 2001,
+     "b": "dubbel-cd met de hits van 1996, deel van de jaren 90-reeks uit 2001"
+    },
+    {
+     "k": "48",
+     "t": "De Pre Historie 1997",
+     "j": 2001,
+     "b": "dubbel-cd met de hits van 1997, deel van de jaren 90-reeks uit 2001"
+    },
+    {
+     "k": "49",
+     "t": "De Pre Historie 1998",
+     "j": 2001,
+     "b": "dubbel-cd met de hits van 1998, deel van de jaren 90-reeks uit 2001"
+    },
+    {
+     "k": "50",
+     "t": "De Pre Historie 1999",
+     "j": 2001,
+     "b": "dubbel-cd met de hits van 1999, deel van de jaren 90-reeks uit 2001"
+    },
+    {
+     "k": "51",
+     "t": "De Pre Historie 1960 Vol. 2",
+     "j": 1993,
+     "b": "tweede dubbel-cd met nog meer hits van 1960"
+    },
+    {
+     "k": "52",
+     "t": "De Pre Historie 1961 Vol. 2",
+     "j": 1993,
+     "b": "tweede dubbel-cd met nog meer hits van 1961"
+    },
+    {
+     "k": "53",
+     "t": "De Pre Historie 1962 Vol. 2",
+     "j": 1993,
+     "b": "tweede dubbel-cd met nog meer hits van 1962"
+    },
+    {
+     "k": "54",
+     "t": "De Pre Historie 1963 Vol. 2",
+     "j": 1993,
+     "b": "tweede dubbel-cd met nog meer hits van 1963"
+    },
+    {
+     "k": "55",
+     "t": "De Pre Historie 1964 Vol. 2",
+     "j": 1993,
+     "b": "tweede dubbel-cd met nog meer hits van 1964"
+    },
+    {
+     "k": "56",
+     "t": "De Pre Historie 1965 Vol. 2",
+     "j": 1993,
+     "b": "tweede dubbel-cd met nog meer hits van 1965"
+    },
+    {
+     "k": "57",
+     "t": "De Pre Historie 1966 Vol. 2",
+     "j": 1993,
+     "b": "tweede dubbel-cd met nog meer hits van 1966"
+    },
+    {
+     "k": "58",
+     "t": "De Pre Historie 1967 Vol. 2",
+     "j": 1993,
+     "b": "tweede dubbel-cd met nog meer hits van 1967"
+    },
+    {
+     "k": "59",
+     "t": "De Pre Historie 1968 Vol. 2",
+     "j": 1993,
+     "b": "tweede dubbel-cd met nog meer hits van 1968"
+    },
+    {
+     "k": "60",
+     "t": "De Pre Historie 1969 Vol. 2",
+     "j": 1993,
+     "b": "tweede dubbel-cd met nog meer hits van 1969"
+    },
+    {
+     "k": "61",
+     "t": "De Pre Historie 1970 Volume 2",
+     "j": 1997,
+     "b": "tweede dubbel-cd met nog meer hits van 1970"
+    },
+    {
+     "k": "62",
+     "t": "De Pre Historie 1971 Volume 2",
+     "j": 1997,
+     "b": "tweede dubbel-cd met nog meer hits van 1971"
+    },
+    {
+     "k": "63",
+     "t": "De Pre Historie 1972 Volume 2",
+     "j": 1997,
+     "b": "tweede dubbel-cd met nog meer hits van 1972"
+    },
+    {
+     "k": "64",
+     "t": "De Pre Historie 1973 Volume 2",
+     "j": 1997,
+     "b": "tweede dubbel-cd met nog meer hits van 1973"
+    },
+    {
+     "k": "65",
+     "t": "De Pre Historie 1974 Volume 2",
+     "j": 1997,
+     "b": "tweede dubbel-cd met nog meer hits van 1974"
+    },
+    {
+     "k": "66",
+     "t": "De Pre Historie 1975 Volume 2",
+     "j": 1997,
+     "b": "tweede dubbel-cd met nog meer hits van 1975"
+    },
+    {
+     "k": "67",
+     "t": "De Pre Historie 1976 Volume 2",
+     "j": 1997,
+     "b": "tweede dubbel-cd met nog meer hits van 1976"
+    },
+    {
+     "k": "68",
+     "t": "De Pre Historie 1977 Volume 2",
+     "j": 1997,
+     "b": "tweede dubbel-cd met nog meer hits van 1977"
+    },
+    {
+     "k": "69",
+     "t": "De Pre Historie 1978 Volume 2",
+     "j": 1997,
+     "b": "tweede dubbel-cd met nog meer hits van 1978"
+    },
+    {
+     "k": "70",
+     "t": "De Pre Historie 1979 Volume 2",
+     "j": 1997,
+     "b": "tweede dubbel-cd met nog meer hits van 1979"
+    },
+    {
+     "k": "71",
+     "t": "De Pre Historie 1980 Volume 2",
+     "j": 1998,
+     "b": "tweede dubbel-cd met nog meer hits van 1980"
+    },
+    {
+     "k": "72",
+     "t": "De Pre Historie 1981 Volume 2",
+     "j": 1998,
+     "b": "tweede dubbel-cd met nog meer hits van 1981"
+    },
+    {
+     "k": "73",
+     "t": "De Pre Historie 1982 Volume 2",
+     "j": 1998,
+     "b": "tweede dubbel-cd met nog meer hits van 1982"
+    },
+    {
+     "k": "74",
+     "t": "De Pre Historie 1983 Volume 2",
+     "j": 1998,
+     "b": "tweede dubbel-cd met nog meer hits van 1983"
+    },
+    {
+     "k": "75",
+     "t": "De Pre Historie 1984 Volume 2",
+     "j": 1998,
+     "b": "tweede dubbel-cd met nog meer hits van 1984"
+    },
+    {
+     "k": "76",
+     "t": "De Pre Historie 1985 Volume 2",
+     "j": 1998,
+     "b": "tweede dubbel-cd met nog meer hits van 1985"
+    },
+    {
+     "k": "77",
+     "t": "De Pre Historie 1986 Volume 2",
+     "j": 1998,
+     "b": "tweede dubbel-cd met nog meer hits van 1986"
+    },
+    {
+     "k": "78",
+     "t": "De Pre Historie 1987 Volume 2",
+     "j": 1998,
+     "b": "tweede dubbel-cd met nog meer hits van 1987"
+    },
+    {
+     "k": "79",
+     "t": "De Pre Historie 1988 Volume 2",
+     "j": 1998,
+     "b": "tweede dubbel-cd met nog meer hits van 1988"
+    },
+    {
+     "k": "80",
+     "t": "De Pre Historie 1989 Volume 2",
+     "j": 1998,
+     "b": "tweede dubbel-cd met nog meer hits van 1989"
+    },
+    {
+     "k": "81",
+     "t": "De Pre Historie 1950 Volume 2",
+     "j": 1999,
+     "b": "tweede dubbel-cd met nog meer hits van 1950"
+    },
+    {
+     "k": "82",
+     "t": "De Pre Historie 1951 Volume 2",
+     "j": 1999,
+     "b": "tweede dubbel-cd met nog meer hits van 1951"
+    },
+    {
+     "k": "83",
+     "t": "De Pre Historie 1952 Volume 2",
+     "j": 1999,
+     "b": "tweede dubbel-cd met nog meer hits van 1952"
+    },
+    {
+     "k": "84",
+     "t": "De Pre Historie 1953 Volume 2",
+     "j": 1999,
+     "b": "tweede dubbel-cd met nog meer hits van 1953"
+    },
+    {
+     "k": "85",
+     "t": "De Pre Historie 1954 Volume 2",
+     "j": 1999,
+     "b": "tweede dubbel-cd met nog meer hits van 1954"
+    },
+    {
+     "k": "86",
+     "t": "De Pre Historie 1955 Volume 2",
+     "j": 1999,
+     "b": "tweede dubbel-cd met nog meer hits van 1955"
+    },
+    {
+     "k": "87",
+     "t": "De Pre Historie 1956 Volume 2",
+     "j": 1999,
+     "b": "tweede dubbel-cd met nog meer hits van 1956"
+    },
+    {
+     "k": "88",
+     "t": "De Pre Historie 1957 Volume 2",
+     "j": 1999,
+     "b": "tweede dubbel-cd met nog meer hits van 1957"
+    },
+    {
+     "k": "89",
+     "t": "De Pre Historie 1958 Volume 2",
+     "j": 1999,
+     "b": "tweede dubbel-cd met nog meer hits van 1958"
+    },
+    {
+     "k": "90",
+     "t": "De Pre Historie 1959 Volume 2",
+     "j": 1999,
+     "b": "tweede dubbel-cd met nog meer hits van 1959"
+    },
+    {
+     "k": "91",
+     "t": "De Pre Historie 1990 Volume 2",
+     "j": 2003,
+     "b": "tweede dubbel-cd met nog meer hits van 1990"
+    },
+    {
+     "k": "92",
+     "t": "De Pre Historie 1991 Volume 2",
+     "j": 2003,
+     "b": "tweede dubbel-cd met nog meer hits van 1991"
+    },
+    {
+     "k": "93",
+     "t": "De Pre Historie 1992 Volume 2",
+     "j": 2003,
+     "b": "tweede dubbel-cd met nog meer hits van 1992"
+    },
+    {
+     "k": "94",
+     "t": "De Pre Historie 1993 Volume 2",
+     "j": 2003,
+     "b": "tweede dubbel-cd met nog meer hits van 1993"
+    },
+    {
+     "k": "95",
+     "t": "De Pre Historie 1994 Volume 2",
+     "j": 2003,
+     "b": "tweede dubbel-cd met nog meer hits van 1994"
+    },
+    {
+     "k": "96",
+     "t": "De Pre Historie 1995 Volume 2",
+     "j": 2003,
+     "b": "tweede dubbel-cd met nog meer hits van 1995"
+    },
+    {
+     "k": "97",
+     "t": "De Pre Historie 1996 Volume 2",
+     "j": 2003,
+     "b": "tweede dubbel-cd met nog meer hits van 1996"
+    },
+    {
+     "k": "98",
+     "t": "De Pre Historie 1997 Volume 2",
+     "j": 2003,
+     "b": "tweede dubbel-cd met nog meer hits van 1997"
+    },
+    {
+     "k": "99",
+     "t": "De Pre Historie 1998 Volume 2",
+     "j": 2003,
+     "b": "tweede dubbel-cd met nog meer hits van 1998"
+    },
+    {
+     "k": "100",
+     "t": "De Pre Historie 1999 Volume 2",
+     "j": 2003,
+     "b": "tweede dubbel-cd met nog meer hits van 1999"
+    },
+    {
+     "k": "101",
+     "t": "De Pre Historie 1980 Volume 3",
+     "j": 2000,
+     "b": "derde dubbel-cd met nog meer hits van 1980"
+    },
+    {
+     "k": "102",
+     "t": "De Pre Historie 1981 Volume 3",
+     "j": 2000,
+     "b": "derde dubbel-cd met nog meer hits van 1981"
+    },
+    {
+     "k": "103",
+     "t": "De Pre Historie 1982 Volume 3",
+     "j": 2000,
+     "b": "derde dubbel-cd met nog meer hits van 1982"
+    },
+    {
+     "k": "104",
+     "t": "De Pre Historie 1983 Volume 3",
+     "j": 2000,
+     "b": "derde dubbel-cd met nog meer hits van 1983"
+    },
+    {
+     "k": "105",
+     "t": "De Pre Historie 1984 Volume 3",
+     "j": 2000,
+     "b": "derde dubbel-cd met nog meer hits van 1984"
+    },
+    {
+     "k": "106",
+     "t": "De Pre Historie 1985 Volume 3",
+     "j": 2000,
+     "b": "derde dubbel-cd met nog meer hits van 1985"
+    },
+    {
+     "k": "107",
+     "t": "De Pre Historie 1986 Volume 3",
+     "j": 2000,
+     "b": "derde dubbel-cd met nog meer hits van 1986"
+    },
+    {
+     "k": "108",
+     "t": "De Pre Historie 1987 Volume 3",
+     "j": 2000,
+     "b": "derde dubbel-cd met nog meer hits van 1987"
+    },
+    {
+     "k": "109",
+     "t": "De Pre Historie 1988 Volume 3",
+     "j": 2000,
+     "b": "derde dubbel-cd met nog meer hits van 1988"
+    },
+    {
+     "k": "110",
+     "t": "De Pre Historie 1989 Volume 3",
+     "j": 2000,
+     "b": "derde dubbel-cd met nog meer hits van 1989"
+    },
+    {
+     "k": "111",
+     "t": "De Pre Historie Oldies Collection 1950-1959",
+     "j": 1990,
+     "b": "verzamelbox met de jaren 50-delen, jaar 1990 volgens Discogs terwijl de losse jaargangen 1992 dragen"
+    },
+    {
+     "k": "112",
+     "t": "De Pre Historie Oldies Collection 1955-1959",
+     "j": 1990,
+     "b": "box met de jaargangen 1955 tot 1959, op Discogs enkel als Oldies Collection 1955-1959 vermeld"
+    },
+    {
+     "k": "113",
+     "t": "De Pre Historie 200 Original Hits 1950-1959",
+     "j": 1992,
+     "b": "box met de tien jaargangen van de jaren 50, uitgavejaar niet gedocumenteerd"
+    },
+    {
+     "k": "114",
+     "t": "De Pre Historie 200 Original Hits 1960-1969",
+     "j": 1990,
+     "b": "box met de tien jaargangen van de jaren 60, uitgavejaar niet gedocumenteerd"
+    },
+    {
+     "k": "115",
+     "t": "De Pre Historie Original Hits 1960-1969 Vol. 2",
+     "j": 1993,
+     "b": "box met de tien Vol. 2-delen van de jaren 60, uitgavejaar niet gedocumenteerd"
+    },
+    {
+     "k": "116",
+     "t": "De Pre Historie Oldies Collection 196 Original Hits 1970-1979",
+     "j": 1991,
+     "b": "box met de tien jaargangen van de jaren 70"
+    },
+    {
+     "k": "117",
+     "t": "De Pre Historie 185 Original Hits 1980-1989",
+     "j": 1992,
+     "b": "box met de tien jaargangen van de jaren 80"
+    },
+    {
+     "k": "118",
+     "t": "De Pre Historie - De Jaren 70 Volume 2",
+     "j": 1997,
+     "b": "box met de tien Volume 2-delen van de jaren 70"
+    },
+    {
+     "k": "119",
+     "t": "De Pre Historie - De Jaren 80 Volume 2",
+     "j": 1998,
+     "b": "box met de tien Volume 2-delen van de jaren 80"
+    },
+    {
+     "k": "120",
+     "t": "De Pre Historie - De Jaren 50 Volume 2",
+     "j": 1999,
+     "b": "box met de tien Volume 2-delen van de jaren 50"
+    },
+    {
+     "k": "121",
+     "t": "De Pre Historie - De Jaren 80 Volume 3",
+     "j": 2000,
+     "b": "box met de tien Volume 3-delen van de jaren 80"
+    },
+    {
+     "k": "122",
+     "t": "De Pre Historie - De Jaren 90",
+     "j": 2001,
+     "b": "box met de tien jaargangen van de jaren 90"
+    },
+    {
+     "k": "123",
+     "t": "De Pre Historie - De Jaren 90 Volume 2",
+     "j": 2003,
+     "b": "box met de tien Volume 2-delen van de jaren 90"
+    },
+    {
+     "k": "124",
+     "t": "De Pre Historie 60",
+     "j": 2010,
+     "b": "cd-box met hits uit de jaren 60, uitgave van ARS Entertainment"
+    },
+    {
+     "k": "125",
+     "t": "De Pre Historie 70",
+     "j": 2010,
+     "b": "cd-box met hits uit de jaren 70, uitgave van ARS Entertainment"
+    },
+    {
+     "k": "126",
+     "t": "De Pre Historie 80",
+     "j": 2010,
+     "b": "cd-box met hits uit de jaren 80, uitgave van ARS Entertainment"
+    },
+    {
+     "k": "127",
+     "t": "De Pre Historie 60 (deluxe 10 cd-box)",
+     "j": 2011,
+     "b": "tien-cd deluxe box met hits uit de jaren 60, Universal Music Belgium en Radio 2"
+    },
+    {
+     "k": "128",
+     "t": "De Pre Historie 70 (deluxe 10 cd-box)",
+     "j": 2011,
+     "b": "tien-cd deluxe box met hits uit de jaren 70, Universal Music Belgium en Radio 2"
+    },
+    {
+     "k": "129",
+     "t": "De Pre Historie 80 (deluxe 10 cd-box)",
+     "j": 2012,
+     "b": "tien-cd deluxe box met hits uit de jaren 80, Universal Music Belgium"
+    },
+    {
+     "k": "130",
+     "t": "De Pre Historie 90 (deluxe 10 cd-box)",
+     "j": 2012,
+     "b": "tien-cd deluxe box met hits uit de jaren 90, Universal Music Belgium"
+    },
+    {
+     "k": "131",
+     "t": "De Pre Historie - De Jaren '60 (De Ultieme 10 CD Collectie)",
+     "j": 2017,
+     "b": "tien-cd box met tweehonderd nummers uit de jaren 60"
+    },
+    {
+     "k": "132",
+     "t": "De Pre Historie - De Jaren '70 (De Ultieme 10 CD Collectie)",
+     "j": 2018,
+     "b": "tien-cd box met tweehonderd nummers uit de jaren 70"
+    },
+    {
+     "k": "133",
+     "t": "De Pre Historie - De Jaren '70 Vol. 2 (De Ultieme 10 CD Collectie)",
+     "j": 2019,
+     "b": "tweede tien-cd box met nummers uit de jaren 70"
+    },
+    {
+     "k": "134",
+     "t": "De Pre Historie - De Jaren '80 (De Ultieme 10 CD Collectie)",
+     "j": 2019,
+     "b": "tien-cd box met tweehonderd nummers uit de jaren 80"
+    },
+    {
+     "k": "135",
+     "t": "De Pre Historie - De Jaren '60 Vol. 2 (De Ultieme 10 CD Collectie)",
+     "j": 2020,
+     "b": "tweede tien-cd box met nummers uit de jaren 60"
+    },
+    {
+     "k": "136",
+     "t": "De Pre Historie - De Jaren '60 Vol. 2 (De Ultieme 5 LP Vinyl Collectie)",
+     "j": 2020,
+     "b": "vinylversie op vijf lp's van de tweede jaren 60-box"
+    },
+    {
+     "k": "137",
+     "t": "De Pre Historie - De Jaren '80 Vol. 2 (De Ultieme 10 CD Collectie)",
+     "j": 2021,
+     "b": "tweede tien-cd box met nummers uit de jaren 80"
+    },
+    {
+     "k": "138",
+     "t": "De Pre Historie - De Jaren '80 Vol. 2 (De Ultieme 5 LP Collectie)",
+     "j": 2021,
+     "b": "vinylversie op vijf lp's van de tweede jaren 80-box"
+    },
+    {
+     "k": "139",
+     "t": "De Pre Historie - De Jaren '90 (De Ultieme 10 CD Collectie)",
+     "j": 2022,
+     "b": "tien-cd box met tweehonderd nummers uit de jaren 90"
+    },
+    {
+     "k": "140",
+     "t": "De Pre Historie - De Jaren '80 Vol. 3",
+     "j": 2024,
+     "b": "derde tien-cd box met nummers uit de jaren 80, voorlopig de jongste uitgave in de reeks"
+    },
+    {
+     "k": "141",
+     "t": "De Pre Historie - Muziek Uit De Oorlogsjaren '40-'45",
+     "j": 1994,
+     "b": "themadeel met muziek uit de oorlogsjaren 1940 tot 1945"
+    },
+    {
+     "k": "142",
+     "t": "De Pre Historie - Muziek Uit De Oorlogsjaren '40-'45 Vol. 2",
+     "j": 1994,
+     "b": "tweede themadeel met muziek uit de oorlogsjaren 1940 tot 1945"
+    },
+    {
+     "k": "143",
+     "t": "De Pre Historie - Vrolijk Kerstfeest",
+     "j": 1995,
+     "b": "kerstthemadeel met klassieke kerstsingles"
+    },
+    {
+     "k": "144",
+     "t": "De Pre Historie - 40 Jaar Songfestival",
+     "j": 1996,
+     "b": "themadeel rond veertig jaar Eurovisiesongfestival"
+    },
+    {
+     "k": "145",
+     "t": "Best Of De Pre Historie '50",
+     "j": 2002,
+     "b": "bloemlezing uit de jaargangen van de jaren 50"
+    },
+    {
+     "k": "146",
+     "t": "Best Of De Pre Historie '60",
+     "j": 2002,
+     "b": "bloemlezing uit de jaargangen van de jaren 60"
+    },
+    {
+     "k": "147",
+     "t": "Best Of De Pre Historie '70",
+     "j": 2002,
+     "b": "bloemlezing uit de jaargangen van de jaren 70"
+    },
+    {
+     "k": "148",
+     "t": "Best Of De Pre Historie '80",
+     "j": 2002,
+     "b": "bloemlezing uit de jaargangen van de jaren 80"
+    },
+    {
+     "k": "149",
+     "t": "Best Of De Pre Historie '90",
+     "j": 2002,
+     "b": "bloemlezing uit de jaargangen van de jaren 90"
+    },
+    {
+     "k": "150",
+     "t": "Best Of De Pre Historie (verzamelbox)",
+     "j": 2002,
+     "b": "box die de vijf Best Of-delen van de jaren 50 tot 90 bundelt"
+    },
+    {
+     "k": "151",
+     "t": "De Pre Historie - 75 Jaar Radiohits 30-40",
+     "j": 2005,
+     "b": "themadeel rond 75 jaar radio, met hits uit de jaren 30 en 40"
+    },
+    {
+     "k": "152",
+     "t": "De Pre Historie - 75 Jaar Radiohits 50-60",
+     "j": 2005,
+     "b": "themadeel rond 75 jaar radio, met hits uit de jaren 50 en 60"
+    },
+    {
+     "k": "153",
+     "t": "De Pre Historie - 75 Jaar Radiohits 70-80",
+     "j": 2005,
+     "b": "themadeel rond 75 jaar radio, met hits uit de jaren 70 en 80"
+    },
+    {
+     "k": "154",
+     "t": "De Pre Historie - 75 Jaar Radiohits 90-00",
+     "j": 2005,
+     "b": "themadeel rond 75 jaar radio, met hits uit de jaren 90 en 2000"
+    },
+    {
+     "k": "155",
+     "t": "De Pre Historie - Het Beste Uit de Jaren '70",
+     "j": 2006,
+     "b": "bloemlezing uit de jaren 70-delen"
+    },
+    {
+     "k": "156",
+     "t": "De Pre Historie - Het Beste Uit de Jaren '80",
+     "j": 2006,
+     "b": "bloemlezing uit de jaren 80-delen"
+    },
+    {
+     "k": "157",
+     "t": "De Pre Historie - Het Beste Uit de Jaren '90",
+     "j": 2006,
+     "b": "bloemlezing uit de jaren 90-delen"
+    },
+    {
+     "k": "158",
+     "t": "Het Beste Uit 40 Jaar De Pre Historie - 1960-2000",
+     "j": 2006,
+     "b": "vier-cd jubileumverzameling over veertig jaar hits van 1960 tot 2000"
+    },
+    {
+     "k": "159",
+     "t": "The Best Of De Pre Historie 70's",
+     "j": 2016,
+     "b": "dubbel-cd van Hot Town Music met hits uit de jaren 70"
+    },
+    {
+     "k": "160",
+     "t": "The Best Of De Pre Historie",
+     "j": 2016,
+     "b": "tien-cd box van Hot Town Music, uitgavejaar niet gedocumenteerd en hier geschat"
+    }
+   ]
+  },
+  {
    "id": "x-my-friend-dahmer-mtf45gek",
    "groep": "Abrams ComicArts",
    "rubriek": "strips",
