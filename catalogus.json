@@ -497,6 +497,122 @@
    ]
   },
   {
+   "id": "x2-barker-romans",
+   "groep": "Clive Barker",
+   "rubriek": "boeken",
+   "taal": "nl",
+   "naam": "Clive Barker: romans en verhalenbundels",
+   "auteur": "Clive Barker",
+   "type": "boek",
+   "kleur": "#3A1220",
+   "motief": "sleutelgat",
+   "bron": "De Boekenplank (deboekenplank.nl, Nederlandse titels met jaar van de Nederlandse uitgave) en Boekbeschrijvingen.nl geven dezelfde negen romans plus de twee Abarat-delen. Jaren van de originelen zijn nagerekend bij BoekMeter. De Nederlandse Boeken van bloed staan bij Bibliotheek.nl: eerst drie losse delen bij Luitingh en daarna een verzameluitgave van 1990 met ISBN 9024515866, met in 2001 een derde herziene druk van 959 bladzijden. Tunnel van de dood en andere verhalen is bevestigd bij LastDodo, Prins van de duisternis bij BoekenWebsite.nl. Het veld j is het jaar van de OORSPRONKELIJKE Engelse uitgave, behalve bij de Nederlandse verzameluitgave De boeken van bloed, want die bundel bestaat alleen in het Nederlands en krijgt daarom 1990. Onzeker en dus vermeld in plaats van verzwegen: de Nederlandse jaren van de drie losse bundels lopen per bron uiteen (1987 tot 1988), daarom staat het jaar van het Engelse origineel in j. WEGGELATEN omdat het geen soloboek van Barker is: Hellehart (Luitingh 1989) is de Nederlandse Night visions 3 en bevat naast The hellbound heart ook verhalen van Ramsey Campbell en Lisa Tuttle. NIET IN HET NEDERLANDS VERTAALD en daarom weggelaten: Abarat: Absolute Midnight (2011), The Scarlet Gospels (2015), Tortured Souls, Chiliad, de toneelbundels Incarnations en Forms of Heaven, en The adventures of Mr. Maximillian Bacchus. Zijn stripbundels zijn zoals gevraagd niet opgenomen.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Tunnel van de dood en andere verhalen",
+     "j": 1984,
+     "b": "Books of blood, volumes 1 en 2. Verhalenbundel"
+    },
+    {
+     "k": "2",
+     "t": "Prins van de duisternis en andere verhalen",
+     "j": 1984,
+     "b": "Books of blood, volumes 3 en 4. Verhalenbundel"
+    },
+    {
+     "k": "3",
+     "t": "Het boek van bloed",
+     "j": 1985,
+     "b": "Books of blood, volumes 5 en 6. Verhalenbundel met onder meer De Madonna en Vlees en bloed"
+    },
+    {
+     "k": "4",
+     "t": "Duivelsspel",
+     "j": 1985,
+     "b": "The damnation game. Roman"
+    },
+    {
+     "k": "5",
+     "t": "Weefwereld",
+     "j": 1987,
+     "b": "Weaveworld. Roman"
+    },
+    {
+     "k": "6",
+     "t": "Kabal: wezens van de nacht",
+     "j": 1988,
+     "b": "Cabal. Roman, verfilmd als Nightbreed"
+    },
+    {
+     "k": "7",
+     "t": "De grote geheime show",
+     "j": 1989,
+     "b": "The great and secret show. Roman, deel 1 van De boeken van de kunst"
+    },
+    {
+     "k": "8",
+     "t": "De boeken van bloed",
+     "j": 1990,
+     "b": "Books of blood 1 tot en met 6. Nederlandse verzameluitgave van de drie losse bundels, herziene druk in 2001"
+    },
+    {
+     "k": "9",
+     "t": "Imagica",
+     "j": 1991,
+     "b": "Imajica. Roman"
+    },
+    {
+     "k": "10",
+     "t": "De dief van altijd",
+     "j": 1992,
+     "b": "The thief of always. Roman voor jonge en volwassen lezers"
+    },
+    {
+     "k": "11",
+     "t": "Everville",
+     "j": 1994,
+     "b": "Everville. Roman, deel 2 van De boeken van de kunst"
+    },
+    {
+     "k": "12",
+     "t": "Sacrament",
+     "j": 1996,
+     "b": "Sacrament. Roman"
+    },
+    {
+     "k": "13",
+     "t": "Galilee",
+     "j": 1998,
+     "b": "Galilee. Roman"
+    },
+    {
+     "k": "14",
+     "t": "Coldheart Canyon",
+     "j": 2001,
+     "b": "Coldheart Canyon. Roman"
+    },
+    {
+     "k": "15",
+     "t": "Abarat",
+     "j": 2002,
+     "b": "Abarat. Roman, deel 1 van de Abarat-reeks"
+    },
+    {
+     "k": "16",
+     "t": "Abarat: Dagen vol magie, nachten vol strijd",
+     "j": 2004,
+     "b": "Abarat: days of magic, nights of war. Roman, deel 2 van de Abarat-reeks"
+    },
+    {
+     "k": "17",
+     "t": "Meneer W.E.G. Wezen",
+     "j": 2007,
+     "b": "Mister B. Gone. Roman"
+    }
+   ]
+  },
+  {
    "id": "x-robert-galbraith-mtf4wtvb",
    "groep": "Cormoran Strike",
    "rubriek": "boeken",
@@ -971,6 +1087,268 @@
      "t": "De buurman",
      "j": 2014,
      "b": "Novelle die bij De stad hoort. Origineel: The Neighbor (2014). Jaartal is dat van het origineel."
+    }
+   ]
+  },
+  {
+   "id": "x2-diverse-thrillers",
+   "groep": "Diverse auteurs",
+   "rubriek": "boeken",
+   "taal": "nl",
+   "naam": "Overige thrillerauteurs",
+   "auteur": "Diverse auteurs",
+   "type": "boek",
+   "kleur": "#1F2430",
+   "motief": "sleutelgat",
+   "bron": "Per auteur telkens twee bronnen. Tania Carver: Boekbeschrijvingen.nl en Uitgeverij De Fontein zelf, die allebei uitsluitend Insluiper en Gekooid als Nederlandse uitgaven noemen. Wulf Dorn: Boekbeschrijvingen.nl en Omero.nl, allebei precies dezelfde vijf titels. Stephen Lloyd Jones: Luitingh-Sijthoff en Hebban, allebei alleen Het boek Jakab. Sarah Lotz: Boekbeschrijvingen.nl, bol.com en Hebban. Linwood Barclay: De Boekenplank en Uitgelezen.com, aangevuld met Bibliotheek.be en bol.com voor de twee jeugdthrillers. Urban Waite: Boekbeschrijvingen.nl en Goodreads. Kevin Guilfoile: De Boekenplank en Boekbeschrijvingen.nl. Het veld j is het jaar van de OORSPRONKELIJKE uitgave, want dat was voor alle titels bij twee bronnen te bevestigen terwijl de Nederlandse jaren per bron verschillen. TWIJFELGEVAL: Boekbeschrijvingen.nl koppelt Kijk niet weg aan Never saw it coming, maar De Boekenplank koppelt het aan Never look away (2010), en dat laatste klopt met de verschijningsvolgorde, dus die versie staat hier. TWEE UITGAVEN VAN HETZELFDE BOEK: Des duivels (Van Holkema en Warendorf, 2006) en Moordenaar zonder gezicht (Marmer, 2012) zijn allebei Cast of shadows, ze staan er allebei in omdat het twee verschillende boeken in de kast zijn. NIET IN HET NEDERLANDS VERTAALD en daarom weggelaten: van Tania Carver The surrogate, Choked, The doll's house, Truth or dare en Heartbreaker; van Wulf Dorn onder meer Die Kinder en Kalter Fluss; van Stephen Lloyd Jones Written in the blood en The Disciple; van Sarah Lotz The white road, Missing person, Impossible en Day Zero; van Linwood Barclay de hele Zack Walker-reeks, de Promise Falls-trilogie Broken promise, Far from true en The twenty-three, en verder Clouded vision, Never saw it coming, Take your breath away, The lie maker en I will ruin you; van Urban Waite de verhalenbundel Don't look away, waarvan de losse verhalen alleen in het Engels bestaan; van Kevin Guilfoile de non-fictie.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Insluiper",
+     "j": 2010,
+     "b": "Tania Carver. The creeper, deel uit de reeks rond Phil Brennan en Marina Esposito"
+    },
+    {
+     "k": "2",
+     "t": "Gekooid",
+     "j": 2011,
+     "b": "Tania Carver. Cage of bones, reeks Brennan en Esposito"
+    },
+    {
+     "k": "3",
+     "t": "Trigger",
+     "j": 2009,
+     "b": "Wulf Dorn. Trigger, uit het Duits vertaald"
+    },
+    {
+     "k": "4",
+     "t": "IJzige stilte",
+     "j": 2010,
+     "b": "Wulf Dorn. Kalte Stille, eerste deel rond Jan Forstner"
+    },
+    {
+     "k": "5",
+     "t": "Waanzin",
+     "j": 2011,
+     "b": "Wulf Dorn. Dunkler Wahn, tweede deel rond Jan Forstner"
+    },
+    {
+     "k": "6",
+     "t": "Mijn zwarte hart",
+     "j": 2012,
+     "b": "Wulf Dorn. Mein boses Herz, thriller voor jonge lezers"
+    },
+    {
+     "k": "7",
+     "t": "Fobie",
+     "j": 2013,
+     "b": "Wulf Dorn. Phobia, op zichzelf staande thriller"
+    },
+    {
+     "k": "8",
+     "t": "Het boek Jakab",
+     "j": 2013,
+     "b": "Stephen Lloyd Jones. The string diaries, enige in het Nederlands vertaalde roman van deze auteur"
+    },
+    {
+     "k": "9",
+     "t": "De drie",
+     "j": 2014,
+     "b": "Sarah Lotz. The three, eerste deel van de reeks De drie"
+    },
+    {
+     "k": "10",
+     "t": "De vierde dag",
+     "j": 2015,
+     "b": "Sarah Lotz. Day four, tweede deel van de reeks De drie"
+    },
+    {
+     "k": "11",
+     "t": "Zonder een woord",
+     "j": 2007,
+     "b": "Linwood Barclay. No time for goodbye"
+    },
+    {
+     "k": "12",
+     "t": "Dicht bij huis",
+     "j": 2008,
+     "b": "Linwood Barclay. Too close to home"
+    },
+    {
+     "k": "13",
+     "t": "Vrees het ergste",
+     "j": 2009,
+     "b": "Linwood Barclay. Fear the worst"
+    },
+    {
+     "k": "14",
+     "t": "Kijk niet weg",
+     "j": 2010,
+     "b": "Linwood Barclay. Never look away"
+    },
+    {
+     "k": "15",
+     "t": "Het ongeluk",
+     "j": 2011,
+     "b": "Linwood Barclay. The accident"
+    },
+    {
+     "k": "16",
+     "t": "Geloof je ogen",
+     "j": 2012,
+     "b": "Linwood Barclay. Trust your eyes"
+    },
+    {
+     "k": "17",
+     "t": "Een tik op het raam",
+     "j": 2013,
+     "b": "Linwood Barclay. A tap on the window"
+    },
+    {
+     "k": "18",
+     "t": "Geen veilige plek",
+     "j": 2014,
+     "b": "Linwood Barclay. No safe house, vervolg op Zonder een woord"
+    },
+    {
+     "k": "19",
+     "t": "Onhoudbaar",
+     "j": 2017,
+     "b": "Linwood Barclay. Parting shot"
+    },
+    {
+     "k": "20",
+     "t": "Achtervolging: ren voor je leven",
+     "j": 2017,
+     "b": "Linwood Barclay. Chase, jeugdthriller deel 1 van de reeks Chipper"
+    },
+    {
+     "k": "21",
+     "t": "Niemand hoort het",
+     "j": 2018,
+     "b": "Linwood Barclay. A noise downstairs"
+    },
+    {
+     "k": "22",
+     "t": "Ontsnapping: de samenzwering",
+     "j": 2018,
+     "b": "Linwood Barclay. Escape, jeugdthriller deel 2 van de reeks Chipper"
+    },
+    {
+     "k": "23",
+     "t": "Lift",
+     "j": 2019,
+     "b": "Linwood Barclay. Elevator pitch"
+    },
+    {
+     "k": "24",
+     "t": "Ik zal je vinden",
+     "j": 2021,
+     "b": "Linwood Barclay. Find you first"
+    },
+    {
+     "k": "25",
+     "t": "Noodsein",
+     "j": 2025,
+     "b": "Linwood Barclay. Whistle"
+    },
+    {
+     "k": "26",
+     "t": "Bloedrood is de nacht",
+     "j": 2011,
+     "b": "Urban Waite. The terror of living"
+    },
+    {
+     "k": "27",
+     "t": "Niets te verliezen",
+     "j": 2013,
+     "b": "Urban Waite. The carrion birds, niet te verwarren met de gelijknamige Jack Reacher"
+    },
+    {
+     "k": "28",
+     "t": "Des duivels",
+     "j": 2005,
+     "b": "Kevin Guilfoile. Cast of shadows, eerste Nederlandse uitgave bij Van Holkema en Warendorf in 2006"
+    },
+    {
+     "k": "29",
+     "t": "De duizend",
+     "j": 2010,
+     "b": "Kevin Guilfoile. The thousand"
+    },
+    {
+     "k": "30",
+     "t": "Moordenaar zonder gezicht",
+     "j": 2005,
+     "b": "Kevin Guilfoile. Cast of shadows, tweede Nederlandse uitgave bij Marmer in 2012 onder een andere titel"
+    }
+   ]
+  },
+  {
+   "id": "x2-grrm",
+   "groep": "George R.R. Martin",
+   "rubriek": "boeken",
+   "taal": "nl",
+   "naam": "George R.R. Martin in het Nederlands",
+   "auteur": "George R.R. Martin",
+   "type": "boek",
+   "kleur": "#2B1B14",
+   "motief": "zwaard",
+   "bron": "De Nederlandse indeling van de reeks komt van Luitingh-Sijthoff zelf (lsuitgeverij.nl, serie Het Lied van IJs en Vuur) en van Boekbeschrijvingen.nl, met een derde controle bij Antiquariaat Schot dat de zeven banden als set aanbiedt in precies deze nummering. Twee delen zijn in het Nederlands in twee banden geknipt: Een storm van zwaarden werd Staal en sneeuw plus Bloed en goud, en Een dans met draken werd Oude vetes nieuwe strijd plus Zwaarden tegen draken. Zo zijn ze ook los te koop, dus zo staan ze hier. Het spel der tronen, De strijd der koningen en Een feestmaal voor kraaien zijn wel in een band verschenen. Windhaven en De Fevre Dream staan bij Boekbeschrijvingen.nl in de Nederlandse bibliografie en zijn te koop bij De Slegte en bol.com. Het veld j is het jaar van de OORSPRONKELIJKE uitgave. Bij de gesplitste delen krijgen beide banden het jaar van het originele boek, want er is geen Engels origineel dat alleen met een halve band overeenkomt. NIET opgenomen omdat je er niet om vroeg maar wel in het Nederlands bestaat: Ridder van de Zeven Koninkrijken, Vuur en Bloed, De wereld van ijs en vuur, De opkomst van de draak, Het stervende licht, De IJsdraak en Nightflyers. NIET vertaald en dus weggelaten: The winds of winter is nog niet verschenen.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Het spel der tronen",
+     "j": 1996,
+     "b": "A game of thrones, deel 1 van Het Lied van IJs en Vuur"
+    },
+    {
+     "k": "2",
+     "t": "De strijd der koningen",
+     "j": 1998,
+     "b": "A clash of kings, deel 2"
+    },
+    {
+     "k": "3",
+     "t": "Een storm van zwaarden: Staal en sneeuw",
+     "j": 2000,
+     "b": "A storm of swords, deel 3 eerste band van de Nederlandse splitsing"
+    },
+    {
+     "k": "4",
+     "t": "Een storm van zwaarden: Bloed en goud",
+     "j": 2000,
+     "b": "A storm of swords, deel 3 tweede band van de Nederlandse splitsing"
+    },
+    {
+     "k": "5",
+     "t": "Een feestmaal voor kraaien",
+     "j": 2005,
+     "b": "A feast for crows, deel 4 en in het Nederlands een band"
+    },
+    {
+     "k": "6",
+     "t": "Een dans met draken: Oude vetes, nieuwe strijd",
+     "j": 2011,
+     "b": "A dance with dragons, deel 5 eerste band van de Nederlandse splitsing"
+    },
+    {
+     "k": "7",
+     "t": "Een dans met draken: Zwaarden tegen draken",
+     "j": 2011,
+     "b": "A dance with dragons, deel 5 tweede band van de Nederlandse splitsing"
+    },
+    {
+     "k": "8",
+     "t": "Windhaven",
+     "j": 1981,
+     "b": "Windhaven, roman samen met Lisa Tuttle en los van de reeks"
+    },
+    {
+     "k": "9",
+     "t": "De Fevre Dream",
+     "j": 1982,
+     "b": "Fevre Dream, vampierroman op de Mississippi en los van de reeks"
     }
    ]
   },
@@ -1827,6 +2205,200 @@
      "t": "Vallei van schaduw",
      "j": 2024,
      "b": "Vertaling van The Map of Bones (2024). Joubert Family Chronicles deel 4, het slotdeel."
+    }
+   ]
+  },
+  {
+   "id": "x2-lee-child",
+   "groep": "Lee Child",
+   "rubriek": "boeken",
+   "taal": "nl",
+   "naam": "Jack Reacher",
+   "auteur": "Lee Child en vanaf deel 25 samen met Andrew Child",
+   "type": "boek",
+   "kleur": "#1B2A3A",
+   "motief": "sleutelgat",
+   "bron": "Boekbeschrijvingen.nl (overzicht Lee Child, Nederlandse titel naast Engelse titel) en De Boekenplank (deboekenplank.nl, Nederlandse titels met jaar van de Nederlandse uitgave) komen op alle titels overeen. Voor de recente delen extra gecontroleerd bij Luitingh-Sijthoff (lsuitgeverij.nl), Hebban, Bibliotheek.nl en Boekenwereld: Exitstrategie staat daar als Jack Reacher 30. Het veld j is hier het jaar van de OORSPRONKELIJKE Engelse uitgave, omdat dat voor alle dertig delen bij twee bronnen te bevestigen was. De Nederlandse vertaling verscheen doorgaans in hetzelfde of het volgende jaar. Volgorde is de verschijningsvolgorde van de originelen, niet de tijdlijn van Reacher zelf. NIET opgenomen: Op doorreis (No middle name, 2017) is een verhalenbundel en geen roman, en Schoon goud (2019) is een novelle die Lee Child samen met Karin Slaughter schreef. Ook NIET opgenomen omdat het op 30 augustus 2026 nog niet verschenen is: Jack Reacher 31, dat bij Boekenwereld met de Nederlandse titel Kettingreactie voor oktober wordt aangekondigd. Ik heb dat deel bewust niet verzonnen.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Jachtveld",
+     "j": 1997,
+     "b": "Killing floor"
+    },
+    {
+     "k": "2",
+     "t": "Lokaas",
+     "j": 1998,
+     "b": "Die trying"
+    },
+    {
+     "k": "3",
+     "t": "Tegendraads",
+     "j": 1999,
+     "b": "Tripwire"
+    },
+    {
+     "k": "4",
+     "t": "De bezoeker",
+     "j": 2000,
+     "b": "The visitor, in de VS verschenen als Running blind"
+    },
+    {
+     "k": "5",
+     "t": "Brandpunt",
+     "j": 2001,
+     "b": "Echo burning"
+    },
+    {
+     "k": "6",
+     "t": "Buitenwacht",
+     "j": 2002,
+     "b": "Without fail"
+    },
+    {
+     "k": "7",
+     "t": "Spervuur",
+     "j": 2003,
+     "b": "Persuader"
+    },
+    {
+     "k": "8",
+     "t": "De vijand",
+     "j": 2004,
+     "b": "The enemy"
+    },
+    {
+     "k": "9",
+     "t": "Voltreffer",
+     "j": 2005,
+     "b": "One shot"
+    },
+    {
+     "k": "10",
+     "t": "Bloedgeld",
+     "j": 2006,
+     "b": "The hard way"
+    },
+    {
+     "k": "11",
+     "t": "De rekening",
+     "j": 2007,
+     "b": "Bad luck and trouble"
+    },
+    {
+     "k": "12",
+     "t": "Niets te verliezen",
+     "j": 2008,
+     "b": "Nothing to lose"
+    },
+    {
+     "k": "13",
+     "t": "Sluipschutter",
+     "j": 2009,
+     "b": "Gone tomorrow"
+    },
+    {
+     "k": "14",
+     "t": "61 uur",
+     "j": 2010,
+     "b": "61 hours"
+    },
+    {
+     "k": "15",
+     "t": "Tegenspel",
+     "j": 2010,
+     "b": "Worth dying for"
+    },
+    {
+     "k": "16",
+     "t": "De affaire",
+     "j": 2011,
+     "b": "The affair, speelt in de tijdlijn van Reacher voor deel 1"
+    },
+    {
+     "k": "17",
+     "t": "Achtervolging",
+     "j": 2012,
+     "b": "A wanted man"
+    },
+    {
+     "k": "18",
+     "t": "Ga nooit terug",
+     "j": 2013,
+     "b": "Never go back"
+    },
+    {
+     "k": "19",
+     "t": "Persoonlijk",
+     "j": 2014,
+     "b": "Personal"
+    },
+    {
+     "k": "20",
+     "t": "Daag me uit",
+     "j": 2015,
+     "b": "Make me"
+    },
+    {
+     "k": "21",
+     "t": "Onder de radar",
+     "j": 2016,
+     "b": "Night school"
+    },
+    {
+     "k": "22",
+     "t": "Nachthandel",
+     "j": 2017,
+     "b": "The midnight line"
+    },
+    {
+     "k": "23",
+     "t": "Verleden tijd",
+     "j": 2018,
+     "b": "Past tense"
+    },
+    {
+     "k": "24",
+     "t": "Blauwe maan",
+     "j": 2019,
+     "b": "Blue moon"
+    },
+    {
+     "k": "25",
+     "t": "De wachtpost",
+     "j": 2020,
+     "b": "The sentinel, met Andrew Child"
+    },
+    {
+     "k": "26",
+     "t": "Liever dood dan levend",
+     "j": 2021,
+     "b": "Better off dead, met Andrew Child"
+    },
+    {
+     "k": "27",
+     "t": "Geen plan B",
+     "j": 2022,
+     "b": "No plan B, met Andrew Child"
+    },
+    {
+     "k": "28",
+     "t": "Het geheim",
+     "j": 2023,
+     "b": "The secret, met Andrew Child"
+    },
+    {
+     "k": "29",
+     "t": "In de val",
+     "j": 2024,
+     "b": "In too deep, met Andrew Child"
+    },
+    {
+     "k": "30",
+     "t": "Exitstrategie",
+     "j": 2025,
+     "b": "Exit strategy, met Andrew Child"
     }
    ]
   },
@@ -2889,6 +3461,86 @@
      "t": "Vrees niet",
      "j": 2025,
      "b": "Holly Gibney keert terug, samen met rechercheur Izzy James. Origineel: Never Flinch (2025). Jaartal is de Nederlandse uitgave, mei 2025."
+    }
+   ]
+  },
+  {
+   "id": "x2-king-extra",
+   "groep": "Stephen King",
+   "rubriek": "boeken",
+   "taal": "nl",
+   "naam": "Stephen King: ontbrekende Nederlandse titels",
+   "auteur": "Stephen King",
+   "type": "boek",
+   "kleur": "#2A1220",
+   "motief": "sleutelgat",
+   "bron": "Alle elf titels bestaan echt in het Nederlands, er is er dus geen weggelaten. Hoofdbron is de Stephen King Fanclub (stephenking.nl, fiche per titel met soort werk en jaar van de Nederlandse uitgave), met tweede controles bij Boekbeschrijvingen.nl, Bibliotheek.nl, Luitingh-Sijthoff, Boekerij en Standaard Boekhandel. LET OP: dit zijn grotendeels GEEN romans, en dat is meteen de reden dat ze in jouw King-lijst van 79 romans ontbraken. De storm van de eeuw is een televisiescenario, Over leven en schrijven is non-fictie, King goes to the movies en Ik weet wat je wilt zijn verhalenbundels, Eenmalige zonde bundelt twee novellen, en Dichte mist, Achtbaan, Het hoge gras, De leerling, De ademhalingsmethode en The Life of Chuck zijn losse novellen. Twee titels hebben in het Nederlands een Engelse titel gehouden: King goes to the movies (Luitingh, ondertitel Vijf verfilmde verhalen) en The Life of Chuck (Boekerij, vertaling van Annemarie Lodewijk), dus dat zijn wel degelijk Nederlandstalige uitgaven. Ik weet wat je wilt heeft helemaal geen Engels origineel: het is een Nederlandse samenstelling uit Night shift en Different seasons. Het veld j is hier het jaar van de EERSTE NEDERLANDSE uitgave, want bij novellen die eerder in een bundel stonden zegt het jaar van het Engelse origineel weinig over het boek dat in de kast staat. Het jaar van het origineel staat telkens in b. Kleine onzekerheid: Dichte mist verscheen in 1986 al eens in de Nederlandse verzamelbundel Duistere krachten, 2008 is het jaar van de zelfstandige uitgave.",
+   "items": [
+    {
+     "k": "1",
+     "t": "De leerling",
+     "j": 1984,
+     "b": "Apt pupil. Novelle uit Different seasons (1982), in Nederland los uitgegeven als paperback en pocket"
+    },
+    {
+     "k": "2",
+     "t": "De ademhalingsmethode",
+     "j": 1985,
+     "b": "The breathing method. Novelle uit Different seasons (1982), los uitgegeven als pocket"
+    },
+    {
+     "k": "3",
+     "t": "Ik weet wat je wilt",
+     "j": 1985,
+     "b": "Verhalenbundel zonder Engels origineel, Nederlandse samenstelling uit Night shift (1978) en Different seasons (1982) met onder meer Het lijk en De ademhalingsmethode"
+    },
+    {
+     "k": "4",
+     "t": "De storm van de eeuw",
+     "j": 1999,
+     "b": "Storm of the century: an original screenplay (1999). Geen roman maar een oorspronkelijk televisiescenario"
+    },
+    {
+     "k": "5",
+     "t": "Over leven en schrijven",
+     "j": 2000,
+     "b": "On writing: a memoir of the craft (2000). Non-fictie, deels memoir en deels schrijfhandleiding"
+    },
+    {
+     "k": "6",
+     "t": "Achtbaan",
+     "j": 2000,
+     "b": "Riding the bullet (2000). Novelle die eerst als e-book verscheen, in Nederland als hardcover bij Luitingh"
+    },
+    {
+     "k": "7",
+     "t": "Dichte mist",
+     "j": 2008,
+     "b": "The mist (1980). Novelle, eerst in de bloemlezing Dark forces en later in Skeleton crew, in het Nederlands eerder in de bundel Duistere krachten (1986)"
+    },
+    {
+     "k": "8",
+     "t": "King goes to the movies",
+     "j": 2009,
+     "b": "Stephen King goes to the movies (2009). Verhalenbundel met vijf verfilmde verhalen plus Kings toelichting per verfilming, Nederlandse ondertitel Vijf verfilmde verhalen"
+    },
+    {
+     "k": "9",
+     "t": "Eenmalige zonde",
+     "j": 2011,
+     "b": "Morality (2009) met als bonusverhaal Blockade Billy (2010). Twee novellen in een Nederlandse uitgave"
+    },
+    {
+     "k": "10",
+     "t": "Het hoge gras",
+     "j": 2013,
+     "b": "In the tall grass (2012). Novelle samen met zoon Joe Hill, eerst in Esquire"
+    },
+    {
+     "k": "11",
+     "t": "The Life of Chuck",
+     "j": 2025,
+     "b": "The life of Chuck (2020). Novelle uit de bundel Als het bloedt, voor het eerst zelfstandig uitgegeven bij Boekerij in de vertaling van Annemarie Lodewijk, met behoud van de Engelse titel"
     }
    ]
   },
@@ -6990,6 +7642,164 @@
    "taal": "nl"
   },
   {
+   "id": "x2-amoras-kronieken",
+   "groep": "Amoras",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Amoras (de volledige saga: Amoras, De kronieken van Amoras, De helden van Amoras)",
+   "auteur": "Marc Legendre en Charel Cambré (Standaard Uitgeverij)",
+   "type": "strip",
+   "kleur": "#2E1A47",
+   "motief": "zwaard",
+   "bron": "stripINFO.be reeks 22552 (Amoras) en reeks 35833 (De kronieken van Amoras), depoort.com reekspagina's 3681 en 4865, suskeenwiskeshop.com overzichtspagina Amoras, standaarduitgeverij.be pagina Amoras De Kronieken, goodreads reeks 200518, stripspeciaalzaak.be en nieuws.stripweb.be voor De helden van Amoras en de Director's Cut. BELANGRIJK OVER DE NUMMERING: de nummering loopt op de ruggen NIET door tot 45. Elke cyclus begint opnieuw bij 1. Cyclus 1 heet Amoras en telt 6 delen (1 Suske tot 6 Barabas, 2013-2015). Cyclus 2 heet De kronieken van Amoras en start opnieuw op 1: het album Wie niet horen wil draagt rugnummer 7 BINNEN de kronieken (bevestigd door stripspeciaalzaak.be bespreking Kronieken-Amoras-7 en door stripfan.nl dat het als 07 verkoopt), niet 13 in een doorlopende telling. Die cyclus telt 14 delen (2017-2024). Cyclus 3 heet Suske en Wiske - De helden van Amoras en begint eveneens opnieuw op 1, met Doodvonnis (2025), Kolmanskop (2025) en Cross Road Blues (2026, scenario overgenomen door Kristof Berte). Op 31 augustus 2026 bestaan er dus in totaal 23 genummerde Amoras-albums, 6 plus 14 plus 3. Er bestaat geen album 45 en ook geen doorlopende rugnummering die tot 45 komt. Ik heb niets bijverzonnen om aan 45 te geraken. Als er op jouw ruggen echt tot 45 geteld wordt, gaat het vrijwel zeker om een andere kast of een andere reeks, bijvoorbeeld de gewone Suske en Wiske vierkleurenreeks. Omdat de drie cycli elk bij 1 beginnen, is k hier voorzien van een letter: A voor Amoras, K voor de kronieken, H voor de helden. Over de jaartallen: stripINFO en depoort.com geven dezelfde eerste uitgavejaren voor cyclus 1. Voor De zaak Krimson 1 geeft goodreads 2016, maar bol.com noemt expliciet 14 maart 2017 als oorspronkelijke releasedatum en depoort en stripINFO houden het ook op 2017, dus 2017 is aangehouden. Amoras: The Director's Cut 1 verscheen op 25 juni 2026 (stripspeciaalzaak.be pas verschenen, bevestigd door stripbteaser.nl) en bundelt Suske, Jérusalem en Krimson. Een deel 2 met de albums 4 tot 6 wordt aangekondigd door hetbeeldverhaal.nl en stripsenzo.nl, maar de verschijning daarvan kreeg ik niet met twee bronnen hard, dus dat deel staat er bewust niet bij.",
+   "items": [
+    {
+     "k": "A1",
+     "t": "Amoras 1: Suske",
+     "j": 2013,
+     "b": "Start van de saga, Suske en Wiske als volwassenen op het eiland Amoras"
+    },
+    {
+     "k": "A2",
+     "t": "Amoras 2: Jérusalem",
+     "j": 2013,
+     "b": "Tweede deel van de eerste cyclus"
+    },
+    {
+     "k": "A3",
+     "t": "Amoras 3: Krimson",
+     "j": 2014,
+     "b": "Derde deel van de eerste cyclus"
+    },
+    {
+     "k": "A4",
+     "t": "Amoras 4: Lambik",
+     "j": 2014,
+     "b": "Vierde deel van de eerste cyclus"
+    },
+    {
+     "k": "A5",
+     "t": "Amoras 5: Wiske",
+     "j": 2015,
+     "b": "Vijfde deel van de eerste cyclus"
+    },
+    {
+     "k": "A6",
+     "t": "Amoras 6: Barabas",
+     "j": 2015,
+     "b": "Slot van de eerste cyclus, de saga"
+    },
+    {
+     "k": "K1",
+     "t": "De kronieken van Amoras 1: De zaak Krimson 1",
+     "j": 2017,
+     "b": "Start van de tweede cyclus, nummering begint opnieuw bij 1"
+    },
+    {
+     "k": "K2",
+     "t": "De kronieken van Amoras 2: De zaak Krimson 2",
+     "j": 2017,
+     "b": "Tweede deel van het drieluik rond Krimson"
+    },
+    {
+     "k": "K3",
+     "t": "De kronieken van Amoras 3: De zaak Krimson 3",
+     "j": 2018,
+     "b": "Slot van het drieluik rond Krimson"
+    },
+    {
+     "k": "K4",
+     "t": "De kronieken van Amoras 4: Gardavu!",
+     "j": 2019,
+     "b": "Los te lezen verhaal binnen de kronieken"
+    },
+    {
+     "k": "K5",
+     "t": "De kronieken van Amoras 5: De killerbacterie",
+     "j": 2019,
+     "b": "Los te lezen verhaal binnen de kronieken"
+    },
+    {
+     "k": "K6",
+     "t": "De kronieken van Amoras 6: De underdog",
+     "j": 2020,
+     "b": "Los te lezen verhaal binnen de kronieken"
+    },
+    {
+     "k": "K7",
+     "t": "De kronieken van Amoras 7: Wie niet horen wil",
+     "j": 2020,
+     "b": "Dit is het album met rugnummer 7 binnen de kronieken, niet het zevende album van de hele saga"
+    },
+    {
+     "k": "K8",
+     "t": "De kronieken van Amoras 8: Avontuur in Piscine-les-Bains",
+     "j": 2021,
+     "b": "Los te lezen verhaal binnen de kronieken"
+    },
+    {
+     "k": "K9",
+     "t": "De kronieken van Amoras 9: De zaak Sus Antigoon 1",
+     "j": 2021,
+     "b": "Eerste deel van het tweeluik rond Sus Antigoon"
+    },
+    {
+     "k": "K10",
+     "t": "De kronieken van Amoras 10: De zaak Sus Antigoon 2",
+     "j": 2022,
+     "b": "Tweede deel van het tweeluik rond Sus Antigoon"
+    },
+    {
+     "k": "K11",
+     "t": "De kronieken van Amoras 11: Schanulleke",
+     "j": 2022,
+     "b": "Los te lezen verhaal binnen de kronieken"
+    },
+    {
+     "k": "K12",
+     "t": "De kronieken van Amoras 12: De val",
+     "j": 2023,
+     "b": "Los te lezen verhaal binnen de kronieken"
+    },
+    {
+     "k": "K13",
+     "t": "De kronieken van Amoras 13: De droom van Arthur",
+     "j": 2023,
+     "b": "Los te lezen verhaal binnen de kronieken"
+    },
+    {
+     "k": "K14",
+     "t": "De kronieken van Amoras 14: Rotzooi in Kiflama",
+     "j": 2024,
+     "b": "Voorlopig laatste deel van de tweede cyclus"
+    },
+    {
+     "k": "H1",
+     "t": "Suske en Wiske - De helden van Amoras 1: Doodvonnis",
+     "j": 2025,
+     "b": "Start van de derde cyclus, opnieuw genummerd vanaf 1, verschenen op 4 september 2025"
+    },
+    {
+     "k": "H2",
+     "t": "Suske en Wiske - De helden van Amoras 2: Kolmanskop",
+     "j": 2025,
+     "b": "Tweede deel van de derde cyclus, december 2025"
+    },
+    {
+     "k": "H3",
+     "t": "Suske en Wiske - De helden van Amoras 3: Cross Road Blues",
+     "j": 2026,
+     "b": "Scenario van Kristof Berte in plaats van Marc Legendre, verschenen 21 mei 2026"
+    },
+    {
+     "k": "DC1",
+     "t": "Amoras: The Director's Cut 1",
+     "j": 2026,
+     "b": "Luxe hardcover integrale op groot formaat met de albums Suske, Jérusalem en Krimson plus dossiers van Ronald Grossey"
+    }
+   ]
+  },
+  {
    "id": "x-the-complete-calvin-en-hobbes-mtf4u0p8",
    "groep": "Andrews McMeel",
    "rubriek": "strips",
@@ -7956,6 +8766,44 @@
      "k": "43",
      "t": "Knokenkunst",
      "j": 2025
+    }
+   ]
+  },
+  {
+   "id": "ed-bollie-billie-cassette",
+   "groep": "Bollie en Billie",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Boule et Bill - L'integrale (Dupuis, reeks van zeven delen)",
+   "auteur": "Jean Roba (Dupuis, collectie Patrimoine)",
+   "type": "strip",
+   "kleur": "#7B1E22",
+   "motief": "ballon",
+   "bron": "BELANGRIJK: een NEDERLANDSTALIGE cassette van Bollie en Billie bij Dupuis bestaat niet, en dat is geen slordigheid van mij maar de uitkomst van het onderzoek. stripspeciaalzaak.be schrijft in het artikel Bollie en Billie start in juni als integrale reeks in het Frans letterlijk dat de integrale reeks alleen in het Frans verschijnt, in ZEVEN delen, en dat Dupuis in het Nederlands enkel de gewone albums opnieuw uitgeeft. Een zoekopdracht op stripINFO.be naar Bollie en Billie integrale levert nul resultaten op, en de reekspagina van Bollie en Billie op stripINFO toont wel specials maar geen integraalreeks. Wat in het Nederlands wel bestaat is Bollie en Billie integraal - alles in een boek, een enkel hardcoverboek van ongeveer 1220 pagina's met de albums 1 tot 21 (dupuis.com artikel 133350, standaarduitgeverij.be en depoort.com), dus een boek en geen cassette. Daarom staan hier de delen van de Franse Dupuis-integrale, met hun eigen Franse titels zoals de opdracht voorschrijft. Antwoord op je vraag hoeveel delen: ZEVEN gepland. Op 1 september 2026 zijn er daarvan pas VIER verschenen; de verschijningsdata staan op dupuis.com zelf, deel 1 op 04-06-2021, deel 2 op 03-06-2022, deel 3 op 10-11-2023 en deel 4 op 27-02-2026. WEGGELATEN: deel 5 (1973-1976) staat op dupuis.com aangekondigd voor 13-11-2026 en is dus nog niet uit, en de delen 6 en 7 hebben nog geen titel of datum. Zodra die er zijn, kun je ze bijzetten. Controleer bij het afvinken ook even of jouw cassette niet gewoon de Nederlandstalige albumreeks Bollie en Billie new look is, die depoort.com in 21 genummerde delen uit 2009 verkoopt.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Boule et Bill - L'integrale, tome 1 (1959-1963)",
+     "j": 2021,
+     "b": "Verschenen op 4 juni 2021, 264 bladzijden, met naast de gags ook een honderdtal striptekeningen en veertig kronieken uit Robbedoes"
+    },
+    {
+     "k": "2",
+     "t": "Boule et Bill - L'integrale, tome 2 (1963-1967)",
+     "j": 2022,
+     "b": "Verschenen op 3 juni 2022"
+    },
+    {
+     "k": "3",
+     "t": "Boule et Bill - L'integrale, tome 3 (1967-1969)",
+     "j": 2023,
+     "b": "Verschenen op 10 november 2023"
+    },
+    {
+     "k": "4",
+     "t": "Boule et Bill - L'integrale, tome 4 (1969-1973)",
+     "j": 2026,
+     "b": "Verschenen op 27 februari 2026"
     }
    ]
   },
@@ -9876,6 +10724,32 @@
      "t": "Y: The Last Man Book Five",
      "j": 2016,
      "b": "Nummers 49 tot 60"
+    }
+   ]
+  },
+  {
+   "id": "ed-authority-wildstorm",
+   "groep": "DC / Wildstorm",
+   "rubriek": "strips",
+   "taal": "en",
+   "naam": "The Authority Omnibus (de Wildstorm-verzameluitgave)",
+   "auteur": "Warren Ellis, Mark Millar, Bryan Hitch en Frank Quitely (DC / Wildstorm)",
+   "type": "strip",
+   "kleur": "#16233F",
+   "motief": "zwaard",
+   "bron": "LET OP, DE NAAM UIT JE BRIEFJE BESTAAT NIET. Een uitgave die letterlijk The Authority: The Complete Wildstorm Series heet, heb ik nergens gevonden: niet in de Wikipedia-lijst List of Wildstorm reprint collections, niet bij mycomicshop.com onder Authority Collections (dertien verzamelbundels, geen enkele met die naam), en niet bij comicbooktreasury.com. Die naam bestaat wel voor een ANDERE reeks: Midnighter: The Complete WildStorm Series (DC, ISBN 9781401267919), met Midnighter nummer 1 tot 20 en Midnighter Armageddon. Waarschijnlijk heb je die twee door elkaar gehaald, of staat de Midnighter-band naast je Authority-banden. De echte verzameluitgave van de Wildstorm-reeks The Authority is de Authority Omnibus, en die staat hier. Deel 1 is bevestigd door dc.com zelf (verschenen 31 juli 2019, 984 bladzijden) en door comicbooktreasury.com, dat ook de herdruk van 2025 vermeldt met ISBN 9781799502036. Deel 2 is bevestigd door penguinrandomhouse.com (verschijningsdatum 7 oktober 2025) en door comicbooktreasury.com. ONZEKER EN DUS WEGGELATEN: een deel 3 wordt nergens aangekondigd; penguinrandomhouse spreekt van een tweede omnibus als afsluiting. Het jaartal bij deel 1 is dat van de eerste uitgave, niet van de herdruk die je vermoedelijk in de kast hebt staan.",
+   "items": [
+    {
+     "k": "1",
+     "t": "The Authority Omnibus Vol. 1",
+     "j": 2019,
+     "b": "Bundelt The Authority nummer 1 tot 29, Planetary/The Authority: Rule the World, Jenny Sparks: The Secret History of the Authority nummer 1 tot 5, Authority Annual 2000 en materiaal uit de Wildstorm Summer Special. Herdrukt in 2025"
+    },
+    {
+     "k": "2",
+     "t": "The Authority Omnibus Vol. 2",
+     "j": 2025,
+     "b": "Bundelt onder meer The Authority: Revolution nummer 1 tot 12, The Authority: Kev, A Man Called Kev, The Authority: The Magnificent Kevin en de latere Authority-reeksen. Verschenen op 7 oktober 2025"
     }
    ]
   },
@@ -14765,6 +15639,32 @@
    "taal": "nl"
   },
   {
+   "id": "dd2-reisavonturen",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "De reisavonturen van Dagobert Duck",
+   "auteur": "Don Rosa (Sanoma)",
+   "type": "strip",
+   "kleur": "#6E1C28",
+   "motief": "ruggen",
+   "bron": "Akim Stripwinkel en Comic Stripshop beschrijven dezelfde uitgave: De reisavonturen van Dagobert Duck, hardcovers van Don Rosa bij Sanoma, uitgebracht in cassettes. Box 1 uit 2016 bevat de delen 1 en 2, box 2 uit 2019 bevat de delen 3 en 4, en samen worden ze als compleet 1 tot en met 4 aangeboden. LastDodo bevestigt onafhankelijk De reisavonturen van Dagobert Duck 1 als hardcover uit 2016 en een lege Sanoma-box De reisavonturen van Dagobert Duck uit 2016. Jouw blauwe en rode band zijn dus de delen 1 en 2 uit box 1 van 2016, en dat is precies wat hier opgenomen is. De delen dragen geen eigen verhaaltitel, alleen een deelnummer, dus staat in t de reeksnaam met het nummer. Let op twee dingen. Ten eerste bestaan de delen 3 en 4 uit 2019 wel degelijk, en bij dewergstrips.nl staat zelfs al een box 03, dus als je verder wilt aanvullen kan dat. Die delen heb je volgens je eigen opgave niet, dus ze staan hier niet in de lijst. Ten tweede is de naam verwarrend dicht bij twee andere uitgaven: de albums 60 tot en met 75 van de gewone Oom Dagobert-reeks verschenen namelijk onder de coverondertitel De reisavonturen van Oom Dagobert, en daarnaast bestaat Walt Disney's de reisavonturen van Oom Dagobert - Verhalen van een steenrijke eend. Dit hier is de losse hardcoverreeks in cassette, niet een van die twee. Deze reeks staat niet in stripINFO.be, dus de controle steunt op Akim, Comic Stripshop en LastDodo.",
+   "items": [
+    {
+     "k": "1",
+     "t": "De reisavonturen van Dagobert Duck deel 1",
+     "j": 2016,
+     "b": "Blauwe hardcover, samen met deel 2 verschenen in box 1"
+    },
+    {
+     "k": "2",
+     "t": "De reisavonturen van Dagobert Duck deel 2",
+     "j": 2016,
+     "b": "Rode hardcover, samen met deel 1 verschenen in box 1"
+    }
+   ]
+  },
+  {
    "id": "dd-spannendste",
    "groep": "Donald Duck",
    "rubriek": "strips",
@@ -15069,6 +15969,86 @@
    ]
   },
   {
+   "id": "dd2-bigfun",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Donald Duck Big Fun",
+   "auteur": "Walt Disney Studio's, uitgegeven door VNU Tijdschriften en Sanoma",
+   "type": "strip",
+   "kleur": "#3B2158",
+   "motief": "ballon",
+   "bron": "Delenlijst van stripINFO.be reeks 2276 Donald Duck big fun, bevestigd door de winkelvermeldingen bij Stripwinkel Prof. Barabas en Boekenhoek Loosduinen. De reeks telt in totaal veertien delen, deel 1 in 1999 tot deel 14 in 2012, met elk jaar een nieuw deel. Bert heeft de delen 1 tot en met 11, dus 1999 tot en met 2009, en die staan hieronder. De delen dragen geen eigen titel, alleen een nummer. Onzeker: latere delen worden soms als Big Fun XXL aangeboden, het is niet duidelijk of dat een andere uitvoering of alleen een andere winkelbenaming is.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Donald Duck big fun 1",
+     "j": 1999,
+     "b": "Genummerd deel 1 van de reeks"
+    },
+    {
+     "k": "2",
+     "t": "Donald Duck big fun 2",
+     "j": 2000,
+     "b": "Genummerd deel 2 van de reeks"
+    },
+    {
+     "k": "3",
+     "t": "Donald Duck big fun 3",
+     "j": 2001,
+     "b": "Genummerd deel 3 van de reeks"
+    },
+    {
+     "k": "4",
+     "t": "Donald Duck big fun 4",
+     "j": 2002,
+     "b": "Genummerd deel 4 van de reeks"
+    },
+    {
+     "k": "5",
+     "t": "Donald Duck big fun 5",
+     "j": 2003,
+     "b": "Genummerd deel 5 van de reeks"
+    },
+    {
+     "k": "6",
+     "t": "Donald Duck big fun 6",
+     "j": 2004,
+     "b": "Genummerd deel 6 van de reeks"
+    },
+    {
+     "k": "7",
+     "t": "Donald Duck big fun 7",
+     "j": 2005,
+     "b": "Genummerd deel 7 van de reeks"
+    },
+    {
+     "k": "8",
+     "t": "Donald Duck big fun 8",
+     "j": 2006,
+     "b": "Genummerd deel 8 van de reeks"
+    },
+    {
+     "k": "9",
+     "t": "Donald Duck big fun 9",
+     "j": 2007,
+     "b": "Genummerd deel 9 van de reeks"
+    },
+    {
+     "k": "10",
+     "t": "Donald Duck big fun 10",
+     "j": 2008,
+     "b": "Genummerd deel 10 van de reeks"
+    },
+    {
+     "k": "11",
+     "t": "Donald Duck big fun 11",
+     "j": 2009,
+     "b": "Genummerd deel 11 van de reeks"
+    }
+   ]
+  },
+  {
    "id": "dd-lecturama",
    "groep": "Donald Duck",
    "rubriek": "strips",
@@ -15287,6 +16267,216 @@
    "taal": "nl"
   },
   {
+   "id": "dd2-detective-extra",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Donald Duck Detective Pocket",
+   "auteur": "DPG Media",
+   "type": "strip",
+   "kleur": "#2B2140",
+   "motief": "ballon",
+   "bron": "Alleen de twee ontbrekende delen 7 en 8 opgezocht. Deel 7: bol.com geeft maanduitgave februari, jaaruitgave 2026, EAN 8710841544022, en magvilla.nl dateert het nummer op 5 februari 2026; Dark Dragon Books voert deel 7 ook al (uitverkocht). Deel 8: magvilla.nl, vmbpress.nl, aboland.nl en bladenbox.nl noemen alle vier Donald Duck Detectives Pocket 08 2026, magvilla met verschijningsdatum 25 juni 2026. Alle delen dragen dezelfde omslagtitel Avonturen onder de loep; het volgnummer onderscheidt ze. Uitgever is DPG Media.",
+   "items": [
+    {
+     "k": "7",
+     "t": "Avonturen onder de loep",
+     "j": 2026,
+     "b": "Deel 7, verschenen februari 2026, EAN 8710841544022"
+    },
+    {
+     "k": "8",
+     "t": "Avonturen onder de loep",
+     "j": 2026,
+     "b": "Deel 8, verschenen juni 2026"
+    }
+   ]
+  },
+  {
+   "id": "dd2-junior",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Donald Duck Junior vakantieboek",
+   "auteur": "Walt Disney Studio's, uitgegeven door Sanoma en DPG Media",
+   "type": "strip",
+   "kleur": "#14532D",
+   "motief": "zon",
+   "bron": "Twee aparte reeksen onder dezelfde naam. De eerste loopt van 2007 tot en met 2013, zeven delen, volgens de delenlijst van stripINFO.be reeks 22272 Junior vakantieboek, uitgever Sanoma. De tweede begon in 2019 opnieuw bij nummer 1: LastDodo nummert het vakantieboek 2019 als deel 1, 2022 als deel 4 en 2024 als deel 6, wat een ononderbroken rij 2019 tot 2024 oplevert. De jaargangen 2019, 2020, 2021, 2022, 2023, 2025 en 2026 zijn bevestigd via bol.com, 2023 en 2024 daarnaast via Magvilla, Aboland en Bladenbox. Wat ik NIET kon vaststellen: of er tussen 2014 en 2018 een junior vakantieboek is verschenen. Ik vond er geen enkel spoor van, ook niet bij tweedehandshandelaars, en de LastDodo-nummering die in 2019 bij 1 begint wijst erop dat de reeks toen echt opnieuw is opgestart. Die vijf jaren staan er dus niet bij.",
+   "items": [
+    {
+     "k": "2007",
+     "t": "Donald Duck Junior vakantieboek 2007",
+     "j": 2007,
+     "b": "Deel 1 van de eerste reeks junior vakantieboeken"
+    },
+    {
+     "k": "2008",
+     "t": "Donald Duck Junior vakantieboek 2008",
+     "j": 2008,
+     "b": "Deel 2 van de eerste reeks junior vakantieboeken"
+    },
+    {
+     "k": "2009",
+     "t": "Donald Duck Junior vakantieboek 2009",
+     "j": 2009,
+     "b": "Deel 3 van de eerste reeks junior vakantieboeken"
+    },
+    {
+     "k": "2010",
+     "t": "Donald Duck Junior vakantieboek 2010",
+     "j": 2010,
+     "b": "Deel 4 van de eerste reeks junior vakantieboeken"
+    },
+    {
+     "k": "2011",
+     "t": "Donald Duck Junior vakantieboek 2011",
+     "j": 2011,
+     "b": "Deel 5 van de eerste reeks junior vakantieboeken"
+    },
+    {
+     "k": "2012",
+     "t": "Donald Duck Junior vakantieboek 2012",
+     "j": 2012,
+     "b": "Deel 6 van de eerste reeks junior vakantieboeken"
+    },
+    {
+     "k": "2013",
+     "t": "Donald Duck Junior vakantieboek 2013",
+     "j": 2013,
+     "b": "Deel 7 van de eerste reeks junior vakantieboeken"
+    },
+    {
+     "k": "2019",
+     "t": "Donald Duck Junior vakantieboek 2019",
+     "j": 2019,
+     "b": "Deel 1 van de tweede reeks, die in 2019 opnieuw bij 1 begon"
+    },
+    {
+     "k": "2020",
+     "t": "Donald Duck Junior vakantieboek 2020",
+     "j": 2020,
+     "b": "Deel 2 van de tweede reeks, die in 2019 opnieuw bij 1 begon"
+    },
+    {
+     "k": "2021",
+     "t": "Donald Duck Junior vakantieboek 2021",
+     "j": 2021,
+     "b": "Deel 3 van de tweede reeks, die in 2019 opnieuw bij 1 begon"
+    },
+    {
+     "k": "2022",
+     "t": "Donald Duck Junior vakantieboek 2022",
+     "j": 2022,
+     "b": "Deel 4 van de tweede reeks, die in 2019 opnieuw bij 1 begon"
+    },
+    {
+     "k": "2023",
+     "t": "Donald Duck Junior vakantieboek 2023",
+     "j": 2023,
+     "b": "Deel 5 van de tweede reeks, die in 2019 opnieuw bij 1 begon"
+    },
+    {
+     "k": "2024",
+     "t": "Donald Duck Junior vakantieboek 2024",
+     "j": 2024,
+     "b": "Deel 6 van de tweede reeks, die in 2019 opnieuw bij 1 begon"
+    },
+    {
+     "k": "2025",
+     "t": "Donald Duck Junior vakantieboek 2025",
+     "j": 2025,
+     "b": "Deel 7 van de tweede reeks, die in 2019 opnieuw bij 1 begon"
+    },
+    {
+     "k": "2026",
+     "t": "Donald Duck Junior vakantieboek 2026",
+     "j": 2026,
+     "b": "Deel 8 van de tweede reeks, die in 2019 opnieuw bij 1 begon"
+    }
+   ]
+  },
+  {
+   "id": "dd2-minipocket",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Donald Duck Mini Pocket",
+   "auteur": "Sanoma Uitgevers (Walt Disney Studio's)",
+   "type": "strip",
+   "kleur": "#23406B",
+   "motief": "ballon",
+   "bron": "stripINFO.be reeks 2410 (Donald Duck mini pocket, uitgever Sanoma, 11 delen) en het pocketarchief donaldduckpocket.nl, dat dezelfde reeks 1 t/m 11 over 2005-2010 vermeldt. Beide bronnen geven de deeltjes alleen als genummerde delen zonder eigen verhaaltitel; daarom staat in t telkens de reeksnaam met het nummer. De jaartallen komen van stripINFO; donaldduckpocket geeft alleen de periode 2005-2010, dus per deel is het jaar met een bron bevestigd.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Donald Duck Mini Pocket 1",
+     "j": 2005,
+     "b": "Genummerd deel 1 van de reeks"
+    },
+    {
+     "k": "2",
+     "t": "Donald Duck Mini Pocket 2",
+     "j": 2006,
+     "b": "Genummerd deel 2 van de reeks"
+    },
+    {
+     "k": "3",
+     "t": "Donald Duck Mini Pocket 3",
+     "j": 2006,
+     "b": "Genummerd deel 3 van de reeks"
+    },
+    {
+     "k": "4",
+     "t": "Donald Duck Mini Pocket 4",
+     "j": 2007,
+     "b": "Genummerd deel 4 van de reeks"
+    },
+    {
+     "k": "5",
+     "t": "Donald Duck Mini Pocket 5",
+     "j": 2007,
+     "b": "Genummerd deel 5 van de reeks"
+    },
+    {
+     "k": "6",
+     "t": "Donald Duck Mini Pocket 6",
+     "j": 2008,
+     "b": "Genummerd deel 6 van de reeks"
+    },
+    {
+     "k": "7",
+     "t": "Donald Duck Mini Pocket 7",
+     "j": 2008,
+     "b": "Genummerd deel 7 van de reeks"
+    },
+    {
+     "k": "8",
+     "t": "Donald Duck Mini Pocket 8",
+     "j": 2009,
+     "b": "Genummerd deel 8 van de reeks"
+    },
+    {
+     "k": "9",
+     "t": "Donald Duck Mini Pocket 9",
+     "j": 2009,
+     "b": "Genummerd deel 9 van de reeks"
+    },
+    {
+     "k": "10",
+     "t": "Donald Duck Mini Pocket 10",
+     "j": 2010,
+     "b": "Genummerd deel 10 van de reeks"
+    },
+    {
+     "k": "11",
+     "t": "Donald Duck Mini Pocket 11",
+     "j": 2010,
+     "b": "Genummerd deel 11 van de reeks"
+    }
+   ]
+  },
+  {
    "id": "x-donald-duck-specials-mtf3xr3m",
    "groep": "Donald Duck",
    "rubriek": "strips",
@@ -15298,6 +16488,296 @@
    "motief": "ballon",
    "bron": "BEWUST LEEG GELATEN - ik kan niet met zekerheid uitmaken welke lijn je bedoelt, en de opdracht zegt dat ik dan niets mag verzinnen. Gecontroleerd bij donaldduckweb.nl (overzicht van de boekuitgaven), Akim Stripwinkel en Comic Stripshop (losse specials van Sanoma), bol.com, inducks.org en de Nederlandse Wikipedia-lemma's over de pocketreeksen. HIER ZIJN DE LIJNEN DIE IN NEDERLAND EN VLAANDEREN BESTAAN, kies er zelf een uit en ik werk ze uit. EEN - Donald Duck Specials van Sanoma: dikke themasoftcovers die los van het weekblad bij de kiosk liggen, bijvoorbeeld Snorrenspecial, Kampeerspecial, Noordpoolspecial en Zuidpoolspecial, Donnie Duck Special. Ze zijn NIET doorlopend genummerd en verschijnen onregelmatig, waardoor er geen betrouwbare volledige lijst met volgnummers te maken is. Dit lijkt het meest op je omschrijving van dikke themabundels. TWEE - Donald Duck Extra: dat is een tijdschrift (maandblad) met een jaargangnummering, geen verzamelalbum, dus volgens jouw eigen regel eigenlijk geen aankoop. Daarnaast bestaat er een Donald Duck Extra Special. DRIE - Donald Duck Pocket: de klassieke dikke pockets in drie reeksen, 1970 tot 1975 (11 delen), 1977 tot 1990 (53 delen) en 1992 tot vandaag (ruim 200 delen in kleur). Dit is de best genummerde en dus best verzamelbare lijn. VIER - Donald Duck Dubbelpocket, dezelfde formule maar dubbel zo dik. VIJF - De beste verhalen van Donald Duck, sinds 1975, ruim honderd delen, vooral verhalen van Carl Barks met covers van Daan Jippes. ZES - Oom Dagobert, sinds 1977, meer dan vijftig delen, Barks en vanaf deel 53 ook Don Rosa. In Vlaanderen worden dezelfde Nederlandse uitgaven verkocht, er bestaat geen aparte Vlaamse lijn. Ik heb de luxe Carl Barks- en Don Rosa-integrales hier niet nagekeken, vraag ernaar als die je interesseren. Zeg welke lijn je wil en ik lever de genummerde lijst.",
    "items": []
+  },
+  {
+   "id": "dd2-winterboek",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Donald Duck Winterboek",
+   "auteur": "Walt Disney Studio's, uitgegeven door De Geillustreerde Pers, Oberon, VNU, Sanoma en DPG Media",
+   "type": "strip",
+   "kleur": "#16324F",
+   "motief": "zon",
+   "bron": "Volledige delenlijst van stripINFO.be reeks 4876 Donald Duck winterboeken, gecontroleerd tegen losse aanbiedingen bij stripboekentekoop.nl en bol.com. Groot Winterboek en Winterboek zijn GEEN twee aparte lijnen maar een en dezelfde doorlopende reeks, doorgenummerd van deel 1 tot en met deel 45. De reeks start in 1980 met het Groot winterboek 1980. Tot en met deel 16 draagt de kaft het jaar van verschijnen (1980 tot 1996, met een gat in 1982). Vanaf deel 17, het Groot winterboek 1998 dat in het najaar van 1997 verscheen, kreeg het boek het jaartal van de komende winter op de kaft. Daardoor bestaat er geen editie met 1997 op de kaft: na het Groot winterboek 1996 volgde meteen het Groot winterboek 1998. Vanaf deel 18, het Winterboek 1999 dat in 1998 verscheen, viel het woord Groot weg. Bert vroeg de jaargangen 1997 tot 2026, dat zijn de 29 boeken die vanaf het najaar van 1997 verschenen: Groot winterboek 1998 tot en met Winterboek 2026. De k is het jaartal op de kaft, de j is het jaar waarin het boek werkelijk in de winkel lag, dus telkens een jaar eerder. Het Winterboek 2027 was op 30 augustus 2026 nog niet verschenen en staat er niet bij.",
+   "items": [
+    {
+     "k": "1998",
+     "t": "Groot winterboek 1998",
+     "j": 1997,
+     "b": "Reeksdeel 17, verschenen in het najaar van 1997 met jaartal 1998 op de kaft"
+    },
+    {
+     "k": "1999",
+     "t": "Winterboek 1999",
+     "j": 1998,
+     "b": "Reeksdeel 18, verschenen in het najaar van 1998 met jaartal 1999 op de kaft"
+    },
+    {
+     "k": "2000",
+     "t": "Winterboek 2000",
+     "j": 1999,
+     "b": "Reeksdeel 19, verschenen in het najaar van 1999 met jaartal 2000 op de kaft"
+    },
+    {
+     "k": "2001",
+     "t": "Winterboek 2001",
+     "j": 2000,
+     "b": "Reeksdeel 20, verschenen in het najaar van 2000 met jaartal 2001 op de kaft"
+    },
+    {
+     "k": "2002",
+     "t": "Winterboek 2002",
+     "j": 2001,
+     "b": "Reeksdeel 21, verschenen in het najaar van 2001 met jaartal 2002 op de kaft"
+    },
+    {
+     "k": "2003",
+     "t": "Winterboek 2003",
+     "j": 2002,
+     "b": "Reeksdeel 22, verschenen in het najaar van 2002 met jaartal 2003 op de kaft"
+    },
+    {
+     "k": "2004",
+     "t": "Winterboek 2004",
+     "j": 2003,
+     "b": "Reeksdeel 23, verschenen in het najaar van 2003 met jaartal 2004 op de kaft"
+    },
+    {
+     "k": "2005",
+     "t": "Winterboek 2005",
+     "j": 2004,
+     "b": "Reeksdeel 24, verschenen in het najaar van 2004 met jaartal 2005 op de kaft"
+    },
+    {
+     "k": "2006",
+     "t": "Winterboek 2006",
+     "j": 2005,
+     "b": "Reeksdeel 25, verschenen in het najaar van 2005 met jaartal 2006 op de kaft"
+    },
+    {
+     "k": "2007",
+     "t": "Winterboek 2007",
+     "j": 2006,
+     "b": "Reeksdeel 26, verschenen in het najaar van 2006 met jaartal 2007 op de kaft"
+    },
+    {
+     "k": "2008",
+     "t": "Winterboek 2008",
+     "j": 2007,
+     "b": "Reeksdeel 27, verschenen in het najaar van 2007 met jaartal 2008 op de kaft"
+    },
+    {
+     "k": "2009",
+     "t": "Winterboek 2009",
+     "j": 2008,
+     "b": "Reeksdeel 28, verschenen in het najaar van 2008 met jaartal 2009 op de kaft"
+    },
+    {
+     "k": "2010",
+     "t": "Winterboek 2010",
+     "j": 2009,
+     "b": "Reeksdeel 29, verschenen in het najaar van 2009 met jaartal 2010 op de kaft"
+    },
+    {
+     "k": "2011",
+     "t": "Winterboek 2011",
+     "j": 2010,
+     "b": "Reeksdeel 30, verschenen in het najaar van 2010 met jaartal 2011 op de kaft"
+    },
+    {
+     "k": "2012",
+     "t": "Winterboek 2012",
+     "j": 2011,
+     "b": "Reeksdeel 31, verschenen in het najaar van 2011 met jaartal 2012 op de kaft"
+    },
+    {
+     "k": "2013",
+     "t": "Winterboek 2013",
+     "j": 2012,
+     "b": "Reeksdeel 32, verschenen in het najaar van 2012 met jaartal 2013 op de kaft"
+    },
+    {
+     "k": "2014",
+     "t": "Winterboek 2014",
+     "j": 2013,
+     "b": "Reeksdeel 33, verschenen in het najaar van 2013 met jaartal 2014 op de kaft"
+    },
+    {
+     "k": "2015",
+     "t": "Winterboek 2015",
+     "j": 2014,
+     "b": "Reeksdeel 34, verschenen in het najaar van 2014 met jaartal 2015 op de kaft"
+    },
+    {
+     "k": "2016",
+     "t": "Winterboek 2016",
+     "j": 2015,
+     "b": "Reeksdeel 35, verschenen in het najaar van 2015 met jaartal 2016 op de kaft"
+    },
+    {
+     "k": "2017",
+     "t": "Winterboek 2017",
+     "j": 2016,
+     "b": "Reeksdeel 36, verschenen in het najaar van 2016 met jaartal 2017 op de kaft"
+    },
+    {
+     "k": "2018",
+     "t": "Winterboek 2018",
+     "j": 2017,
+     "b": "Reeksdeel 37, verschenen in het najaar van 2017 met jaartal 2018 op de kaft"
+    },
+    {
+     "k": "2019",
+     "t": "Winterboek 2019",
+     "j": 2018,
+     "b": "Reeksdeel 38, verschenen in het najaar van 2018 met jaartal 2019 op de kaft"
+    },
+    {
+     "k": "2020",
+     "t": "Winterboek 2020",
+     "j": 2019,
+     "b": "Reeksdeel 39, verschenen in het najaar van 2019 met jaartal 2020 op de kaft"
+    },
+    {
+     "k": "2021",
+     "t": "Winterboek 2021",
+     "j": 2020,
+     "b": "Reeksdeel 40, verschenen in het najaar van 2020 met jaartal 2021 op de kaft"
+    },
+    {
+     "k": "2022",
+     "t": "Winterboek 2022",
+     "j": 2021,
+     "b": "Reeksdeel 41, verschenen in het najaar van 2021 met jaartal 2022 op de kaft"
+    },
+    {
+     "k": "2023",
+     "t": "Winterboek 2023",
+     "j": 2022,
+     "b": "Reeksdeel 42, verschenen in het najaar van 2022 met jaartal 2023 op de kaft"
+    },
+    {
+     "k": "2024",
+     "t": "Winterboek 2024",
+     "j": 2023,
+     "b": "Reeksdeel 43, verschenen in het najaar van 2023 met jaartal 2024 op de kaft"
+    },
+    {
+     "k": "2025",
+     "t": "Winterboek 2025",
+     "j": 2024,
+     "b": "Reeksdeel 44, verschenen in het najaar van 2024 met jaartal 2025 op de kaft"
+    },
+    {
+     "k": "2026",
+     "t": "Winterboek 2026",
+     "j": 2025,
+     "b": "Reeksdeel 45, verschenen in het najaar van 2025 met jaartal 2026 op de kaft"
+    }
+   ]
+  },
+  {
+   "id": "dd2-ducklexie",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Ducklexie",
+   "auteur": "Walt Disney Studio's, uitgegeven door Sanoma Media Jeugd",
+   "type": "strip",
+   "kleur": "#5A2A1C",
+   "motief": "zon",
+   "bron": "Ducklexie is de Donald Duck-lijn voor kinderen met dyslexie, met grotere letters en meer wit tussen woorden en regels. Ducklexie staat niet in stripINFO.be, dus de lijst is opgebouwd uit de boekvermeldingen bij bol.com met ISBN en verschijningsmaand, en gecontroleerd tegen Marktplaats, Strips en Zo Alkmaar en Kiosk.nl. Bevestigd zijn het Zomerboek 2019, het Winterboek 2019, het Vakantieboek 2020, het Najaarsboek 2020, het Vakantieboek 2021 en de eerste losse genummerde uitgave Ducklexie boek 1-2022. Van de genummerde lijn is alleen nummer 1 nog onder de naam Ducklexie verschenen: vanaf nummer 2 heet dezelfde lijn Donald Duck Makkelijk lezen, met doorlopende nummering 2-2023 tot en met 14-2026 volgens de merkpagina van bol.com. Die latere nummers staan hier niet bij omdat ze niet meer Ducklexie heten. Onzeker: er kunnen nog seizoensboeken zijn die ik niet bevestigd kreeg, want er bestaat geen catalogusbron voor deze lijn.",
+   "items": [
+    {
+     "k": "zomerboek-2019",
+     "t": "Ducklexie Zomerboek 2019",
+     "j": 2019,
+     "b": "Verschenen juni 2019, ISBN 9789463054157"
+    },
+    {
+     "k": "winterboek-2019",
+     "t": "Ducklexie Winterboek 2019",
+     "j": 2019,
+     "b": "Verschenen november 2019, ISBN 9789463054164"
+    },
+    {
+     "k": "vakantieboek-2020",
+     "t": "Ducklexie Vakantieboek 2020",
+     "j": 2020,
+     "b": "Uitgegeven door Sanoma"
+    },
+    {
+     "k": "najaarsboek-2020",
+     "t": "Ducklexie Najaarsboek 2020",
+     "j": 2020,
+     "b": "Verschenen oktober 2020, ISBN 9789463054881, 64 bladzijden"
+    },
+    {
+     "k": "vakantieboek-2021",
+     "t": "Ducklexie Vakantieboek 2021",
+     "j": 2021,
+     "b": "Verschenen april 2021, ISBN 9789463055703, 68 bladzijden"
+    },
+    {
+     "k": "1-2022",
+     "t": "Ducklexie boek 1-2022",
+     "j": 2022,
+     "b": "Eerste losse genummerde uitgave, januari 2022, ISBN 9789463056069"
+    }
+   ]
+  },
+  {
+   "id": "dd2-ducktales-vb",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "DuckTales vakantieboek",
+   "auteur": "Walt Disney Studio's, uitgegeven door Sanoma",
+   "type": "strip",
+   "kleur": "#123F3A",
+   "motief": "zon",
+   "bron": "stripINFO.be reeks 49304 Ducktales vakantieboek geeft deel 3 als Vakantieboek 2020, LastDodo nummert dat boek eveneens als deel 3. De jaargangen 2018 en 2019 zijn bevestigd via de boekvermeldingen bij bol.com, met ISBN 9789463053013 voor 2018, en voor 2018 ook via het forum van McDrake Nederland. De reeks hoort bij de DuckTales-tekenfilmserie van 2017 en loopt van 2018 tot en met 2020. Onzeker: na 2020 is geen vakantieboek onder deze naam meer gevonden, wat past bij het stoppen van de tekenfilmserie in 2021.",
+   "items": [
+    {
+     "k": "2018",
+     "t": "DuckTales Vakantieboek 2018",
+     "j": 2018,
+     "b": "Eerste vakantieboek bij de nieuwe DuckTales-serie, ISBN 9789463053013"
+    },
+    {
+     "k": "2019",
+     "t": "DuckTales Vakantieboek 2019",
+     "j": 2019,
+     "b": "Tweede jaargang"
+    },
+    {
+     "k": "2020",
+     "t": "DuckTales Vakantieboek 2020",
+     "j": 2020,
+     "b": "Derde en laatste jaargang, ISBN 9789463054973"
+    }
+   ]
+  },
+  {
+   "id": "dd2-ducktales-wb",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "DuckTales winterboek",
+   "auteur": "Walt Disney Studio's, uitgegeven door Sanoma",
+   "type": "strip",
+   "kleur": "#1D3A66",
+   "motief": "zon",
+   "bron": "stripINFO.be reeks 37401 Ducktales winterboek vermeldt een enkel deel, Winterboek 2017 - 2018 uit 2017. Bevestigd door bol.com en bookdiscounter.nl met ISBN 9789463052474 en door Goodreads. Ondanks gericht zoeken is er geen tweede jaargang gevonden, dus voor zover na te gaan is dit een reeks van een enkel boek en geen echte jaargangreeks. De kaft draagt twee jaartallen, hier is het jaar van verschijnen als k gebruikt.",
+   "items": [
+    {
+     "k": "2017",
+     "t": "DuckTales Winterboek 2017-2018",
+     "j": 2017,
+     "b": "Enige winterboek in deze reeks, ISBN 9789463052474, kaft vermeldt 2017/2018"
+    }
+   ]
   },
   {
    "id": "dd-kerst",
@@ -15460,6 +16940,978 @@
      "k": "30",
      "t": "Editie 2025",
      "j": 2025
+    }
+   ]
+  },
+  {
+   "id": "dd2-levensverhaal",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Het levensverhaal van Dagobert Duck",
+   "auteur": "Don Rosa (Sanoma)",
+   "type": "strip",
+   "kleur": "#1E4A32",
+   "motief": "ruggen",
+   "bron": "Ja, er zijn meerdere delen: het zijn er twee. stripINFO.be reeks 28815 Het levensverhaal van Dagobert Duck geeft deel 1 en deel 2, beide uit 2013. Akim Stripwinkel beschrijft dezelfde uitgave preciezer als Oom Dagobert 1+2, Het levensverhaal van Dagobert Duck, box met hardcovers, eerste druk 2013, uitgever Sanoma, en LastDodo heeft afzonderlijke fiches voor deel 1 en deel 2, beide hardcover 2013. Bobbedoes verkoopt de twee hardcovers ook uitdrukkelijk als set in box. Het gaat om de Nederlandse uitgave van Don Rosa's The Life and Times of Scrooge McDuck. De delen hebben geen aparte verhaaltitel op de band, alleen deel 1 en deel 2, dus staat in t de reeksnaam met het nummer. Praktisch punt voor jou: je noemt maar een groene band, terwijl de uitgave uit twee banden in een cassette bestaat. Kijk dus na of je deel 2 ook hebt staan, anders moet je die tweede regel hier weer schrappen. Verwar deze uitgave niet met de losse albums 53 tot en met 59 en 67 tot en met 68 van de gewone Oom Dagobert-reeks, waarin hetzelfde verhaal in de jaren 1996 tot 2002 als negen afzonderlijke episodes verscheen, en ook niet met de latere lege Sanoma-box uit 2019 die LastDodo apart vermeldt.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Het levensverhaal van Dagobert Duck deel 1",
+     "j": 2013,
+     "b": "Groene hardcover, eerste helft van Don Rosa's levensverhaal"
+    },
+    {
+     "k": "2",
+     "t": "Het levensverhaal van Dagobert Duck deel 2",
+     "j": 2013,
+     "b": "Tweede hardcover uit dezelfde cassette, alleen opnemen als je die ook hebt"
+    }
+   ]
+  },
+  {
+   "id": "dd2-katrien",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Katrien",
+   "auteur": "Walt Disney Studio's, uitgegeven door Sanoma en DPG Media",
+   "type": "strip",
+   "kleur": "#5E1B44",
+   "motief": "ballon",
+   "bron": "Het blad Katrien startte in 1999 als tweemaandelijks blad, bevestigd door DonaldDuckWeb en door stripINFO.be, waar de jaargangen als aparte reeksen Katrien - Tijdschrift - 1999 tot en met Katrien - Tijdschrift - 2015 staan. Vanaf 2016 heet het blad Katrien Duck, met op stripINFO.be de jaargangen Katrien Duck - 2016 en Katrien Duck - 2017, elk met twaalf nummers. Hieronder staan de jaargangen 1999 tot en met 2017 die ik per jaargang bevestigd kreeg. Wat ik NIET per jaargang kon bevestigen: 2018 tot en met 2026. Het blad bestaat wel degelijk nog, er is een nummer Katrien Duck 11 uit 2024 te koop bij Magvilla en er lopen in 2026 gewone abonnementen bij onder meer Bladen.nl en Kinderbladen.nl, maar er is geen bron die de tussenliggende jaargangen opsomt, dus die heb ik niet verzonnen. Niet te verwarren met de aparte reeks Katrien Duck pockets, tien delen tussen 2009 en 2012.",
+   "items": [
+    {
+     "k": "1999",
+     "t": "Katrien jaargang 1999",
+     "j": 1999,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2000",
+     "t": "Katrien jaargang 2000",
+     "j": 2000,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2001",
+     "t": "Katrien jaargang 2001",
+     "j": 2001,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2002",
+     "t": "Katrien jaargang 2002",
+     "j": 2002,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2003",
+     "t": "Katrien jaargang 2003",
+     "j": 2003,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2004",
+     "t": "Katrien jaargang 2004",
+     "j": 2004,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2005",
+     "t": "Katrien jaargang 2005",
+     "j": 2005,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2006",
+     "t": "Katrien jaargang 2006",
+     "j": 2006,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2007",
+     "t": "Katrien jaargang 2007",
+     "j": 2007,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2008",
+     "t": "Katrien jaargang 2008",
+     "j": 2008,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2009",
+     "t": "Katrien jaargang 2009",
+     "j": 2009,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2010",
+     "t": "Katrien jaargang 2010",
+     "j": 2010,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2011",
+     "t": "Katrien jaargang 2011",
+     "j": 2011,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2012",
+     "t": "Katrien jaargang 2012",
+     "j": 2012,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2013",
+     "t": "Katrien jaargang 2013",
+     "j": 2013,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2014",
+     "t": "Katrien jaargang 2014",
+     "j": 2014,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2015",
+     "t": "Katrien jaargang 2015",
+     "j": 2015,
+     "b": "Jaargang van het tweemaandelijkse en later maandelijkse blad Katrien"
+    },
+    {
+     "k": "2016",
+     "t": "Katrien Duck jaargang 2016",
+     "j": 2016,
+     "b": "Jaargang onder de nieuwe titel Katrien Duck, twaalf nummers in 2016"
+    },
+    {
+     "k": "2017",
+     "t": "Katrien Duck jaargang 2017",
+     "j": 2017,
+     "b": "Jaargang onder de nieuwe titel Katrien Duck, twaalf nummers in 2017"
+    }
+   ]
+  },
+  {
+   "id": "dd2-lekturama",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Lekturama Donald Duck Collectie",
+   "auteur": "Carl Barks (Lekturama)",
+   "type": "strip",
+   "kleur": "#16294A",
+   "motief": "ruggen",
+   "bron": "De blauwe banden met gouden letters en titels van het type Donald Duck als fotograaf zijn de reeks die in de catalogi De beste verhalen van Donald Duck heet, gestart in 1975, met Carl Barks als tekenaar en omslagen van Daan Jippes. Volledige nummering met titels en jaartallen van donaldduckweb.nl (overzicht Beste Verhalen). Gecontroleerd tegen Goodreads (135 delen, met dezelfde titels en jaren voor onder meer 1, 4, 5, 18, 19, 22, 23, 26, 35, 37, 50, 66 en 68) en tegen de webwinkel Boekenwurmpje, die de delen 1 tot en met 17 met dezelfde titels voert. Onzeker of afwijkend: bij deel 65 geeft donaldduckweb 1990 en Goodreads 1991, hier staat 1990. Deel 134 Donald Duck als vaag figuur is gedateerd op 2009 via de Disney Boeken Database van disneyinfo.nl (ISBN 9789085745747, Sanoma). Deel 135 Donald Duck als allerlaatste bestaat wel (akim.nl, Boekenwurmpje) maar bij geen enkele bron staat een jaartal, dus dat deel is hier weggelaten. De spelling van een paar titels verschilt per bron: donaldduckweb schrijft Sherrif bij deel 25 en Kwizkandidaat bij deel 34, hier staat sheriff en quizkandidaat. Let op: er bestaat daarnaast een aparte Lekturama-uitgave met dezelfde naam Donald Duck Collectie waarin steeds vier van deze delen zijn gebundeld tot 34 dikke banden (stripINFO.be reeks 29049), en een reeks van 12 delen die het Algemeen Dagblad in 2009 uitbracht (stripINFO.be reeks 29050). Bert heeft er ongeveer zestig, dus vermoedelijk de losse delen uit deze lijst en niet de gebundelde 34.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Donald Duck als brandweerman",
+     "j": 1975,
+     "b": "Deel 1 van de reeks"
+    },
+    {
+     "k": "2",
+     "t": "Donald Duck als cowboy",
+     "j": 1976,
+     "b": "Deel 2 van de reeks"
+    },
+    {
+     "k": "3",
+     "t": "Donald Duck als schipper",
+     "j": 1976,
+     "b": "Deel 3 van de reeks"
+    },
+    {
+     "k": "4",
+     "t": "Donald Duck als postbode",
+     "j": 1977,
+     "b": "Deel 4 van de reeks"
+    },
+    {
+     "k": "5",
+     "t": "Donald Duck als slaapwandelaar",
+     "j": 1977,
+     "b": "Deel 5 van de reeks"
+    },
+    {
+     "k": "6",
+     "t": "Donald Duck als fotograaf",
+     "j": 1977,
+     "b": "Deel 6 van de reeks"
+    },
+    {
+     "k": "7",
+     "t": "Donald Duck als kampeerder",
+     "j": 1977,
+     "b": "Deel 7 van de reeks"
+    },
+    {
+     "k": "8",
+     "t": "Donald Duck als nachtwaker",
+     "j": 1978,
+     "b": "Deel 8 van de reeks"
+    },
+    {
+     "k": "9",
+     "t": "Donald Duck als kangaroe",
+     "j": 1978,
+     "b": "Deel 9 van de reeks"
+    },
+    {
+     "k": "10",
+     "t": "Donald Duck als muzikant",
+     "j": 1978,
+     "b": "Deel 10 van de reeks"
+    },
+    {
+     "k": "11",
+     "t": "Donald Duck als poolreiziger",
+     "j": 1978,
+     "b": "Deel 11 van de reeks"
+    },
+    {
+     "k": "12",
+     "t": "Donald Duck als klusjesman",
+     "j": 1979,
+     "b": "Deel 12 van de reeks"
+    },
+    {
+     "k": "13",
+     "t": "Donald Duck als topverkoper",
+     "j": 1979,
+     "b": "Deel 13 van de reeks"
+    },
+    {
+     "k": "14",
+     "t": "Donald Duck als sportman",
+     "j": 1979,
+     "b": "Deel 14 van de reeks"
+    },
+    {
+     "k": "15",
+     "t": "Donald Duck als kustwachter",
+     "j": 1979,
+     "b": "Deel 15 van de reeks"
+    },
+    {
+     "k": "16",
+     "t": "Donald Duck als circusclown",
+     "j": 1980,
+     "b": "Deel 16 van de reeks"
+    },
+    {
+     "k": "17",
+     "t": "Donald Duck als avonturier",
+     "j": 1980,
+     "b": "Deel 17 van de reeks"
+    },
+    {
+     "k": "18",
+     "t": "Donald Duck als regenmaker",
+     "j": 1980,
+     "b": "Deel 18 van de reeks"
+    },
+    {
+     "k": "19",
+     "t": "Donald Duck als spoorzoeker",
+     "j": 1980,
+     "b": "Deel 19 van de reeks"
+    },
+    {
+     "k": "20",
+     "t": "Donald Duck als wildeman",
+     "j": 1981,
+     "b": "Deel 20 van de reeks"
+    },
+    {
+     "k": "21",
+     "t": "Donald Duck als zeezeiler",
+     "j": 1981,
+     "b": "Deel 21 van de reeks"
+    },
+    {
+     "k": "22",
+     "t": "Donald Duck als goochelaar",
+     "j": 1981,
+     "b": "Deel 22 van de reeks"
+    },
+    {
+     "k": "23",
+     "t": "Donald Duck als kerstman",
+     "j": 1981,
+     "b": "Deel 23 van de reeks"
+    },
+    {
+     "k": "24",
+     "t": "Donald Duck als walskoning",
+     "j": 1982,
+     "b": "Deel 24 van de reeks"
+    },
+    {
+     "k": "25",
+     "t": "Donald Duck als sheriff",
+     "j": 1982,
+     "b": "Deel 25 van de reeks"
+    },
+    {
+     "k": "26",
+     "t": "Donald Duck als walvisvaarder",
+     "j": 1982,
+     "b": "Deel 26 van de reeks"
+    },
+    {
+     "k": "27",
+     "t": "Donald Duck als eierzoeker",
+     "j": 1982,
+     "b": "Deel 27 van de reeks"
+    },
+    {
+     "k": "28",
+     "t": "Donald Duck als geheim agent",
+     "j": 1982,
+     "b": "Deel 28 van de reeks"
+    },
+    {
+     "k": "29",
+     "t": "Donald Duck als dubbelganger",
+     "j": 1982,
+     "b": "Deel 29 van de reeks"
+    },
+    {
+     "k": "30",
+     "t": "Donald Duck als toneelspeler",
+     "j": 1983,
+     "b": "Deel 30 van de reeks"
+    },
+    {
+     "k": "31",
+     "t": "Donald Duck als moerasgast",
+     "j": 1983,
+     "b": "Deel 31 van de reeks"
+    },
+    {
+     "k": "32",
+     "t": "Donald Duck als superman",
+     "j": 1983,
+     "b": "Deel 32 van de reeks"
+    },
+    {
+     "k": "33",
+     "t": "Donald Duck als maharadja",
+     "j": 1983,
+     "b": "Deel 33 van de reeks"
+    },
+    {
+     "k": "34",
+     "t": "Donald Duck als quizkandidaat",
+     "j": 1983,
+     "b": "Deel 34 van de reeks"
+    },
+    {
+     "k": "35",
+     "t": "Donald Duck als weldoener",
+     "j": 1983,
+     "b": "Deel 35 van de reeks"
+    },
+    {
+     "k": "36",
+     "t": "Donald Duck als roerganger",
+     "j": 1984,
+     "b": "Deel 36 van de reeks"
+    },
+    {
+     "k": "37",
+     "t": "Donald Duck als zandloper",
+     "j": 1984,
+     "b": "Deel 37 van de reeks"
+    },
+    {
+     "k": "38",
+     "t": "Donald Duck als geluksvogel",
+     "j": 1984,
+     "b": "Deel 38 van de reeks"
+    },
+    {
+     "k": "39",
+     "t": "Donald Duck als kwelgeest",
+     "j": 1984,
+     "b": "Deel 39 van de reeks"
+    },
+    {
+     "k": "40",
+     "t": "Donald Duck als kwitantieloper",
+     "j": 1984,
+     "b": "Deel 40 van de reeks"
+    },
+    {
+     "k": "41",
+     "t": "Donald Duck als suikeroom",
+     "j": 1984,
+     "b": "Deel 41 van de reeks"
+    },
+    {
+     "k": "42",
+     "t": "Donald Duck als dagdromer",
+     "j": 1985,
+     "b": "Deel 42 van de reeks"
+    },
+    {
+     "k": "43",
+     "t": "Donald Duck als krachtpatser",
+     "j": 1985,
+     "b": "Deel 43 van de reeks"
+    },
+    {
+     "k": "44",
+     "t": "Donald Duck als strandjutter",
+     "j": 1985,
+     "b": "Deel 44 van de reeks"
+    },
+    {
+     "k": "45",
+     "t": "Donald Duck als taxichauffeur",
+     "j": 1985,
+     "b": "Deel 45 van de reeks"
+    },
+    {
+     "k": "46",
+     "t": "Donald Duck als toerist",
+     "j": 1986,
+     "b": "Deel 46 van de reeks"
+    },
+    {
+     "k": "47",
+     "t": "Donald Duck als verzekeringsagent",
+     "j": 1986,
+     "b": "Deel 47 van de reeks"
+    },
+    {
+     "k": "48",
+     "t": "Donald Duck als spokenvanger",
+     "j": 1986,
+     "b": "Deel 48 van de reeks"
+    },
+    {
+     "k": "49",
+     "t": "Donald Duck als ridder",
+     "j": 1986,
+     "b": "Deel 49 van de reeks"
+    },
+    {
+     "k": "50",
+     "t": "Donald Duck als jubilaris",
+     "j": 1987,
+     "b": "Deel 50 van de reeks"
+    },
+    {
+     "k": "51",
+     "t": "Donald Duck als leeuwentemmer",
+     "j": 1987,
+     "b": "Deel 51 van de reeks"
+    },
+    {
+     "k": "52",
+     "t": "Donald Duck als drijver",
+     "j": 1987,
+     "b": "Deel 52 van de reeks"
+    },
+    {
+     "k": "53",
+     "t": "Donald Duck als stationschef",
+     "j": 1987,
+     "b": "Deel 53 van de reeks"
+    },
+    {
+     "k": "54",
+     "t": "Donald Duck als beeldhouwer",
+     "j": 1988,
+     "b": "Deel 54 van de reeks"
+    },
+    {
+     "k": "55",
+     "t": "Donald Duck als lawaaischopper",
+     "j": 1988,
+     "b": "Deel 55 van de reeks"
+    },
+    {
+     "k": "56",
+     "t": "Donald Duck als verhuizer",
+     "j": 1988,
+     "b": "Deel 56 van de reeks"
+    },
+    {
+     "k": "57",
+     "t": "Donald Duck als banketbakker",
+     "j": 1988,
+     "b": "Deel 57 van de reeks"
+    },
+    {
+     "k": "58",
+     "t": "Donald Duck als makelaar",
+     "j": 1989,
+     "b": "Deel 58 van de reeks"
+    },
+    {
+     "k": "59",
+     "t": "Donald Duck als betweter",
+     "j": 1989,
+     "b": "Deel 59 van de reeks"
+    },
+    {
+     "k": "60",
+     "t": "Donald Duck als koerier",
+     "j": 1989,
+     "b": "Deel 60 van de reeks"
+    },
+    {
+     "k": "61",
+     "t": "Donald Duck als uitvinder",
+     "j": 1989,
+     "b": "Deel 61 van de reeks"
+    },
+    {
+     "k": "62",
+     "t": "Donald Duck als schatgraver",
+     "j": 1990,
+     "b": "Deel 62 van de reeks"
+    },
+    {
+     "k": "63",
+     "t": "Donald Duck als hopman",
+     "j": 1990,
+     "b": "Deel 63 van de reeks"
+    },
+    {
+     "k": "64",
+     "t": "Donald Duck als kabeljouwvanger",
+     "j": 1990,
+     "b": "Deel 64 van de reeks"
+    },
+    {
+     "k": "65",
+     "t": "Donald Duck als slangenbezweerder",
+     "j": 1990,
+     "b": "Deel 65 van de reeks"
+    },
+    {
+     "k": "66",
+     "t": "Donald Duck als supersloper",
+     "j": 1991,
+     "b": "Deel 66 van de reeks"
+    },
+    {
+     "k": "67",
+     "t": "Donald Duck als bokskampioen",
+     "j": 1991,
+     "b": "Deel 67 van de reeks"
+    },
+    {
+     "k": "68",
+     "t": "Donald Duck als wespenjager",
+     "j": 1992,
+     "b": "Deel 68 van de reeks"
+    },
+    {
+     "k": "69",
+     "t": "Donald Duck als astronaut",
+     "j": 1992,
+     "b": "Deel 69 van de reeks"
+    },
+    {
+     "k": "70",
+     "t": "Donald Duck als fakkeldrager",
+     "j": 1992,
+     "b": "Deel 70 van de reeks"
+    },
+    {
+     "k": "71",
+     "t": "Donald Duck als holbewoner",
+     "j": 1992,
+     "b": "Deel 71 van de reeks"
+    },
+    {
+     "k": "72",
+     "t": "Donald Duck als pechvogel",
+     "j": 1992,
+     "b": "Deel 72 van de reeks"
+    },
+    {
+     "k": "73",
+     "t": "Donald Duck als vuurtorenwachter",
+     "j": 1992,
+     "b": "Deel 73 van de reeks"
+    },
+    {
+     "k": "74",
+     "t": "Donald Duck als detective",
+     "j": 1993,
+     "b": "Deel 74 van de reeks"
+    },
+    {
+     "k": "75",
+     "t": "Donald Duck als boogschutter",
+     "j": 1993,
+     "b": "Deel 75 van de reeks"
+    },
+    {
+     "k": "76",
+     "t": "Donald Duck als bermtoerist",
+     "j": 1993,
+     "b": "Deel 76 van de reeks"
+    },
+    {
+     "k": "77",
+     "t": "Donald Duck als zoetekauw",
+     "j": 1993,
+     "b": "Deel 77 van de reeks"
+    },
+    {
+     "k": "78",
+     "t": "Donald Duck als manager",
+     "j": 1994,
+     "b": "Deel 78 van de reeks"
+    },
+    {
+     "k": "79",
+     "t": "Donald Duck als verstekeling",
+     "j": 1994,
+     "b": "Deel 79 van de reeks"
+    },
+    {
+     "k": "80",
+     "t": "Donald Duck als diepzeeduiker",
+     "j": 1994,
+     "b": "Deel 80 van de reeks"
+    },
+    {
+     "k": "81",
+     "t": "Donald Duck als buurman",
+     "j": 1995,
+     "b": "Deel 81 van de reeks"
+    },
+    {
+     "k": "82",
+     "t": "Donald Duck als proefkonijn",
+     "j": 1995,
+     "b": "Deel 82 van de reeks"
+    },
+    {
+     "k": "83",
+     "t": "Donald Duck als journalist",
+     "j": 1995,
+     "b": "Deel 83 van de reeks"
+    },
+    {
+     "k": "84",
+     "t": "Donald Duck als verliezer",
+     "j": 1995,
+     "b": "Deel 84 van de reeks"
+    },
+    {
+     "k": "85",
+     "t": "Donald Duck als stijfkop",
+     "j": 1995,
+     "b": "Deel 85 van de reeks"
+    },
+    {
+     "k": "86",
+     "t": "Donald Duck als tegenstander",
+     "j": 1996,
+     "b": "Deel 86 van de reeks"
+    },
+    {
+     "k": "87",
+     "t": "Donald Duck als valsspeler",
+     "j": 1996,
+     "b": "Deel 87 van de reeks"
+    },
+    {
+     "k": "88",
+     "t": "Donald Duck als kip zonder kop",
+     "j": 1996,
+     "b": "Deel 88 van de reeks"
+    },
+    {
+     "k": "89",
+     "t": "Donald Duck als kerstdiner",
+     "j": 1996,
+     "b": "Deel 89 van de reeks"
+    },
+    {
+     "k": "90",
+     "t": "Donald Duck als specialist",
+     "j": 1997,
+     "b": "Deel 90 van de reeks"
+    },
+    {
+     "k": "91",
+     "t": "Donald Duck als archeoloog",
+     "j": 1997,
+     "b": "Deel 91 van de reeks"
+    },
+    {
+     "k": "92",
+     "t": "Donald Duck als chirurg",
+     "j": 1997,
+     "b": "Deel 92 van de reeks"
+    },
+    {
+     "k": "93",
+     "t": "Donald Duck als zeerover",
+     "j": 1997,
+     "b": "Deel 93 van de reeks"
+    },
+    {
+     "k": "94",
+     "t": "Donald Duck als driekusman",
+     "j": 1998,
+     "b": "Deel 94 van de reeks"
+    },
+    {
+     "k": "95",
+     "t": "Donald Duck als schietschijf",
+     "j": 1998,
+     "b": "Deel 95 van de reeks"
+    },
+    {
+     "k": "96",
+     "t": "Donald Duck als swingvogel",
+     "j": 1998,
+     "b": "Deel 96 van de reeks"
+    },
+    {
+     "k": "97",
+     "t": "Donald Duck als ongelikte beer",
+     "j": 1998,
+     "b": "Deel 97 van de reeks"
+    },
+    {
+     "k": "98",
+     "t": "Donald Duck als suppoost",
+     "j": 1999,
+     "b": "Deel 98 van de reeks"
+    },
+    {
+     "k": "99",
+     "t": "Donald Duck als schipbreukeling",
+     "j": 1999,
+     "b": "Deel 99 van de reeks"
+    },
+    {
+     "k": "100",
+     "t": "Donald Duck als honderdste",
+     "j": 1999,
+     "b": "Deel 100 van de reeks"
+    },
+    {
+     "k": "101",
+     "t": "Donald Duck als vrachtwagenchauffeur",
+     "j": 1999,
+     "b": "Deel 101 van de reeks"
+    },
+    {
+     "k": "102",
+     "t": "Donald Duck als politieagent",
+     "j": 2000,
+     "b": "Deel 102 van de reeks"
+    },
+    {
+     "k": "103",
+     "t": "Donald Duck als stijve hark",
+     "j": 2000,
+     "b": "Deel 103 van de reeks"
+    },
+    {
+     "k": "104",
+     "t": "Donald Duck als zeemeerman",
+     "j": 2000,
+     "b": "Deel 104 van de reeks"
+    },
+    {
+     "k": "105",
+     "t": "Donald Duck als jockey",
+     "j": 2000,
+     "b": "Deel 105 van de reeks"
+    },
+    {
+     "k": "106",
+     "t": "Donald Duck als milieubeschermer",
+     "j": 2001,
+     "b": "Deel 106 van de reeks"
+    },
+    {
+     "k": "107",
+     "t": "Donald Duck als erfgenaam",
+     "j": 2001,
+     "b": "Deel 107 van de reeks"
+    },
+    {
+     "k": "108",
+     "t": "Donald Duck als vreemde eend",
+     "j": 2001,
+     "b": "Deel 108 van de reeks"
+    },
+    {
+     "k": "109",
+     "t": "Donald Duck als bedrieger",
+     "j": 2001,
+     "b": "Deel 109 van de reeks"
+    },
+    {
+     "k": "110",
+     "t": "Donald Duck als hoofdgerecht",
+     "j": 2002,
+     "b": "Deel 110 van de reeks"
+    },
+    {
+     "k": "111",
+     "t": "Donald Duck als speurneus",
+     "j": 2002,
+     "b": "Deel 111 van de reeks"
+    },
+    {
+     "k": "112",
+     "t": "Donald Duck als lijfwacht",
+     "j": 2002,
+     "b": "Deel 112 van de reeks"
+    },
+    {
+     "k": "113",
+     "t": "Donald Duck als goudhaantje",
+     "j": 2002,
+     "b": "Deel 113 van de reeks"
+    },
+    {
+     "k": "114",
+     "t": "Donald Duck als houthakker",
+     "j": 2003,
+     "b": "Deel 114 van de reeks"
+    },
+    {
+     "k": "115",
+     "t": "Donald Duck als goudzoeker",
+     "j": 2003,
+     "b": "Deel 115 van de reeks"
+    },
+    {
+     "k": "116",
+     "t": "Donald Duck als hotelgast",
+     "j": 2003,
+     "b": "Deel 116 van de reeks"
+    },
+    {
+     "k": "117",
+     "t": "Donald Duck als bangerik",
+     "j": 2003,
+     "b": "Deel 117 van de reeks"
+    },
+    {
+     "k": "118",
+     "t": "Donald Duck als toeschouwer",
+     "j": 2004,
+     "b": "Deel 118 van de reeks"
+    },
+    {
+     "k": "119",
+     "t": "Donald Duck als waterdrager",
+     "j": 2004,
+     "b": "Deel 119 van de reeks"
+    },
+    {
+     "k": "120",
+     "t": "Donald Duck als bodyguard",
+     "j": 2004,
+     "b": "Deel 120 van de reeks"
+    },
+    {
+     "k": "121",
+     "t": "Donald Duck als oliesjeik",
+     "j": 2004,
+     "b": "Deel 121 van de reeks"
+    },
+    {
+     "k": "122",
+     "t": "Donald Duck als klager",
+     "j": 2004,
+     "b": "Deel 122 van de reeks"
+    },
+    {
+     "k": "123",
+     "t": "Donald Duck als spanjool",
+     "j": 2005,
+     "b": "Deel 123 van de reeks"
+    },
+    {
+     "k": "124",
+     "t": "Donald Duck als groentje",
+     "j": 2005,
+     "b": "Deel 124 van de reeks"
+    },
+    {
+     "k": "125",
+     "t": "Donald Duck als snoeper",
+     "j": 2005,
+     "b": "Deel 125 van de reeks"
+    },
+    {
+     "k": "126",
+     "t": "Donald Duck als voorproever",
+     "j": 2006,
+     "b": "Deel 126 van de reeks"
+    },
+    {
+     "k": "127",
+     "t": "Donald Duck als bliksemafleider",
+     "j": 2006,
+     "b": "Deel 127 van de reeks"
+    },
+    {
+     "k": "128",
+     "t": "Donald Duck als telfout",
+     "j": 2006,
+     "b": "Deel 128 van de reeks"
+    },
+    {
+     "k": "129",
+     "t": "Donald Duck als brievenbesteller",
+     "j": 2006,
+     "b": "Deel 129 van de reeks"
+    },
+    {
+     "k": "130",
+     "t": "Donald Duck als landmeter",
+     "j": 2007,
+     "b": "Deel 130 van de reeks"
+    },
+    {
+     "k": "131",
+     "t": "Donald Duck als zweefeend",
+     "j": 2007,
+     "b": "Deel 131 van de reeks"
+    },
+    {
+     "k": "132",
+     "t": "Donald Duck als limonadekoning",
+     "j": 2007,
+     "b": "Deel 132 van de reeks"
+    },
+    {
+     "k": "133",
+     "t": "Donald Duck als lokeend",
+     "j": 2008,
+     "b": "Deel 133 van de reeks"
+    },
+    {
+     "k": "134",
+     "t": "Donald Duck als vaag figuur",
+     "j": 2009,
+     "b": "Deel 134, uitgegeven door Sanoma, ISBN 9789085745747"
     }
    ]
   },
@@ -15851,6 +18303,302 @@
     }
    ],
    "taal": "nl"
+  },
+  {
+   "id": "dd2-stripgoed",
+   "groep": "Donald Duck",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Stripgoed",
+   "auteur": "Oberon",
+   "type": "strip",
+   "kleur": "#5B3A16",
+   "motief": "ballon",
+   "bron": "Het is inderdaad geen jaargangreeks maar een doorlopend genummerde Disney-reeks van uitgeverij Oberon, 47 nummers, 1982 tot en met 1986. Volledige nummering en jaartallen van stripINFO.be reeks 13027 (Stripgoed, Oberon). Dat het om Disney gaat is bevestigd door strip-aap.nl, dat de nummers voert als Donald Duck Stripgoed 01 Op avontuur met Donald Duck 1982, nummer 09 en 15 idem, nummer 04 Dagobert Duck en de schat van de dolfijnenkoning en de nummers 38 en 47 onder de omslagreeks Donald Duck Extra; bol.com beschrijft de eerste reeks als Stripgoed Op avontuur met Donald Duck en Op avontuur met Dagobert Duck delen 1 t/m 11 uit 1982-83 en delen 12 t/m 23 uit 1983-84. Onzeker: stripINFO geeft voor de nummers 1 tot en met 37 geen eigen titel, dus daar staat de reeksnaam met nummer in t behalve bij de vier nummers waarvan strip-aap wel een titel geeft. Ook loopt de jaartelling van bol.com een jaar uit de pas met stripINFO voor de nummers 12 t/m 23; ik heb de jaren van stripINFO aangehouden. Strip-aap dateert nummer 04 op 1983, stripINFO op 1982.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Op avontuur met Donald Duck",
+     "j": 1982,
+     "b": "Deel 1; titel bevestigd"
+    },
+    {
+     "k": "2",
+     "t": "Stripgoed 2",
+     "j": 1982,
+     "b": "Deel 2; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "3",
+     "t": "Stripgoed 3",
+     "j": 1982,
+     "b": "Deel 3; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "4",
+     "t": "Dagobert Duck en de schat van de dolfijnenkoning",
+     "j": 1982,
+     "b": "Deel 4; titel bevestigd"
+    },
+    {
+     "k": "5",
+     "t": "Stripgoed 5",
+     "j": 1982,
+     "b": "Deel 5; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "6",
+     "t": "Stripgoed 6",
+     "j": 1982,
+     "b": "Deel 6; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "7",
+     "t": "Stripgoed 7",
+     "j": 1983,
+     "b": "Deel 7; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "8",
+     "t": "Stripgoed 8",
+     "j": 1983,
+     "b": "Deel 8; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "9",
+     "t": "Op avontuur met Donald Duck",
+     "j": 1983,
+     "b": "Deel 9; titel bevestigd"
+    },
+    {
+     "k": "10",
+     "t": "Stripgoed 10",
+     "j": 1983,
+     "b": "Deel 10; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "11",
+     "t": "Stripgoed 11",
+     "j": 1983,
+     "b": "Deel 11; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "12",
+     "t": "Stripgoed 12",
+     "j": 1983,
+     "b": "Deel 12; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "13",
+     "t": "Stripgoed 13",
+     "j": 1984,
+     "b": "Deel 13; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "14",
+     "t": "Stripgoed 14",
+     "j": 1984,
+     "b": "Deel 14; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "15",
+     "t": "Op avontuur met Donald Duck",
+     "j": 1984,
+     "b": "Deel 15; titel bevestigd"
+    },
+    {
+     "k": "16",
+     "t": "Stripgoed 16",
+     "j": 1984,
+     "b": "Deel 16; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "17",
+     "t": "Stripgoed 17",
+     "j": 1984,
+     "b": "Deel 17; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "18",
+     "t": "Stripgoed 18",
+     "j": 1984,
+     "b": "Deel 18; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "19",
+     "t": "Stripgoed 19",
+     "j": 1984,
+     "b": "Deel 19; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "20",
+     "t": "Stripgoed 20",
+     "j": 1984,
+     "b": "Deel 20; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "21",
+     "t": "Stripgoed 21",
+     "j": 1984,
+     "b": "Deel 21; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "22",
+     "t": "Stripgoed 22",
+     "j": 1984,
+     "b": "Deel 22; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "23",
+     "t": "Stripgoed 23",
+     "j": 1984,
+     "b": "Deel 23; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "24",
+     "t": "Stripgoed 24",
+     "j": 1985,
+     "b": "Deel 24; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "25",
+     "t": "Stripgoed 25",
+     "j": 1985,
+     "b": "Deel 25; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "26",
+     "t": "Stripgoed 26",
+     "j": 1985,
+     "b": "Deel 26; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "27",
+     "t": "Stripgoed 27",
+     "j": 1985,
+     "b": "Deel 27; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "28",
+     "t": "Stripgoed 28",
+     "j": 1985,
+     "b": "Deel 28; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "29",
+     "t": "Stripgoed 29",
+     "j": 1985,
+     "b": "Deel 29; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "30",
+     "t": "Stripgoed 30",
+     "j": 1985,
+     "b": "Deel 30; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "31",
+     "t": "Stripgoed 31",
+     "j": 1985,
+     "b": "Deel 31; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "32",
+     "t": "Stripgoed 32",
+     "j": 1985,
+     "b": "Deel 32; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "33",
+     "t": "Stripgoed 33",
+     "j": 1985,
+     "b": "Deel 33; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "34",
+     "t": "Stripgoed 34",
+     "j": 1985,
+     "b": "Deel 34; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "35",
+     "t": "Stripgoed 35",
+     "j": 1985,
+     "b": "Deel 35; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "36",
+     "t": "Stripgoed 36",
+     "j": 1986,
+     "b": "Deel 36; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "37",
+     "t": "Stripgoed 37",
+     "j": 1986,
+     "b": "Deel 37; titel niet in de bronnen terug te vinden"
+    },
+    {
+     "k": "38",
+     "t": "De schat van Dick Duckson",
+     "j": 1986,
+     "b": "Deel 38; titel bevestigd, omslagreeks Donald Duck Extra"
+    },
+    {
+     "k": "39",
+     "t": "Paniek in de Poolzee",
+     "j": 1986,
+     "b": "Deel 39; titel bevestigd, omslagreeks Donald Duck Extra"
+    },
+    {
+     "k": "40",
+     "t": "Het mysterie van de oude molen",
+     "j": 1986,
+     "b": "Deel 40; titel bevestigd, omslagreeks Donald Duck Extra"
+    },
+    {
+     "k": "41",
+     "t": "Gestrand bij de Grieken",
+     "j": 1986,
+     "b": "Deel 41; titel bevestigd, omslagreeks Donald Duck Extra"
+    },
+    {
+     "k": "42",
+     "t": "De Noorse bijl",
+     "j": 1986,
+     "b": "Deel 42; titel bevestigd, omslagreeks Donald Duck Extra"
+    },
+    {
+     "k": "43",
+     "t": "De neef uit Canada",
+     "j": 1986,
+     "b": "Deel 43; titel bevestigd, omslagreeks Donald Duck Extra"
+    },
+    {
+     "k": "44",
+     "t": "Vlucht uit de negentiende eeuw",
+     "j": 1986,
+     "b": "Deel 44; titel bevestigd, omslagreeks Donald Duck Extra"
+    },
+    {
+     "k": "45",
+     "t": "Monsters in het meer",
+     "j": 1986,
+     "b": "Deel 45; titel bevestigd, omslagreeks Donald Duck Extra"
+    },
+    {
+     "k": "46",
+     "t": "Schatgravers en schurkenstreken",
+     "j": 1986,
+     "b": "Deel 46; titel bevestigd, omslagreeks Donald Duck Extra"
+    },
+    {
+     "k": "47",
+     "t": "De apestreken van pluizebol",
+     "j": 1986,
+     "b": "Deel 47; titel bevestigd, omslagreeks Donald Duck Extra"
+    }
+   ]
   },
   {
    "id": "dd-vrolijke",
@@ -19159,6 +21907,42 @@
      "k": "382",
      "t": "De Ring Van Medusa",
      "j": 0
+    },
+    {
+     "k": "174½",
+     "t": "Donald Duck Pocket 174½",
+     "j": 2000,
+     "b": "tussennummer, titel en jaar nog na te kijken"
+    },
+    {
+     "k": "190½",
+     "t": "Donald Duck Pocket 190½",
+     "j": 2000,
+     "b": "tussennummer, titel en jaar nog na te kijken"
+    },
+    {
+     "k": "198½",
+     "t": "Donald Duck Pocket 198½",
+     "j": 2000,
+     "b": "tussennummer, titel en jaar nog na te kijken"
+    },
+    {
+     "k": "202½",
+     "t": "Donald Duck Pocket 202½",
+     "j": 2000,
+     "b": "tussennummer, titel en jaar nog na te kijken"
+    },
+    {
+     "k": "207½",
+     "t": "Donald Duck Pocket 207½",
+     "j": 2000,
+     "b": "tussennummer, titel en jaar nog na te kijken"
+    },
+    {
+     "k": "214½",
+     "t": "Donald Duck Pocket 214½",
+     "j": 2000,
+     "b": "tussennummer, titel en jaar nog na te kijken"
     }
    ]
   },
@@ -19889,6 +22673,92 @@
      "t": "Dune: The Waters of Kanly",
      "j": 2023,
      "b": "BOOM! Studios hardcover, verschenen 14 februari 2023, bundelt de nummers 1 tot 4. Tekeningen Francesco Mortarino. Speelt tijdens de gebeurtenissen van de eerste roman, met Gurney Halleck."
+    }
+   ]
+  },
+  {
+   "id": "ed-the-boys-12",
+   "groep": "Dynamite",
+   "rubriek": "strips",
+   "taal": "en",
+   "naam": "The Boys (Dynamite, de twaalfdelige pocketreeks)",
+   "auteur": "Garth Ennis en Darick Robertson (Dynamite Entertainment)",
+   "type": "strip",
+   "kleur": "#3A0D12",
+   "motief": "zwaard",
+   "bron": "De twaalf pockets met titels en jaartallen komen van de Goodreads-reekspagina 59108 (The Boys, Trade Paperbacks), die precies twaalf delen plus het latere Dear Becky toont. De afzonderlijke nummers per deel zijn gecontroleerd bij comicbookherald.com (leesvolgorde The Boys), dat de verhaalbogen en hun nummers geeft. Drie jaartallen zijn extra nagetrokken bij de uitgever of de reeksbron: deel 7 The Innocents is volgens simonandschuster.com verschenen op 16 november 2010 en bundelt nummer 39 tot 47, deel 9 The Big Ride is volgens Wikipedia verschenen op 9 november 2011 en bundelt nummer 48 tot 59, en deel 12 The Bloody Doors Off staat bij ebay en abebooks als uitgave uit 2012 met ISBN 9781606903735. UITDRUKKELIJK NIET OPGENOMEN, zoals gevraagd: de zes omnibussen van Dynamite, die volgens comicbookherald.com dezelfde stof bundelen (omnibus 1 is nummer 1 tot 14, omnibus 6 is nummer 60 tot 72), en ook de drie oversized omnibussen. ONZEKER: de titel van deel 11 wisselt per bron tussen Over the Hill with the Swords of a Thousand Men en varianten met Hills of Sword in het enkelvoud; ik hield de vorm van Wikipedia aan. Het latere vervolg The Boys: Dear Becky (2020-2021) hoort niet bij de twaalfdelige reeks en staat er dus niet in.",
+   "items": [
+    {
+     "k": "1",
+     "t": "The Boys, Vol. 1: The Name of the Game",
+     "j": 2007,
+     "b": "Bundelt nummer 1 tot 6, met een voorwoord van Simon Pegg"
+    },
+    {
+     "k": "2",
+     "t": "The Boys, Vol. 2: Get Some",
+     "j": 2008,
+     "b": "Bundelt nummer 7 tot 14"
+    },
+    {
+     "k": "3",
+     "t": "The Boys, Vol. 3: Good for the Soul",
+     "j": 2008,
+     "b": "Bundelt nummer 15 tot 22"
+    },
+    {
+     "k": "4",
+     "t": "The Boys, Vol. 4: We Gotta Go Now",
+     "j": 2009,
+     "b": "Bundelt nummer 23 tot 30"
+    },
+    {
+     "k": "5",
+     "t": "The Boys, Vol. 5: Herogasm",
+     "j": 2009,
+     "b": "Bundelt de zesdelige minireeks Herogasm"
+    },
+    {
+     "k": "6",
+     "t": "The Boys, Vol. 6: The Self-Preservation Society",
+     "j": 2010,
+     "b": "Bundelt nummer 31 tot 38"
+    },
+    {
+     "k": "7",
+     "t": "The Boys, Vol. 7: The Innocents",
+     "j": 2010,
+     "b": "Bundelt nummer 39 tot 47"
+    },
+    {
+     "k": "8",
+     "t": "The Boys, Vol. 8: Highland Laddie",
+     "j": 2011,
+     "b": "Bundelt de zesdelige minireeks Highland Laddie"
+    },
+    {
+     "k": "9",
+     "t": "The Boys, Vol. 9: The Big Ride",
+     "j": 2011,
+     "b": "Bundelt nummer 48 tot 59"
+    },
+    {
+     "k": "10",
+     "t": "The Boys, Vol. 10: Butcher, Baker, Candlestickmaker",
+     "j": 2012,
+     "b": "Bundelt de zesdelige gelijknamige minireeks"
+    },
+    {
+     "k": "11",
+     "t": "The Boys, Vol. 11: Over the Hill with the Swords of a Thousand Men",
+     "j": 2012,
+     "b": "Bundelt nummer 60 tot 65"
+    },
+    {
+     "k": "12",
+     "t": "The Boys, Vol. 12: The Bloody Doors Off",
+     "j": 2012,
+     "b": "Bundelt nummer 66 tot 72, het slot van de reeks"
     }
    ]
   },
@@ -21060,6 +23930,115 @@
      "k": "15",
      "t": "Van flaters tot kraters",
      "j": 1996
+    }
+   ]
+  },
+  {
+   "id": "ed-guust-integrale",
+   "groep": "Guust Flater",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Guust chronologisch - de integrale in cassette, delen 1 tot 19",
+   "auteur": "Andre Franquin (Dupuis)",
+   "type": "strip",
+   "kleur": "#1B3A6B",
+   "motief": "ballon",
+   "bron": "De reeks heet bij de uitgever Guust chronologisch: de systematische heruitgave van de volledige reeks Guust in chronologische volgorde, aldus dupuis.com. De titels en de nummering komen van twee bronnen die volledig overeenstemmen: stripINFO.be reeks 36813 (Guust chronologisch) en depoort.com reekspagina 5018 (Guust - Chronologisch). De jaartallen komen van depoort.com, dat de delen 1 tot 8 op 2017 dateert en de delen 9 tot 19 op 2018. Dat de cassette bestaat is bevestigd door lambiek.net shoppagina 65580 (Guust compleet - 19 delen in box, Dupuis, 28 februari 2017, ter gelegenheid van 60 jaar Guust) en door veilingagenda.nl (Guust Flater 1 t/m 19 in box, actie Dupuis en Knack). ONZEKER: stripINFO geeft per deel geen exact jaar maar een bereik 2017-2020 of 2017-2021, dus de jaartallen van depoort zijn met een tweede bron alleen op reeksniveau te staven, niet deel per deel. De boxbron uit 2017 en een verschijning van deel 19 in 2018 spreken elkaar bovendien tegen; vermoedelijk is er een eerste box met minder delen geweest en is de volledige box later opnieuw uitgebracht. Titel van deel 14 wisselt per bron tussen Die reuze flater (stripINFO) en De reuze Flater (depoort); ik hield de eerste aan. De reeks stopt niet bij 19: stripINFO en depoort tonen ook nog deel 20 Flater veert helemaal op en deel 22 Flater slaat weer toe, die niet in jouw cassette zitten en dus hier ontbreken.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Eerste flaters",
+     "j": 2017
+    },
+    {
+     "k": "2",
+     "t": "Hoed je voor flaters",
+     "j": 2017
+    },
+    {
+     "k": "3",
+     "t": "Heet van de flater",
+     "j": 2017
+    },
+    {
+     "k": "4",
+     "t": "Daverende flaters te koop",
+     "j": 2017
+    },
+    {
+     "k": "5",
+     "t": "Flaterfestijn",
+     "j": 2017
+    },
+    {
+     "k": "6",
+     "t": "Flappende flaters",
+     "j": 2017
+    },
+    {
+     "k": "7",
+     "t": "Flaters schade",
+     "j": 2017
+    },
+    {
+     "k": "8",
+     "t": "Flaters bij de vleet",
+     "j": 2017
+    },
+    {
+     "k": "9",
+     "t": "Van flaters gesproken",
+     "j": 2018
+    },
+    {
+     "k": "10",
+     "t": "Van flaters tot kraters",
+     "j": 2018
+    },
+    {
+     "k": "11",
+     "t": "Flaters van formaat",
+     "j": 2018
+    },
+    {
+     "k": "12",
+     "t": "Het geval Flater",
+     "j": 2018
+    },
+    {
+     "k": "13",
+     "t": "Een Flater kruipt waar hij niet gaan kan",
+     "j": 2018
+    },
+    {
+     "k": "14",
+     "t": "Die reuze flater",
+     "j": 2018
+    },
+    {
+     "k": "15",
+     "t": "Welterusten, Flater",
+     "j": 2018
+    },
+    {
+     "k": "16",
+     "t": "Flaters, floppen en flouzen",
+     "j": 2018
+    },
+    {
+     "k": "17",
+     "t": "De flaterbende",
+     "j": 2018
+    },
+    {
+     "k": "18",
+     "t": "Flater verdient een optater",
+     "j": 2018
+    },
+    {
+     "k": "19",
+     "t": "De flatersaga",
+     "j": 2018
     }
    ]
   },
@@ -22352,6 +25331,44 @@
      "k": "32",
      "t": "Rest in Peace",
      "j": 2019
+    }
+   ]
+  },
+  {
+   "id": "ed-twd-compendium",
+   "groep": "Image Comics",
+   "rubriek": "strips",
+   "taal": "en",
+   "naam": "The Walking Dead Compendium",
+   "auteur": "Robert Kirkman, Tony Moore en Charlie Adlard (Image Comics)",
+   "type": "strip",
+   "kleur": "#22282B",
+   "motief": "sleutelgat",
+   "bron": "Dat het er vier zijn en welke nummers erin zitten, is bevestigd door twee bronnen die exact overeenstemmen: undeadwalking.com (artikel over de compendia, nummer 1 tot 48, 49 tot 96, 97 tot 144 en 145 tot 193) en comicbookherald.com (leesvolgorde The Walking Dead). De jaartallen van deel 1 en deel 4 komen van de uitgever zelf: imagecomics.com geeft voor Compendium One 6 mei 2009 en verwijst voor Compendium Four naar 2 oktober 2019. Het jaartal 2009 voor deel 1 wordt bevestigd door de catalogusgegevens bij archive.org, die er bovendien bij vermelden dat er ook de Image Holiday Special 2005 in zit. ONZEKER: voor deel 2 en deel 3 heb ik de jaartallen 2012 en 2015 maar bij een bron gevonden (comicbookherald.com); de uitgeverspagina's van die twee delen kreeg ik niet geopend, dus reken die twee jaartallen als waarschijnlijk maar niet dubbel bevestigd. Diezelfde bron dateert deel 1 verkeerd op 2010 en deel 4 op 2017, terwijl de uitgever 2009 en 2019 zegt; ik volgde de uitgever. Er is geen vijfde compendium: de reeks eindigt met nummer 193.",
+   "items": [
+    {
+     "k": "1",
+     "t": "The Walking Dead Compendium One",
+     "j": 2009,
+     "b": "Bundelt nummer 1 tot 48 en de Image Holiday Special 2005, ruim 1000 bladzijden"
+    },
+    {
+     "k": "2",
+     "t": "The Walking Dead Compendium Two",
+     "j": 2012,
+     "b": "Bundelt nummer 49 tot 96"
+    },
+    {
+     "k": "3",
+     "t": "The Walking Dead Compendium Three",
+     "j": 2015,
+     "b": "Bundelt nummer 97 tot 144"
+    },
+    {
+     "k": "4",
+     "t": "The Walking Dead Compendium Four",
+     "j": 2019,
+     "b": "Bundelt nummer 145 tot 193, het slot van de reeks"
     }
    ]
   },
@@ -24528,6 +27545,68 @@
    ]
   },
   {
+   "id": "ed-kuifje-cassette",
+   "groep": "Kuifje",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Kuifje - de acht rode verzamelbanden in cassette",
+   "auteur": "Herge (Casterman)",
+   "type": "strip",
+   "kleur": "#8C1A16",
+   "motief": "papegaai",
+   "bron": "lambiek.net shoppagina 66061 (Box - De avonturen van Kuifje, Casterman) beschrijft de cassette als een set van acht gebonden banden met alle officieel verschenen kleurenalbums plus de twee zeldzame uitgaven Kuifje in het land van de Sovjets en Kuifje en de Alfa-kunst, samen dus 24 albums. stripwinkelblunder.nl bevestigt de opbouw acht banden met telkens drie complete avonturen, 24 albums in totaal. Het jaartal 2015 komt van de catawiki-kavel Kuifje Luxe box Casterman rode uitgave complete reeks in cassette (2015), bevestigd door bobbedoes.nl dat dezelfde rode Casterman-cassette uit 2015 beschrijft als een Humo-uitgave en meldt dat band 8 het onafgewerkte Kuifje en de Alfa-kunst bevat. LET OP, DIT IS ECHT ONZEKER: geen van de bronnen geeft een officiele inhoudstafel per band. De verdeling in b is de chronologische verdeling van de 24 albums in acht groepjes van drie, wat rekenkundig klopt (8 maal 3 is 24) en past bij de albumvolgorde, maar ik heb hem NIET met een bron kunnen bevestigen. Bobbedoes spreekt zelfs van gebundeld per drie of vier, dus controleer de ruggen even voor je afvinkt. Verder bestaat er ook een Casterman-box met acht albums uit 2008 en een blauwe achtdelige box uit augustus 2025 (stripwinkelblunder.nl); als jouw cassette een van die twee is, klopt het jaartal 2015 niet.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Band 1",
+     "j": 2015,
+     "b": "Kuifje in het land van de Sovjets, Kuifje in Afrika, Kuifje in Amerika"
+    },
+    {
+     "k": "2",
+     "t": "Band 2",
+     "j": 2015,
+     "b": "De sigaren van de farao, De blauwe lotus, De gebroken oren"
+    },
+    {
+     "k": "3",
+     "t": "Band 3",
+     "j": 2015,
+     "b": "Het zwarte eiland, De scepter van Ottokar, De krab met de gulden scharen"
+    },
+    {
+     "k": "4",
+     "t": "Band 4",
+     "j": 2015,
+     "b": "De geheimzinnige ster, Het geheim van de Eenhoorn, De schat van Scharlaken Rackham"
+    },
+    {
+     "k": "5",
+     "t": "Band 5",
+     "j": 2015,
+     "b": "De zeven kristallen bollen, De zonnetempel, Het zwarte goud"
+    },
+    {
+     "k": "6",
+     "t": "Band 6",
+     "j": 2015,
+     "b": "Raket naar de maan, Mannen op de maan, De zaak Zonnebloem"
+    },
+    {
+     "k": "7",
+     "t": "Band 7",
+     "j": 2015,
+     "b": "Cokes in voorraad, Kuifje in Tibet, De juwelen van Bianca Castafiore"
+    },
+    {
+     "k": "8",
+     "t": "Band 8",
+     "j": 2015,
+     "b": "Vlucht 714, Kuifje en de Picaro's, Kuifje en de Alfa-kunst"
+    }
+   ]
+  },
+  {
    "id": "x-lucky-luke-mtf4qtew",
    "groep": "Lucky Luke",
    "rubriek": "strips",
@@ -24958,6 +28037,110 @@
      "k": "A11",
      "t": "Een cowboy onder druk",
      "n": "Vervolgreeks door Achde"
+    }
+   ]
+  },
+  {
+   "id": "ed-lucky-luke-morris",
+   "groep": "Lucky Luke",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Lucky Luke - Alles door Morris (integrale, 18 delen)",
+   "auteur": "Morris, met scenario's van onder meer Rene Goscinny (Lucky Comics)",
+   "type": "strip",
+   "kleur": "#5A2E0D",
+   "motief": "zon",
+   "bron": "stripINFO.be reeks 42887 (Lucky Luke: Alles door Morris) geeft precies 18 delen, alle met jaartal 2018 en uitgever Lucky Comics. Bevestigd door depoort.com artikel 43533 (Alles door Morris - 18 hardcovers, beschikbaar vanaf 01-06-2018, 3504 pagina's, alle 73 verhalen van Morris), door stripbteaser.nl (18x hc 2018) en door catawiki en bobbedoes.nl die de reeks eveneens als complete serie van 18 integraaldelen uit 2018 aanbieden. ONZEKER EN DAAROM WEGGELATEN: de delen dragen bij alle vier de bronnen geen eigen titel, alleen Deel 1 tot en met Deel 18, dus staat dat ook zo in t. Ik heb bij geen enkele bron een betrouwbare inhoudsopgave gevonden die per deel opsomt welke albums erin zitten, dus b is bewust leeggelaten in plaats van dat ik zelf een verdeling zou verzinnen. Ook het jaartal is bij alle bronnen hetzelfde jaar 2018 voor de hele reeks, wat klopt met een reeks die in een keer in een cassette op de markt kwam. Let op: er bestaat daarnaast nog een aparte Humo-uitgave van dezelfde integrale, die kan een ander jaartal op het colofon hebben.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Deel 1",
+     "j": 2018
+    },
+    {
+     "k": "2",
+     "t": "Deel 2",
+     "j": 2018
+    },
+    {
+     "k": "3",
+     "t": "Deel 3",
+     "j": 2018
+    },
+    {
+     "k": "4",
+     "t": "Deel 4",
+     "j": 2018
+    },
+    {
+     "k": "5",
+     "t": "Deel 5",
+     "j": 2018
+    },
+    {
+     "k": "6",
+     "t": "Deel 6",
+     "j": 2018
+    },
+    {
+     "k": "7",
+     "t": "Deel 7",
+     "j": 2018
+    },
+    {
+     "k": "8",
+     "t": "Deel 8",
+     "j": 2018
+    },
+    {
+     "k": "9",
+     "t": "Deel 9",
+     "j": 2018
+    },
+    {
+     "k": "10",
+     "t": "Deel 10",
+     "j": 2018
+    },
+    {
+     "k": "11",
+     "t": "Deel 11",
+     "j": 2018
+    },
+    {
+     "k": "12",
+     "t": "Deel 12",
+     "j": 2018
+    },
+    {
+     "k": "13",
+     "t": "Deel 13",
+     "j": 2018
+    },
+    {
+     "k": "14",
+     "t": "Deel 14",
+     "j": 2018
+    },
+    {
+     "k": "15",
+     "t": "Deel 15",
+     "j": 2018
+    },
+    {
+     "k": "16",
+     "t": "Deel 16",
+     "j": 2018
+    },
+    {
+     "k": "17",
+     "t": "Deel 17",
+     "j": 2018
+    },
+    {
+     "k": "18",
+     "t": "Deel 18",
+     "j": 2018
     }
    ]
   },
@@ -26118,6 +29301,38 @@
      "t": "Hawkeye vs. Deadpool",
      "j": 2015,
      "b": "De volledige minireeks, nummers 0 tot 4. Clint Barton en Wade Wilson jagen samen op Hydra nadat Kate Bishops gegevens gestolen zijn."
+    }
+   ]
+  },
+  {
+   "id": "dd2-mickey-gouden",
+   "groep": "Mickey Mouse",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Mickey Mouse: De Gouden Jaren",
+   "auteur": "Floyd Gottfredson (Dark Dragon Books)",
+   "type": "strip",
+   "kleur": "#611F1F",
+   "motief": "ballon",
+   "bron": "Nederlandstalige hardcovers van Dark Dragon Books met de krantenstroken van Floyd Gottfredson. Titels, ISBN's en data van bol.com en Bureau ISBN (metadata.isbn.nl) voor deel 1 en 2, en van bol.com voor deel 3; jaartallen bevestigd door stripwinkel De Poort (2014, 2015, 2015) en door Stripweb, dat deel 1 op 19 november 2014 dateert. Deel 2 verscheen 3 maart 2015 en deel 3 op 14 juli 2015. De reeks staat bij stripINFO.be als stopgezet: na deel 3 zijn in het Nederlands geen verdere delen verschenen, terwijl de Franse Glenat-uitgave wel tot elf delen doorliep. De drie delen die Bert heeft zijn dus de hele Nederlandse reeks.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Mickey en het eiland in de lucht en andere verhalen 1936-1937",
+     "j": 2014,
+     "b": "Deel 1, ISBN 9789460782732, verschenen 19 november 2014"
+    },
+    {
+     "k": "2",
+     "t": "Mickey en de witte walvis en andere verhalen 1938-1939",
+     "j": 2015,
+     "b": "Deel 2, ISBN 9789460782862, verschenen 3 maart 2015"
+    },
+    {
+     "k": "3",
+     "t": "Mickey contra de Zwarte Schim en andere verhalen 1939-1940",
+     "j": 2015,
+     "b": "Deel 3, ISBN 9789460782879, verschenen 14 juli 2015"
     }
    ]
   },
@@ -27572,6 +30787,78 @@
    ]
   },
   {
+   "id": "ed-franquin-integrale",
+   "groep": "Robbedoes en Kwabbernoot",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Robbedoes en Kwabbernoot door Franquin (integrale, 11 delen)",
+   "auteur": "Andre Franquin (Dupuis)",
+   "type": "strip",
+   "kleur": "#3A3F44",
+   "motief": "papegaai",
+   "bron": "stripINFO.be reeks 31320 (Robbedoes en Kwabbernoot door Franquin, Franse oorspronkelijke titel Spirou et Fantasio par Franquin, status afgerond, 11 delen) en depoort.com reekspagina 4544 die dezelfde elf hardcovers met linnen rug van 24,99 euro toont. De titels per deel komen van eboek.info dat alle elf dubbelalbums opsomt, en worden voor de delen 2, 3 en 4 letterlijk bevestigd door comicstripshop.com reeks 10437, dat ook de tweede titel per band geeft (die staat bij die delen in b). Over de jaartallen: het stripnieuwsbericht van depoort.com over de delen 10 en 11 zegt uitdrukkelijk dat de complete reeks liep van maart tot december 2016, en comicstripshop dateert deel 2 op maart 2016 en de delen 3 en 4 op mei 2016. stripbteaser.nl verkoopt de volledige reeks als 11x hc 2016. Daarom staat bij alle elf delen 2016. ONZEKER: stripINFO vermeldt bij de reeks een ruimere periode 2013-2016, wat vermoedelijk over herdrukken of over de Franse editie gaat. Ik heb per deel geen aparte verschijningsmaand met twee bronnen kunnen staven, dus die staat er niet in. b is alleen ingevuld waar comicstripshop het tweede album expliciet noemt. Niet te verwarren met de losse reeks Robbedoes en Kwabbernoot special, waarvan yendor.nl een deel 1 uit 2010 verkoopt.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Deel 1 - Er is een tovenaar in Rommelgem",
+     "j": 2016
+    },
+    {
+     "k": "2",
+     "t": "Deel 2 - De roof van de Marsupilami",
+     "j": 2016,
+     "b": "Bevat ook De hoorn van de neushoorn"
+    },
+    {
+     "k": "3",
+     "t": "Deel 3 - De dictator en de paddenstoel",
+     "j": 2016,
+     "b": "Bevat ook Pas op, Kwabbernoot"
+    },
+    {
+     "k": "4",
+     "t": "Deel 4 - Het schuilhol van het zeemonster",
+     "j": 2016,
+     "b": "Bevat ook Het masker der stilte"
+    },
+    {
+     "k": "5",
+     "t": "Deel 5 - De gorilla heeft het gedaan",
+     "j": 2016
+    },
+    {
+     "k": "6",
+     "t": "Deel 6 - Bezoeker uit de oertijd",
+     "j": 2016
+    },
+    {
+     "k": "7",
+     "t": "Deel 7 - Z van Zwendel",
+     "j": 2016
+    },
+    {
+     "k": "8",
+     "t": "Deel 8 - QRN op Bretzelburg",
+     "j": 2016
+    },
+    {
+     "k": "9",
+     "t": "Deel 9 - De erfenis",
+     "j": 2016
+    },
+    {
+     "k": "10",
+     "t": "Deel 10 - De zwarte hoeden",
+     "j": 2016
+    },
+    {
+     "k": "11",
+     "t": "Deel 11 - Tembo Taboe",
+     "j": 2016
+    }
+   ]
+  },
+  {
    "id": "x-rooie-oortjes-mtf4sulp",
    "groep": "Rooie Oortjes",
    "rubriek": "strips",
@@ -27862,6 +31149,38 @@
      "k": "2",
      "t": "I'm Kinda Chubby and I'm Your Hero, Vol. 2",
      "j": 2023
+    }
+   ]
+  },
+  {
+   "id": "x2-peanuts",
+   "groep": "Silvester Strips",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Snoopy - Peanuts compleet",
+   "auteur": "Charles M. Schulz (Silvester Strips)",
+   "type": "strip",
+   "kleur": "#6E1B1B",
+   "motief": "ballon",
+   "bron": "stripINFO.be reeks 25758 Peanuts compleet (die reekspagina bundelt de Franse Dargaud-, de Amerikaanse Fantagraphics- en de Nederlandse Silvester-uitgaven door elkaar, dus de hoge deelnummers daar horen NIET bij de Nederlandstalige reeks), depoort.com reekspagina 3113 Snoopy - Peanuts compleet, akim.nl, stripweb.be en de catalogus van bibliotheek.be. LET OP: van de Nederlandstalige integrale bij Silvester Strips zijn maar DRIE banden verschenen, 1950-1952 (17 maart 2011), 1953-1954 (29 september 2011) en 1955-1956 (29 november 2012). Daarna is de Nederlandse vertaling gestopt. Ik vond bij geen enkele winkel, bibliotheek of stripdatabank een Nederlandse band 1957-1958 of later, en heb er dus ook geen verzonnen. De Amerikaanse moederreeks The Complete Peanuts bij Fantagraphics loopt wel door tot 1999-2000 en een extra band 1950-2000, maar die is Engelstalig en hoort niet in deze Nederlandstalige reeks thuis. Moors Magazine besprak in maart 2011 deel 1 en later deel 3 en hoopte toen al hardop dat de hele reeks in het Nederlands zou verschijnen, wat dus niet gebeurd is.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Snoopy - Peanuts compleet: 1950 tot 1952",
+     "j": 2011,
+     "b": "Eerste band van de Nederlandstalige integrale, alle dagstroken van drie beginjaargangen"
+    },
+    {
+     "k": "2",
+     "t": "Snoopy - Peanuts compleet: 1953 en 1954",
+     "j": 2011,
+     "b": "Tweede band, twee volledige jaargangen"
+    },
+    {
+     "k": "3",
+     "t": "Snoopy - Peanuts compleet: 1955 en 1956",
+     "j": 2012,
+     "b": "Derde en voorlopig laatste band in het Nederlands, daarna stopte Silvester met de reeks"
     }
    ]
   },
@@ -29512,6 +32831,128 @@
     }
    ],
    "taal": "nl"
+  },
+  {
+   "id": "x2-simpsons",
+   "groep": "Titan Books",
+   "rubriek": "strips",
+   "taal": "en",
+   "naam": "The Simpsons (episode guide, Colossal Compendium en Library of Wisdom)",
+   "auteur": "Matt Groening (Bongo Comics en HarperCollins)",
+   "type": "strip",
+   "kleur": "#4A3C00",
+   "motief": "ballon",
+   "bron": "Wikisimpsons (simpsonswiki.com) pagina's The Simpsons Library of Wisdom en Simpsons Comics Colossal Compendium, gekruist met de goodreads reeksen 106919 en 146472. Beide bronnen geven voor de Library of Wisdom tien titels in vijf paartjes: 2004 Bart en Homer, 2005 Ralph Wiggum en Comic Book Guy, 2006 Lisa en Krusty, 2008 Flanders en Moe, 2009 en 2010 Marge en Chief Wiggum. Jij hebt er negen: The Marge Book (2009) ontbreekt nog in je kast. Voor de Colossal Compendium geven beide bronnen zeven delen; Wikisimpsons noemt voor elk deel een precieze datum in juli (2013 tot en met 2 juli 2019), goodreads zet deel 7 abusievelijk op 2018. Ik hou 2019 aan omdat dat de enige bron met een concrete datum is. Simpsons World: The Ultimate Episode Guide Seasons 1-20 verscheen in 2010 (harperreach.com en harpercollins.co.uk, ISBN 9780007388158 voor de Britse hardcover) en staat los van beide reeksen. Let op: de uitgever is niet Titan Books maar HarperCollins in de Verenigde Staten en het Verenigd Koninkrijk, met de strips zelf van Bongo Comics; de groepsnaam Titan Books komt uit jouw eigen indeling. Alles staat hier als verzamelbundel of naslagwerk, geen losse nummers, dus dit past binnen je regel voor Engelstalige strips. De k-codes zijn geprefixt omdat het om drie los genummerde reeksen gaat: EG voor de episode guide, CC voor Colossal Compendium, LOW voor Library of Wisdom.",
+   "items": [
+    {
+     "k": "EG1",
+     "t": "Simpsons World: The Ultimate Episode Guide Seasons 1-20",
+     "j": 2010,
+     "b": "Dikke naslaghardcover met alle afleveringen van de eerste twintig seizoenen, staat los van de stripreeksen"
+    },
+    {
+     "k": "CC1",
+     "t": "Simpsons Comics Colossal Compendium Volume 1",
+     "j": 2013,
+     "b": "Eerste bundel, met papercraft van Moe's Tavern"
+    },
+    {
+     "k": "CC2",
+     "t": "Simpsons Comics Colossal Compendium Volume 2",
+     "j": 2014,
+     "b": "Tweede bundel met eerder verschenen stripverhalen"
+    },
+    {
+     "k": "CC3",
+     "t": "Simpsons Comics Colossal Compendium Volume 3",
+     "j": 2015,
+     "b": "Derde bundel met eerder verschenen stripverhalen"
+    },
+    {
+     "k": "CC4",
+     "t": "Simpsons Comics Colossal Compendium Volume 4",
+     "j": 2016,
+     "b": "Vierde bundel, ontbreekt nog in je kast"
+    },
+    {
+     "k": "CC5",
+     "t": "Simpsons Comics Colossal Compendium Volume 5",
+     "j": 2017,
+     "b": "Vijfde bundel, ontbreekt nog in je kast"
+    },
+    {
+     "k": "CC6",
+     "t": "Simpsons Comics Colossal Compendium Volume 6",
+     "j": 2018,
+     "b": "Zesde bundel, ontbreekt nog in je kast"
+    },
+    {
+     "k": "CC7",
+     "t": "Simpsons Comics Colossal Compendium Volume 7",
+     "j": 2019,
+     "b": "Laatste bundel van de reeks, ontbreekt nog in je kast"
+    },
+    {
+     "k": "LOW1",
+     "t": "The Bart Book",
+     "j": 2004,
+     "b": "The Simpsons Library of Wisdom, samen met The Homer Book het eerste paar"
+    },
+    {
+     "k": "LOW2",
+     "t": "The Homer Book",
+     "j": 2004,
+     "b": "The Simpsons Library of Wisdom"
+    },
+    {
+     "k": "LOW3",
+     "t": "The Ralph Wiggum Book",
+     "j": 2005,
+     "b": "The Simpsons Library of Wisdom"
+    },
+    {
+     "k": "LOW4",
+     "t": "Comic Book Guy's Book of Pop Culture",
+     "j": 2005,
+     "b": "The Simpsons Library of Wisdom"
+    },
+    {
+     "k": "LOW5",
+     "t": "The Lisa Book",
+     "j": 2006,
+     "b": "The Simpsons Library of Wisdom"
+    },
+    {
+     "k": "LOW6",
+     "t": "The Krusty Book",
+     "j": 2006,
+     "b": "The Simpsons Library of Wisdom"
+    },
+    {
+     "k": "LOW7",
+     "t": "Flanders' Book of Faith",
+     "j": 2008,
+     "b": "The Simpsons Library of Wisdom"
+    },
+    {
+     "k": "LOW8",
+     "t": "The Book of Moe",
+     "j": 2008,
+     "b": "The Simpsons Library of Wisdom"
+    },
+    {
+     "k": "LOW9",
+     "t": "The Marge Book",
+     "j": 2009,
+     "b": "The Simpsons Library of Wisdom, dit is het enige deel dat nog niet in je kast staat"
+    },
+    {
+     "k": "LOW10",
+     "t": "Chief Wiggum's Book of Crime and Punishment",
+     "j": 2010,
+     "b": "The Simpsons Library of Wisdom, het laatste deel van de reeks"
+    }
+   ]
   },
   {
    "id": "x-ton-en-tineke-integraal-mtf4t2z0",
