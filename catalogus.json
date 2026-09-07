@@ -6400,6 +6400,18 @@
      "t": "Kuifje Reporter: De Sigaren van de Farao",
      "j": 2023,
      "b": "Nederlandstalige uitgave"
+    },
+    {
+     "k": "136",
+     "t": "The Blood of Dawnwalker",
+     "j": 2026,
+     "b": "Rebel Wolves, verschenen 3 september 2026"
+    },
+    {
+     "k": "137",
+     "t": "Onimusha: Way of the Sword",
+     "j": 2026,
+     "b": "Capcom, verschijnt 25 september 2026"
     }
    ]
   },
@@ -7598,6 +7610,44 @@
    "taal": "nl"
   },
   {
+   "id": "ed-agent-212-integraal",
+   "groep": "Agent 212",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "Agent 212 - Integraal",
+   "auteur": "Raoul Cauvin en Daniel Kox (Dupuis)",
+   "type": "strip",
+   "kleur": "#1E5B8E",
+   "motief": "ballon",
+   "bron": "stripspeciaalzaak.be (nieuwsbericht Agent 212 integraal vanaf februari 2025, plus de pagina's pas verschenen agent-212-integraal-1 tot en met 4), depoort.com reekspagina 18034 Agent 212 - Integraal, standaarduitgeverij.be productpagina's (ISBN 9789031442010 voor deel 1 en 9789031442201 voor deel 3), standaardboekhandel.be reekspagina, stripwinkelblunder.nl voor deel 4 en stripaap.nl voor deel 1. De vier delen dragen GEEN eigen titel en ook geen jaarvermelding op de rug of het omslag: het zijn gewoon Agent 212 integraal 1 tot en met 4. Wat elk deel bestrijkt is dus uitgedrukt in de gebundelde reguliere albums, en dat is voor elk deel bij minstens twee bronnen bevestigd (stripspeciaalzaak plus respectievelijk depoort, standaarduitgeverij, stripwinkelblunder of stripaap). De inhoud loopt netjes per vier: deel 1 albums 1 tot 4, deel 2 albums 5 tot 8, deel 3 albums 9 tot 12, deel 4 albums 13 tot 16. Verschijningsdata: 13 februari 2025, 7 augustus 2025, 12 februari 2026 en 6 augustus 2026, alle vier softcover, 192 bladzijden, 29,99 euro. Let op: het gaat om herdrukken van uitverkochte albums, ZONDER achtergronddossier of bonusmateriaal, anders dan bij de meeste Dupuis-integrales. Dit is een Nederlandstalig initiatief van Standaard Uitgeverij onder het label Dupuis. Ik heb geen aankondiging gevonden van een deel 5, maar de reeks telde tot 2021 dertig reguliere albums, dus het is niet uitgesloten dat er meer komt. Deel 1 wordt door stripspeciaalzaak op 200 bladzijden geschat en door depoort en Standaard Uitgeverij op 192, ik heb 192 aangehouden.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Agent 212 integraal 1",
+     "j": 2025,
+     "b": "Bundelt de reguliere albums 1 tot 4: Dag en nacht, In naam der wet, Verboden inrit en Plaatselijk verkeer. Verschenen op 13 februari 2025."
+    },
+    {
+     "k": "2",
+     "t": "Agent 212 integraal 2",
+     "j": 2025,
+     "b": "Bundelt de reguliere albums 5 tot 8: Er als de kippen bij, De nachtwacht, Agent door weer en wind en Rustig maar! Verschenen op 7 augustus 2025."
+    },
+    {
+     "k": "3",
+     "t": "Agent 212 integraal 3",
+     "j": 2026,
+     "b": "Bundelt de reguliere albums 9 tot 12: Op wieltjes, Dubbel agent, Fluitje van een cent en Kip, koek en ei! Verschenen op 12 februari 2026."
+    },
+    {
+     "k": "4",
+     "t": "Agent 212 integraal 4",
+     "j": 2026,
+     "b": "Bundelt de reguliere albums 13 tot 16: Boven de pet van de wet, Nondejuut, Ongelikte beren! en Aaah... gent! Verschenen op 6 augustus 2026."
+    }
+   ]
+  },
+  {
    "id": "amoras",
    "groep": "Amoras",
    "rubriek": "strips",
@@ -7796,6 +7846,12 @@
      "t": "Amoras: The Director's Cut 1",
      "j": 2026,
      "b": "Luxe hardcover integrale op groot formaat met de albums Suske, Jérusalem en Krimson plus dossiers van Ronald Grossey"
+    },
+    {
+     "k": "DC2",
+     "t": "Amoras: The Director's Cut 2",
+     "j": 2026,
+     "b": "Verschenen in week 36 van 2026"
     }
    ]
   },
@@ -8804,6 +8860,12 @@
      "t": "Boule et Bill - L'integrale, tome 4 (1969-1973)",
      "j": 2026,
      "b": "Verschenen op 27 februari 2026"
+    },
+    {
+     "k": "5",
+     "t": "Boule et Bill - L'integrale, tome 5 (1973-1976)",
+     "j": 2026,
+     "b": "Aangekondigd voor 13 november 2026"
     }
    ]
   },
@@ -8866,6 +8928,12 @@
      "t": "BRZRKR: Bloodlines (hardcover)",
      "j": 2025,
      "b": "Alle vier de losse verhalen samen"
+    },
+    {
+     "k": "9",
+     "t": "BRZRKR: Blood Oaths, Vol. 1",
+     "j": 2026,
+     "b": "Softcover, 27 oktober 2026"
     }
    ]
   },
@@ -9426,6 +9494,12 @@
      "k": "36",
      "t": "Gevaarlijk transport",
      "j": 2024
+    },
+    {
+     "k": "37",
+     "t": "Chaud devant !",
+     "j": 2026,
+     "b": "Nederlandse vertaling aangekondigd voor november 2026; de Nederlandse titel is nog niet bekendgemaakt"
     }
    ],
    "taal": "nl"
@@ -10040,6 +10114,98 @@
      "t": "Mister Miracle",
      "j": 2026,
      "b": "Aangekondigd voor 1 december 2026. Bundelt Mister Miracle 1 tot 12 van Tom King en Mitch Gerads."
+    }
+   ]
+  },
+  {
+   "id": "x2-dc-compact-2027",
+   "groep": "DC / Vertigo",
+   "rubriek": "strips",
+   "taal": "en",
+   "naam": "DC Compact Comics - de golf van 2027",
+   "auteur": "diverse auteurs (DC Comics)",
+   "type": "strip",
+   "kleur": "#1E3B63",
+   "motief": "zwaard",
+   "bron": "comicsbulletin.com (Every DC Compact Comic Edition Coming in 2027 en DC Announces New Compact Comics and DC Finest Titles Coming in 2027), comicbooktreasury.com gids DC Compact Comics Edition, en.wikipedia.org DC Compact Comics, dc.com blogbericht van 15 juni 2026 over de lentetitels van 2027, aiptcomics.com van 16 juni 2026, icv2.com en dcanimated.com. BELANGRIJKE KANTTEKENING BIJ HET AANTAL: ik krijg geen tien titels bevestigd maar dertien. De verwarring komt van twee dingen. Ten eerste bestaat de golf van 2027 uit twee lijnen: negen gewone DC Compact Comics (100 Bullets, Preacher, Batgirl, Wonder Woman, Man of Steel, Hellblazer, Superman Brainiac, Green Lantern Rebirth en JLA The Tower of Babel) en vier boeken van de nieuwe jeugdlijn DC Compact Comics Adventures die in juni 2026 werd aangekondigd (Batman The Dark Knight, Superman Man of Tomorrow, Justice League Heroes United en Teen Titans Go! Truth, Justice, Pizza, alle vier 7,99 dollar in plaats van 9,99). Ten tweede stond er oorspronkelijk een tiende gewone titel op de lijst, Death van Neil Gaiman, met ISBN 978-1799502647 en zonder vaste datum. Die is door DC ingetrokken na de beschuldigingen tegen Gaiman (bevestigd door Wikipedia en bleedingcool). Negen plus Death is precies tien, dus vermoedelijk komt jouw getal tien daarvandaan. Ik heb Death NIET opgenomen omdat het boek niet verschijnt, en ik heb de vier Adventures wel opgenomen omdat ze bevestigd zijn. Over de titelvorm bestaat lichte onenigheid: comicsbulletin noemt deel 4 kortweg Wonder Woman en deel 5 Man of Steel, comicbooktreasury noemt ze Wonder Woman: Year One en Superman: Man of Steel. Ik heb de vorm van comicsbulletin aangehouden. Alle delen zijn verzamelbundels van 5,5 bij 8,5 duim, dus geen losse nummers, wat past bij de regel van Bert.",
+   "items": [
+    {
+     "k": "1",
+     "t": "100 Bullets: First Shot, Last Call",
+     "j": 2027,
+     "b": "januari 2027, aangekondigd voor 5 januari. Bundelt 100 Bullets 1 tot 5 plus extra materiaal, van Brian Azzarello en Eduardo Risso."
+    },
+    {
+     "k": "2",
+     "t": "Preacher: Gone to Texas",
+     "j": 2027,
+     "b": "januari 2027, aangekondigd voor 5 januari. Bundelt Preacher 1 tot 7 van Garth Ennis en Steve Dillon."
+    },
+    {
+     "k": "3",
+     "t": "Batgirl: Year One",
+     "j": 2027,
+     "b": "februari 2027, aangekondigd voor 16 februari. Bundelt Batgirl: Year One 1 tot 9 van Chuck Dixon en Scott Beatty."
+    },
+    {
+     "k": "4",
+     "t": "Wonder Woman",
+     "j": 2027,
+     "b": "maart 2027, aangekondigd voor 2 maart. Elders aangekondigd als Wonder Woman: Year One."
+    },
+    {
+     "k": "5",
+     "t": "Man of Steel",
+     "j": 2027,
+     "b": "maart 2027, aangekondigd voor 16 maart. Bundelt The Man of Steel 1 tot 6 van John Byrne."
+    },
+    {
+     "k": "6",
+     "t": "Batman: The Dark Knight",
+     "j": 2027,
+     "b": "maart 2027, aangekondigd voor 30 maart. Hoort bij de jeugdlijn DC Compact Comics Adventures en bundelt The Batman Adventures 1 tot 6."
+    },
+    {
+     "k": "7",
+     "t": "Superman: Man of Tomorrow",
+     "j": 2027,
+     "b": "maart 2027, aangekondigd voor 30 maart. Hoort bij de jeugdlijn DC Compact Comics Adventures en bundelt Superman Adventures 1 tot 6 van Paul Dini en Scott McCloud."
+    },
+    {
+     "k": "8",
+     "t": "John Constantine, Hellblazer: Dangerous Habits",
+     "j": 2027,
+     "b": "april 2027, aangekondigd voor 13 april. Bundelt Hellblazer 41 tot 50 van Garth Ennis."
+    },
+    {
+     "k": "9",
+     "t": "Green Lantern: Rebirth",
+     "j": 2027,
+     "b": "juni 2027, aangekondigd voor 1 juni. Bundelt Green Lantern: Rebirth 1 tot 6 van Geoff Johns."
+    },
+    {
+     "k": "10",
+     "t": "Superman: Brainiac",
+     "j": 2027,
+     "b": "juni 2027, aangekondigd voor 1 juni. Bundelt Action Comics 866 tot 870 van Geoff Johns en Gary Frank."
+    },
+    {
+     "k": "11",
+     "t": "JLA: The Tower of Babel",
+     "j": 2027,
+     "b": "juni 2027, aangekondigd voor 29 juni. Bundelt JLA 18 tot 21, 32, 33 en 43 tot 46 van Mark Waid."
+    },
+    {
+     "k": "12",
+     "t": "Justice League: Heroes United",
+     "j": 2027,
+     "b": "juni 2027, aangekondigd voor 29 juni. Hoort bij de jeugdlijn DC Compact Comics Adventures, zeven losse verhalen."
+    },
+    {
+     "k": "13",
+     "t": "Teen Titans Go!: Truth, Justice, Pizza",
+     "j": 2027,
+     "b": "juni 2027, aangekondigd voor 29 juni. Hoort bij de jeugdlijn DC Compact Comics Adventures, naar de animatiereeks."
     }
    ]
   },
@@ -23179,6 +23345,12 @@
      "k": "24",
      "t": "Fish & ships",
      "j": 2025
+    },
+    {
+     "k": "25",
+     "t": "The snow must go on",
+     "j": 2026,
+     "b": "Dupuis. Franse uitgave augustus 2026; de Nederlandstalige staat aangekondigd maar het jaartal is nog te bevestigen"
     }
    ]
   },
@@ -23811,6 +23983,12 @@
      "t": "World of Tanks: Citadel",
      "j": 2018,
      "b": "Dark Horse. Tweede reeks, over de slag bij Koersk."
+    },
+    {
+     "k": "104",
+     "t": "Rogue Trooper: When a G.I. Dies",
+     "j": 2026,
+     "b": "2000 AD/Rebellion hardcover, 25 maart 2026. Nieuwe graphic novel met Patrick Goddard, aangevuld met klassiek materiaal van Finley-Day en Cam Kennedy"
     }
    ]
   },
@@ -24497,6 +24675,18 @@
      "k": "17",
      "t": "Brit, Vol. 3: Fubar",
      "j": 2009
+    },
+    {
+     "k": "18",
+     "t": "Invincible Universe: Battle Beast, Vol. 1",
+     "j": 2025,
+     "b": "Verschenen in november 2025"
+    },
+    {
+     "k": "19",
+     "t": "The Astounding Wolf-Man Compendium",
+     "j": 2025,
+     "b": "Verschenen in november 2025"
     }
    ]
   },
@@ -24815,6 +25005,18 @@
      "k": "7",
      "t": "Postal, Vol. 7",
      "j": 2018
+    },
+    {
+     "k": "8",
+     "t": "Postal: Deliverance, Vol. 1",
+     "j": 2019,
+     "b": "Vervolgreeks na de hoofdreeks"
+    },
+    {
+     "k": "9",
+     "t": "Postal: Deliverance, Vol. 2",
+     "j": 2020,
+     "b": "Slot van de vervolgreeks"
     }
    ]
   },
@@ -24885,6 +25087,12 @@
      "k": "6",
      "t": "Six Criminals",
      "j": 2020
+    },
+    {
+     "k": "7",
+     "t": "Sex Criminals: The Complete Edition",
+     "j": 2024,
+     "b": "Bundelt de hele reeks in een band"
     }
    ]
   },
@@ -25085,6 +25293,12 @@
      "k": "32",
      "t": "Spawn Origins Collection, Vol. 32",
      "j": 2026
+    },
+    {
+     "k": "33",
+     "t": "Spawn Origins Collection, Vol. 33",
+     "j": 2027,
+     "b": "Aangekondigd voor 9 februari 2027"
     }
    ]
   },
@@ -25428,6 +25642,12 @@
      "k": "9",
      "t": "Okay",
      "j": 2019
+    },
+    {
+     "k": "10",
+     "t": "The Wicked + The Divine Compendium",
+     "j": 2025,
+     "b": "Bundelt de hele reeks in een band"
     }
    ]
   },
