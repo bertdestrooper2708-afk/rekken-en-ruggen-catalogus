@@ -6076,7 +6076,7 @@
    "type": "game",
    "kleur": "#0B4FA0",
    "motief": "pixel",
-   "bron": "Gelezen van vijf kastfoto's op 30 augustus 2026, aangevuld op 6 oktober 2026 met de aangekondigde PS5-uitgaven, elk met de verwachte verschijningsdatum in de toelichting. Bronnen: Push Square, Gamesradar, GameSpot, GamePro, gamescomingout.com, releases.com en PlayStation LifeStyle. De lijst met aangekondigde spellen is niet volledig: er ontbreken er vermoedelijk 60 tot 100, vooral kleine downloadspellen en titels waarvan enkel het jaar bekend is. Titels met 'datum bij een bron gevonden' in de toelichting staan maar in een bron.",
+   "bron": "Gelezen van vijf kastfoto's op 30 augustus 2026, aangevuld op 6 oktober 2026 met de aangekondigde PS5-uitgaven, elk met de verwachte verschijningsdatum in de toelichting. Bronnen: Push Square, Gamesradar, GameSpot, GamePro, gamescomingout.com, releases.com en PlayStation LifeStyle. De lijst met aangekondigde spellen is niet volledig: er ontbreken er vermoedelijk 60 tot 100, vooral kleine downloadspellen en titels waarvan enkel het jaar bekend is. Titels met 'datum bij een bron gevonden' in de toelichting staan maar in een bron. AANVULLING 30 oktober 2026, na vijf kastfoto's: negen games die op de planken stonden maar nog niet in deze lijst, namelijk Assassin's Creed Black Flag Resynced, Banishers Ghosts of New Eden, Black Myth Wukong, Blasphemous II, Immortals of Aveum, Life is Strange Reunion, Mouse P.I. For Hire, Reanimal en The Witcher 3 Wild Hunt Complete Edition.",
    "items": [
     {
      "k": "1",
@@ -7483,6 +7483,69 @@
      "d": "2026-04-30",
      "b": "Skybound Games en Quarter Up, 30 april 2026. Vechtspel in het Invincible-universum.",
      "k": "217"
+    },
+    {
+     "k": "218",
+     "t": "Assassin's Creed Black Flag Resynced",
+     "j": 2026,
+     "d": "2026-07-09",
+     "b": "Ubisoft, verschenen 9 juli 2026. Remake van Assassin's Creed IV: Black Flag uit 2013."
+    },
+    {
+     "k": "219",
+     "t": "Banishers: Ghosts of New Eden",
+     "j": 2024,
+     "d": "2024-02-13",
+     "b": "Don't Nod en Focus Entertainment, 13 februari 2024."
+    },
+    {
+     "k": "220",
+     "t": "Black Myth: Wukong",
+     "j": 2024,
+     "d": "2024-08-20",
+     "b": "Game Science, 20 augustus 2024. De fysieke PS5-uitgave kwam later."
+    },
+    {
+     "k": "221",
+     "t": "Blasphemous II",
+     "j": 2023,
+     "d": "2023-08-24",
+     "b": "The Game Kitchen en Team17, 24 augustus 2023."
+    },
+    {
+     "k": "222",
+     "t": "Immortals of Aveum",
+     "j": 2023,
+     "d": "2023-08-22",
+     "b": "Ascendant Studios en EA, 22 augustus 2023. CONTROLEER DEZE - op de foto was alleen het woord Immortals leesbaar; het is zeker niet Immortals Fenyx Rising, want dat staat er apart naast."
+    },
+    {
+     "k": "223",
+     "t": "Life is Strange: Reunion",
+     "j": 2026,
+     "d": "2026-03-26",
+     "b": "Deck Nine en Square Enix, 26 maart 2026. Het slot van het verhaal van Max en Chloe. Niet te verwarren met de Life is Strange Remastered Collection, die apart in deze lijst staat."
+    },
+    {
+     "k": "224",
+     "t": "Mouse: P.I. For Hire",
+     "j": 2026,
+     "d": "2026-04-16",
+     "b": "PlaySide Studios, 16 april 2026 digitaal; de fysieke uitgaven volgden in juli 2026. Schietspel in de stijl van zwart-wittekenfilms."
+    },
+    {
+     "k": "225",
+     "t": "Reanimal",
+     "j": 2026,
+     "d": "2026-02-13",
+     "b": "Tarsier Studios en THQ Nordic, 13 februari 2026. Van de makers van Little Nightmares."
+    },
+    {
+     "k": "226",
+     "t": "The Witcher 3: Wild Hunt - Complete Edition",
+     "j": 2022,
+     "d": "2022-12-14",
+     "b": "CD Projekt Red, 14 december 2022. De PS5-versie met alle uitbreidingen."
     }
    ]
   },
@@ -16228,7 +16291,7 @@
    "type": "strip",
    "kleur": "#5A1A3C",
    "motief": "sleutelgat",
-   "bron": "clivebarker.info (officiele site) + librarything.com/nseries/23374 + goodreads.com (BOOM! Studios) + checkerbpg + idwpublishing.com + Seraphim Comics",
+   "bron": "clivebarker.info (officiele site) + librarything.com/nseries/23374 + goodreads.com (BOOM! Studios) + checkerbpg + idwpublishing.com + Seraphim Comics AANVULLING 31 oktober 2026 (dagtaak, stuk 1 van 16): Hellraiser Legacy Pinhead en Hellraiser Omnibus Vol. 2 toegevoegd, allebei aangekondigd voor 2027 bij BOOM! Studios en bevestigd bij Penguin Random House plus Forbidden Planet respectievelijk Amazon.",
    "b": "Afbakening onzeker: hier de BOOM! Studios-bundels van Hellraiser (5 + The Road Below + 3x The Dark Watch), Nightbreed (3) en Next Testament (3). Er bestaan ook omnibus-edities.",
    "items": [
     {
@@ -16409,6 +16472,20 @@
      "t": "Hellraiser Omnibus, Vol. 1",
      "j": 2026,
      "b": "BOOM! Studios, 24 november 2026. Bundelt Hellraiser nummers 1 tot 20 uit 2011 plus Annual 1."
+    },
+    {
+     "k": "30",
+     "t": "Hellraiser Legacy: Pinhead",
+     "j": 2027,
+     "d": "2027-01-12",
+     "b": "BOOM! Studios, 12 januari 2027, 192 bladzijden, ISBN 9798217384792. Bundelt Pinhead 1 tot 6 uit 1993, de eerste solo-reeks rond Pinhead. Bevestigd bij Penguin Random House en Forbidden Planet."
+    },
+    {
+     "k": "31",
+     "t": "Hellraiser Omnibus, Vol. 2",
+     "j": 2027,
+     "d": "2027-03-09",
+     "b": "BOOM! Studios, 9 maart 2027, 576 bladzijden, ISBN 9798217384839. Bundelt The Road Below 1 tot 4, The Dark Watch 1 tot 12, de Annual van 2013 en Bestiary 1 tot 6. Bevestigd bij Penguin Random House en Amazon. Sluit aan op Hellraiser Omnibus Vol. 1 hierboven."
     }
    ]
   },
@@ -35341,7 +35418,8 @@
      "k": "386",
      "t": "De bittere band",
      "j": 2026,
-     "b": "Verschijnt 3 december 2026. Scenario Peter Van Gucht, tekeningen Wout Schoonis. Voorlopig maar bij een bron gevonden (de aankondiging met voorverkoop bij Stripweb)."
+     "b": "Scenario Peter Van Gucht, tekeningen Wout Schoonis. Nog niet verschenen: aangekondigd voor 3 december 2026, ISBN 9789002288517, 40 bladzijden softcover. Bevestigd bij Stripweb en Stripspeciaalzaak.",
+     "d": "2026-12-03"
     }
    ],
    "taal": "nl"
@@ -36243,7 +36321,7 @@
    "type": "strip",
    "kleur": "#2C7768",
    "motief": "veer",
-   "bron": "stripINFO.be, gecontroleerd met stripspeciaalzaak.be en de uitgeverij — 1-42 plus twee Nederlandstalige specials",
+   "bron": "stripINFO.be, gecontroleerd met stripspeciaalzaak.be en de uitgeverij — 1-42 plus twee Nederlandstalige specials AANVULLING 29 oktober 2026: de Nederlandstalige nummering loopt een op een gelijk met de Franse reeks Les Femmes en Blanc, van 1 tot en met 42 - Dupuis gebruikt zelfs hetzelfde interne nummer voor de Franse en de Nederlandse uitgave van elk album. Er is dus GEEN nummeringsprobleem. Wel dragen twee albums bij Dupuis een andere Nederlandse titel dan bij de stripwinkels: nummer 34 en nummer 42. Dat staat nu in de toelichting bij die twee. De titels in deze lijst zijn die van De Poort; de Dupuis-titel staat erbij vermeld.",
    "items": [
     {
      "k": "1",
@@ -36413,7 +36491,8 @@
     {
      "k": "34",
      "t": "Oeps, verschoning!",
-     "j": 2012
+     "j": 2012,
+     "b": "TWEE TITELS VOOR HETZELFDE ALBUM. Uitgeverij Dupuis noemt dit nummer op haar Nederlandstalige site Maria in den hoge!, stripwinkel De Poort noemt het Oeps, verschoning! Het gaat zeker om hetzelfde boek: beide bronnen geven ISBN 9789031431694 en 4 april 2012. Het Franse origineel is Lavez, Maria, deel 34 van Les Femmes en Blanc. Welke van de twee titels echt op de cover staat, kreeg ik niet hard - daarvoor is een blik op het boek zelf nodig."
     },
     {
      "k": "35",
@@ -36453,7 +36532,8 @@
     {
      "k": "42",
      "t": "Hartkwa(a)l",
-     "j": 2020
+     "j": 2020,
+     "b": "TWEE TITELS VOOR HETZELFDE ALBUM, net als bij nummer 34. Dupuis noemt dit Radio Medusa, De Poort en stripwinkel Akim noemen het Hartkwa(a)l (ISBN 9789031438235). Het Franse origineel is La radio de la meduse, waar allebei de woordspelingen op teruggaan."
     },
     {
      "k": "S1",
@@ -36498,8 +36578,14 @@
    "type": "strip",
    "kleur": "#1F5F8B",
    "motief": "zwaard",
-   "bron": "Wikipedia (List of Wildstorm reprint collections); mycomicshop 'Authority Collections'",
+   "bron": "Wikipedia (List of Wildstorm reprint collections); mycomicshop 'Authority Collections' AANVULLING 29 oktober 2026: vooraan staat nu het Stormwatch: The Road to The Authority Compendium (DC, januari 2025, Warren Ellis en Tom Raney), bevestigd bij Penguin Random House. Het draagt het letterteken V omdat het de voorloper is en niet tot de genummerde Authority-bundels hoort.",
    "items": [
+    {
+     "k": "V",
+     "t": "Stormwatch: The Road to The Authority Compendium",
+     "j": 2025,
+     "b": "DC, januari 2025. Compendium met de Stormwatch-run van Warren Ellis en Tom Raney, de reeks waaruit The Authority rechtstreeks voortkomt - dezelfde scenarist, dezelfde personages, en het verhaal loopt door in Relentless hieronder. Strikt genomen is dit Stormwatch en geen Authority, vandaar het letterteken V van voorloper."
+    },
     {
      "k": "1",
      "t": "Relentless",
@@ -38246,7 +38332,7 @@
    "type": "strip",
    "kleur": "#B3261E",
    "motief": "papegaai",
-   "bron": "Standaard Uitgeverij (productpagina's), Stripspeciaalzaak, De Poort, Bedetheque, suskeenwiske.ophetwww.net. De nummering verschilt per bron: de nummers 1 tot en met 6 en 7 (De verdwenen Joker) komen overeen, maar Standaard en Stripspeciaalzaak wijzen De anonieme alchemist en De Kwantumknul als 11 en 12 aan, terwijl De Poort ze 9 en 10 noemt. Nummer 9 voor Onrust in Montmartre is afgeleid uit de chronologie en de nummers 8, 9 en 13 zijn niet door twee bronnen bevestigd; 13 komt uit de opdracht. Nummer 10 ontbreekt bewust. Standaard rekent ook De sonometer (november 2020, scenario Francois Corteggiani, tekeningen Dirk Stallaert) tot de reeks, maar de plaats ervan in de nummering is nergens bevestigd, dus het album is weggelaten. Onrust in Montmartre ontbreekt bij De Poort, Bedetheque en op ophetwww. ISBN van Boemerang en Onrust in Montmartre is niet bij twee bronnen bevestigd en weggelaten. Delen 12 en 13 zijn aangekondigd en nog niet verschenen.",
+   "bron": "Standaard Uitgeverij (productpagina's), Stripspeciaalzaak, De Poort, Bedetheque, suskeenwiske.ophetwww.net. De nummering verschilt per bron: de nummers 1 tot en met 6 en 7 (De verdwenen Joker) komen overeen, maar Standaard en Stripspeciaalzaak wijzen De anonieme alchemist en De Kwantumknul als 11 en 12 aan, terwijl De Poort ze 9 en 10 noemt. Nummer 9 voor Onrust in Montmartre is afgeleid uit de chronologie en de nummers 8, 9 en 13 zijn niet door twee bronnen bevestigd; 13 komt uit de opdracht. Nummer 10 ontbreekt bewust. Standaard rekent ook De sonometer (november 2020, scenario Francois Corteggiani, tekeningen Dirk Stallaert) tot de reeks, maar de plaats ervan in de nummering is nergens bevestigd, dus het album is weggelaten. Onrust in Montmartre ontbreekt bij De Poort, Bedetheque en op ophetwww. ISBN van Boemerang en Onrust in Montmartre is niet bij twee bronnen bevestigd en weggelaten. Delen 12 en 13 zijn aangekondigd en nog niet verschenen. AANVULLING 29 oktober 2026: de nummering 12 voor De Kwantumknul en 13 voor De nacht van het vuur is nu wel bij een tweede bron bevestigd (Stripweb naast Stripspeciaalzaak), met ISBN's erbij. Toegevoegd is de museumeditie van Geduvel op de heide, met eigen nummer 6S zodat het gewone deel 6 zijn nummer houdt. NIET opgenomen: Suske en Wiske in het Kort 74, De Pratende Pruik (23 oktober 2026, oplage 250, alleen in het museum te koop, met gesigneerde wikkel van Thijs Wessels). Dat is een andere reeks, die nog niet in deze catalogus staat. En een waarschuwing voor later: het cijfer oplage 250 dat op het web rondgaat hoort bij De Pratende Pruik en NIET bij Geduvel op de heide.",
    "items": [
     {
      "k": "1",
@@ -38285,6 +38371,12 @@
      "b": "Scenario Marc Legendre, tekeningen Jan Bosschaert. Oorspronkelijk verschenen in mei 2022. Op 23 oktober 2026 volgt een speciale heruitgave voor het Suske en Wiske Museum in Kalmthout."
     },
     {
+     "k": "6S",
+     "t": "Geduvel op de heide (speciale editie)",
+     "j": 2026,
+     "b": "Museumuitgave van Standaard Uitgeverij, 23 oktober 2026 in de stripvakhandel, 48 bladzijden softcover, ongeveer 10 euro. Zelfde verhaal als deel 6 uit 2022 van Marc Legendre en Jan Bosschaert, maar met een NIEUWE coverillustratie en een voor het museum aangepaste achterkant. Geen extra bladzijden en geen dossier. In het Suske en Wiske Museum in Kalmthout lag hij al vanaf 4 oktober 2026, bij de tentoonstelling rond Jan Bosschaert; 23 oktober is de datum voor de gewone stripwinkel. ISBN en oplage niet gevonden."
+    },
+    {
      "k": "7",
      "t": "De verdwenen Joker",
      "j": 2022,
@@ -38312,13 +38404,15 @@
      "k": "12",
      "t": "De Kwantumknul",
      "j": 2026,
-     "b": "Scenario Luc Cromheecke, tekeningen Kristof Fagard. Nog niet verschenen: aangekondigd voor 3 december 2026."
+     "b": "Scenario Luc Cromheecke, tekeningen Kristof Fagard. Nog niet verschenen: aangekondigd voor 3 december 2026, ISBN 9789002288524, softcover 48 bladzijden, ongeveer 10 euro.",
+     "d": "2026-12-03"
     },
     {
      "k": "13",
      "t": "De nacht van het vuur",
      "j": 2026,
-     "b": "Scenario Ronald Grossey, tekeningen Dirk Stallaert. Nog niet verschenen: aangekondigd voor 12 november 2026."
+     "b": "Scenario Ronald Grossey, tekeningen Dirk Stallaert. Nog niet verschenen: aangekondigd voor 12 november 2026, ISBN 9789002288531, softcover ongeveer 10 euro en hardcover ongeveer 15 euro. LET OP - Stripweb nummert dit album als hommage 13, maar het kwartaaloverzicht van Stripspeciaalzaak beschrijft het als voortzetting van de Blauwe Reeks ZONDER nummer. Daar zijn de bronnen het niet over eens.",
+     "d": "2026-11-12"
     }
    ]
   },
