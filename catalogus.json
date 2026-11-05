@@ -11030,7 +11030,7 @@
    "type": "strip",
    "kleur": "#8E4B2F",
    "motief": "zwaard",
-   "bron": "de uitgeverij zelf, gecontroleerd met Wikipedia (EN) — Monster-Sized Hellboy bevat alles uit de vier omnibusdelen, op groot formaat. De korte verhalen staan apart",
+   "bron": "de uitgeverij zelf, gecontroleerd met Wikipedia (EN) — Monster-Sized Hellboy bevat alles uit de vier omnibusdelen, op groot formaat. De korte verhalen staan apart. Op 5 november 2026 is de volledige lijn Hellboy and the B.P.R.D. toegevoegd; die ontbrak hier helemaal. De reeks Hellboy bestaat nu uit DRIE lijnen: de vier Hellboy Omnibus-delen (plus Monster-Sized Hellboy, dat dezelfde inhoud op groot formaat geeft), de twee delen Complete Short Stories, en de tien delen Hellboy and the B.P.R.D. over Hellboy's vroege jaren bij het Bureau. Van die laatste lijn bestaan ook twee verzamelbundels, 1952-1954 en 1955-1957, die elk drie jaargangdelen samenbrengen; die staan er als items 18 en 19 bij. De delen met een gewone titel (Vargu, Effie Kolb, Chesbro House, Ghost Ships) zitten in GEEN van die twee bundels. Nagekeken bij Dark Horse zelf en bij Penguin Random House voor de twee verzamelbundels en voor Ghost Ships of Labrador, en bij Goodreads en ThriftBooks voor de volledige lijst van de lijn. De jaartallen van de jaargangdelen komen van Goodreads en zijn niet een voor een bij de uitgever nagekeken. Er zijn geen delen 1958 of 1959: de lijn loopt tot 1957 en gaat daarna verder met titels. Bert heeft van Hellboy nog niets, dus hier staat niets aangevinkt.",
    "items": [
     {
      "k": "1",
@@ -11073,6 +11073,78 @@
      "t": "Hellboy: The Complete Short Stories, Vol. 2",
      "j": 2018,
      "b": "Korte verhalen 1961-1993"
+    },
+    {
+     "k": "8",
+     "t": "Hellboy and the B.P.R.D.: 1952",
+     "j": 2014,
+     "b": "Eerste deel van de lijn Hellboy and the B.P.R.D., die Hellboy's vroege jaren bij het Bureau vertelt. Verzamelt de vijf nummers van de miniserie 1952. Zit ook in de bundel 1952-1954."
+    },
+    {
+     "k": "9",
+     "t": "Hellboy and the B.P.R.D.: 1953",
+     "j": 2016,
+     "b": "Verzamelt The Phantom Hand & The Kelpie, The Witch Tree & Rawhead and Bloody Bones, en Beyond the Fences 1 tot 3. Zit ook in de bundel 1952-1954."
+    },
+    {
+     "k": "10",
+     "t": "Hellboy and the B.P.R.D.: 1954",
+     "j": 2018,
+     "b": "Verzamelt Black Sun 1 en 2, The Unreasoning Beast, en Ghost Moon 1 en 2. Zit ook in de bundel 1952-1954."
+    },
+    {
+     "k": "11",
+     "t": "Hellboy and the B.P.R.D.: 1955",
+     "j": 2018,
+     "b": "Verzamelt Secret Nature, Occult Intelligence 1 tot 3, en Burning Season. Zit ook in de bundel 1955-1957."
+    },
+    {
+     "k": "12",
+     "t": "Hellboy and the B.P.R.D.: 1956",
+     "j": 2019,
+     "b": "Verzamelt de vijf nummers van de miniserie 1956. Zit ook in de bundel 1955-1957."
+    },
+    {
+     "k": "13",
+     "t": "Hellboy and the B.P.R.D.: 1957",
+     "j": 2023,
+     "b": "Zit ook in de bundel 1955-1957. Welke losse nummers er precies in zitten staat in geen van de nagekeken bronnen; de verhalen rond 1957 zijn Family Ties, Forgotten Lives, Falling Sky, Fearful Symmetry en From Below, maar de koppeling aan dit deel is niet bevestigd."
+    },
+    {
+     "k": "14",
+     "t": "Hellboy and the B.P.R.D.: The Beast of Vargu and Others",
+     "j": 2020,
+     "b": "Deel met een gewone titel in plaats van een jaartal. Zit NIET in een van de twee verzamelbundels."
+    },
+    {
+     "k": "15",
+     "t": "Hellboy and the B.P.R.D.: The Return of Effie Kolb and Others",
+     "j": 2022,
+     "b": "Deel met een gewone titel. Bevat onder meer The Return of Effie Kolb 1 en 2. Zit NIET in een van de twee verzamelbundels."
+    },
+    {
+     "k": "16",
+     "t": "Hellboy and the B.P.R.D.: The Secret of Chesbro House & Others",
+     "j": 2023,
+     "b": "Deel met een gewone titel. Bevat onder meer The Secret of Chesbro House 1 en 2. Zit NIET in een van de twee verzamelbundels."
+    },
+    {
+     "k": "17",
+     "t": "Hellboy and the B.P.R.D.: The Ghost Ships of Labrador and Other Stories",
+     "j": 2026,
+     "b": "Het nieuwste deel, 144 bladzijden, ISBN 9781506755007. Bundelt The Ghost Ships of Labrador 1 en 2, de one-shots Professor Harvey is Gone, The Monster of Nivola en Hellboy Winter Special: The Yule Cat, plus het korte verhaal Hellboy: The Fortune Teller en bonusmateriaal. LET OP: Dark Horse zelf geeft 27 oktober 2026 als verschijningsdatum, Penguin Australie geeft 17 november 2026. Er staat bewust GEEN verschijningsdatum in het datumveld, zodat het album gewoon op je zoeklijst blijft staan: het ligt volgens de uitgever al in de winkel."
+    },
+    {
+     "k": "18",
+     "t": "Hellboy and the B.P.R.D.: 1952-1954",
+     "j": 2024,
+     "b": "VERZAMELBUNDEL. Bundelt de delen 1952, 1953 en 1954. 440 bladzijden, ISBN 9781506744698. Dark Horse geeft 1 oktober 2024, Penguin Australie 29 oktober 2024. Heb je deze, dan heb je de drie losse delen ook."
+    },
+    {
+     "k": "19",
+     "t": "Hellboy and the B.P.R.D.: 1955-1957",
+     "j": 2026,
+     "b": "VERZAMELBUNDEL. Bundelt de delen 1955, 1956 en 1957. 456 bladzijden, ISBN 9781506754840, verschenen 14 juli 2026 volgens Dark Horse. Heb je deze, dan heb je de drie losse delen ook."
     }
    ]
   },
