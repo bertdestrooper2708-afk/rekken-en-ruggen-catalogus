@@ -4399,7 +4399,7 @@
    "type": "game",
    "kleur": "#8E1B1B",
    "motief": "pixel",
-   "bron": "gelezen van een kastfoto op 30/08/2026; de uitgavedatum is nagekeken bij Nintendo",
+   "bron": "gelezen van een kastfoto op 30/08/2026; de uitgavedatum is nagekeken bij Nintendo. Gefotografeerd door Bert op 5 november 2026. Ocarina of Time is op 5 november 2026 toegevoegd en aangevinkt; dat is de verschijningsdag zelf.",
    "items": [
     {
      "k": "1",
@@ -4421,6 +4421,12 @@
      "j": 2025,
      "b": "Verschenen op 17 juli 2025",
      "d": "2025"
+    },
+    {
+     "k": "4",
+     "t": "The Legend of Zelda: Ocarina of Time",
+     "j": 2026,
+     "b": "Remake van het Nintendo 64-spel uit 1998, gemaakt door Nintendo EPD. Verschenen op 5 november 2026, exclusief voor Switch 2. Nagekeken bij Nintendo zelf (de Britse pagina geeft 05/11/2026) en bij Wikipedia. Nieuwe beelden, herwerkte soundtrack, gemoderniseerde besturing. PEGI 12."
     }
    ]
   },
@@ -11676,7 +11682,7 @@
    "type": "strip",
    "kleur": "#3F7A46",
    "motief": "ballon",
-   "bron": "Goodreads-serie 'iZombie (Volumes)'; iZombie Wiki (Fandom); Penguin Random House (iZombie: The Complete Series Omnibus)",
+   "bron": "Goodreads-serie 'iZombie (Volumes)'; iZombie Wiki (Fandom); Penguin Random House (iZombie: The Complete Series Omnibus). Op 6 november 2026 is de omnibus toegevoegd en aangevinkt. De vier pockets dekken alles wat erin zit, ook de twee Halloween Annuals. Nagekeken bij Penguin Random House, DC en Wikipedia.",
    "items": [
     {
      "k": "1",
@@ -11697,6 +11703,12 @@
      "k": "4",
      "t": "Repossession",
      "j": 2012
+    },
+    {
+     "k": "5",
+     "t": "iZombie: The Complete Series Omnibus",
+     "j": 2023,
+     "b": "672 bladzijden, ISBN 9781779523440, 24 oktober 2023. Bevat iZombie 1 tot 28 plus de verhalen uit House of Mystery Halloween Annual 1 en 2. Dat zit allemaal in de vier pockets die Bert heeft: Annual 1 in Dead to the World, Annual 2 in uVampire, en 13 tot 28 in de twee laatste delen. Vandaar het vinkje."
     }
    ]
   },
@@ -11710,7 +11722,7 @@
    "type": "strip",
    "kleur": "#4A2B6B",
    "motief": "sleutelgat",
-   "bron": "Wikipedia (List of Hellblazer comics); Goodreads-serie 'Hellblazer: New Editions'; mycomicshop 'John Constantine Hellblazer TPB (2011-2022)'",
+   "bron": "Wikipedia (List of Hellblazer comics); Goodreads-serie 'Hellblazer: New Editions'; mycomicshop 'John Constantine Hellblazer TPB (2011-2022)'. Op 6 november 2026 zijn vier verzamelbundels toegevoegd (items 27 tot 30). Alleen de Ennis-omnibus staat aangevinkt: daarvan zit alles ook in de 26 pockets. De twee Delano-omnibussen en de Jenkins-omnibus bevatten elk materiaal dat NIET in die pockets staat (Swamp Thing 65-75, The Sandman 3, Hellblazer: Books of Magic 1-2), dus die staan bewust nog als ontbrekend. Nagekeken bij Penguin Random House, ICv2 en de Wikipedia-lijst List of Hellblazer comics. De inhoud van de Delano- en Ennis-omnibussen komt maar van een bron (Wikipedia).",
    "items": [
     {
      "k": "1",
@@ -11841,6 +11853,30 @@
      "k": "26",
      "t": "The Curse of the Constantines",
      "j": 2022
+    },
+    {
+     "k": "27",
+     "t": "John Constantine, Hellblazer by Jamie Delano Omnibus, Vol. 1",
+     "j": 2024,
+     "b": "1128 bladzijden, ISBN 9781779527844, 22 oktober 2024. Bevat Hellblazer 1 tot 22 en Annual 1, Swamp Thing (vol. 2) 65 tot 77 en The Sandman 3. NIET AANGEVINKT, en dat is bewust: Swamp Thing 65 tot 75 en The Sandman 3 staan NIET in de 26 pockets die Bert heeft. Die pockets bevatten alleen Swamp Thing 76 en 77. Dit boek bevat dus materiaal dat hij nog niet heeft."
+    },
+    {
+     "k": "28",
+     "t": "John Constantine, Hellblazer by Jamie Delano Omnibus, Vol. 2",
+     "j": 2025,
+     "b": "864 bladzijden, ISBN 9781799502067, 8 juli 2025. Bevat Hellblazer 23 tot 40, 84 en 250, The Horrorist 1 en 2, Hellblazer Special: Bad Blood 1 tot 4, en Vertigo Secret Files: Hellblazer 1. NIET AANGEVINKT: de 26 pockets bevatten maar twee losse verhalen uit Vertigo Secret Files, niet het volledige nummer, en of The Horrorist erin zit is niet vastgesteld. Er zit dus mogelijk materiaal in dat Bert nog niet heeft."
+    },
+    {
+     "k": "29",
+     "t": "Hellblazer by Garth Ennis Omnibus",
+     "j": 2020,
+     "b": "1352 bladzijden, ISBN 9781401299910, maart 2020. Bevat Hellblazer 41 tot 50, 52 tot 83 en 129 tot 131, Special 1, het verhaal Tainted Love uit Vertigo Jam 1, Heartland, en het verhaal All Those Little Girls and Boys uit Vertigo: Winter's Edge 2. Alles wat hierin zit, staat ook in de 26 pockets die Bert heeft; vandaar het vinkje. Keuze van Bert: het verhaal telt, niet de band."
+    },
+    {
+     "k": "30",
+     "t": "John Constantine, Hellblazer by Paul Jenkins and Sean Phillips Omnibus",
+     "j": 2026,
+     "b": "1256 bladzijden, ISBN 9781799507642, hardcover van 150 dollar. Bevat Hellblazer 51, 85 tot 128 en 250, Vertigo: Winter's Edge 1, en Hellblazer: Books of Magic 1 en 2. NIET AANGEVINKT: Hellblazer: Books of Magic 1 en 2 staan NIET in de 26 pockets. Dit boek bevat dus materiaal dat Bert nog niet heeft. LET OP de datum: Penguin Random House geeft 21 juli 2026, ICv2 geeft 24 maart 2026. Allebei liggen ze in het verleden, dus het boek ligt hoe dan ook al in de winkel; daarom staat er geen verschijningsdatum in het datumveld."
     }
    ]
   },
@@ -11874,7 +11910,7 @@
    "type": "strip",
    "kleur": "#8C3B2E",
    "motief": "veer",
-   "bron": "dc.com (Lucifer Book One t/m Book Five, on-sale dates); Goodreads-serie 'Lucifer New Edition'",
+   "bron": "dc.com (Lucifer Book One t/m Book Five, on-sale dates); Goodreads-serie 'Lucifer New Edition'. Op 6 november 2026 zijn de twee omnibusdelen toegevoegd en aangevinkt: Book One tot Five dekken samen alles wat erin zit, inclusief The Sandman Presents: Lucifer en Nirvana. Nagekeken bij DC zelf, bij Penguin en bij de verzamelgids van Crushing Krisis.",
    "items": [
     {
      "k": "1",
@@ -11900,6 +11936,18 @@
      "k": "5",
      "t": "Lucifer Book Five",
      "j": 2014
+    },
+    {
+     "k": "6",
+     "t": "Lucifer Omnibus, Vol. 1",
+     "j": 2019,
+     "b": "976 bladzijden, ISBN 9781401294762, 30 oktober 2019. Bevat The Sandman Presents: Lucifer 1 tot 3, Lucifer 1 tot 35 en Lucifer: Nirvana. Dat zit allemaal in Book One (Sandman Presents plus 1 tot 13), Book Two (14 tot 28 plus Nirvana) en Book Three (29 tot 45), die Bert heeft; vandaar het vinkje."
+    },
+    {
+     "k": "7",
+     "t": "Lucifer Omnibus, Vol. 2",
+     "j": 2020,
+     "b": "1040 bladzijden, ISBN 9781779505644, 31 december 2020. Bevat Lucifer 36 tot 75. Dat zit in Book Three, Four en Five, die Bert heeft; vandaar het vinkje. Er zijn maar twee omnibusdelen; samen dekken ze de volledige reeks."
     }
    ]
   },
@@ -13725,7 +13773,7 @@
    "type": "strip",
    "kleur": "#8E1B1B",
    "motief": "zwaard",
-   "bron": "stripINFO.be. Opgegeven door Bert op 2 november 2026. Hij heeft alle albums tot en met 290 (Jacht in het verleden). Nog te kopen: 291 De blauwe dood. Deel 292 Vlucht naar de hel is op 2 november 2026 toegevoegd; dat verschijnt pas op 12 november 2026. Deel 291 De blauwe dood is op 3 september 2026 verschenen. Bert heeft de reeks compleet tot en met 290, dus 291 is het enige deel dat hij nu kan kopen.",
+   "bron": "stripINFO.be. Opgegeven door Bert op 2 november 2026. Hij heeft alle albums tot en met 290 (Jacht in het verleden). Nog te kopen: 291 De blauwe dood. Deel 292 Vlucht naar de hel is op 2 november 2026 toegevoegd; dat verschijnt pas op 12 november 2026. Deel 291 De blauwe dood is op 3 september 2026 verschenen. Bert heeft de reeks compleet tot en met 290, dus 291 is het enige deel dat hij nu kan kopen. Zie ook de aparte reeks De Rode Ridder - de integrales, op 7 november 2026 toegevoegd: drie lijnen die samen de albums 1 tot 249 herbundelen.",
    "items": [
     {
      "k": "1",
@@ -17632,7 +17680,7 @@
      "k": "59",
      "t": "De kunstroof",
      "j": 2026,
-     "b": "Titel voorlopig maar bij een bron bevestigd (magvilla.nl, pagina online gezet op 24 september 2026). De Poort en Comic Stripshop lopen nog tot deel 58. Deel 60 is nog niet aangekondigd; de reeks verschijnt zes a zeven keer per jaar. LET OP: datum niet bevestigd; kan al in de winkel liggen."
+     "b": "96 bladzijden, DPG Media, tekeningen Cesar Ferioli Pelaez, cover Tony Fernandez. Barcode 8710841544466; er staat geen ISBN bij. Bevestigd bij stripINFO.be en magvilla.nl, dus twee bronnen. stripINFO geeft alleen het jaar 2026, geen dag of maand; daarom staat er bewust GEEN verschijningsdatum in het datumveld en blijft het op de zoeklijst staan. Deel 60 is nog altijd niet aangekondigd: stripINFO sluit de reeks af op 59 titels. De reeks verschijnt zes a zeven keer per jaar."
     }
    ]
   },
@@ -18638,7 +18686,7 @@
    "type": "strip",
    "kleur": "#16324F",
    "motief": "zon",
-   "bron": "Volledige delenlijst van stripINFO.be reeks 4876 Donald Duck winterboeken, gecontroleerd tegen losse aanbiedingen bij stripboekentekoop.nl en bol.com. Groot Winterboek en Winterboek zijn GEEN twee aparte lijnen maar een en dezelfde doorlopende reeks, doorgenummerd van deel 1 tot en met deel 45. De reeks start in 1980 met het Groot winterboek 1980. Tot en met deel 16 draagt de kaft het jaar van verschijnen (1980 tot 1996, met een gat in 1982). Vanaf deel 17, het Groot winterboek 1998 dat in het najaar van 1997 verscheen, kreeg het boek het jaartal van de komende winter op de kaft. Daardoor bestaat er geen editie met 1997 op de kaft: na het Groot winterboek 1996 volgde meteen het Groot winterboek 1998. Vanaf deel 18, het Winterboek 1999 dat in 1998 verscheen, viel het woord Groot weg. Bert vroeg de jaargangen 1997 tot 2026, dat zijn de 29 boeken die vanaf het najaar van 1997 verschenen: Groot winterboek 1998 tot en met Winterboek 2026. De k is het jaartal op de kaft, de j is het jaar waarin het boek werkelijk in de winkel lag, dus telkens een jaar eerder. Het Winterboek 2027 was op 30 augustus 2026 nog niet verschenen en staat er niet bij.",
+   "bron": "Volledige delenlijst van stripINFO.be reeks 4876 Donald Duck winterboeken, gecontroleerd tegen losse aanbiedingen bij stripboekentekoop.nl en bol.com. Groot Winterboek en Winterboek zijn GEEN twee aparte lijnen maar een en dezelfde doorlopende reeks, doorgenummerd van deel 1 tot en met deel 45. De reeks start in 1980 met het Groot winterboek 1980. Tot en met deel 16 draagt de kaft het jaar van verschijnen (1980 tot 1996, met een gat in 1982). Vanaf deel 17, het Groot winterboek 1998 dat in het najaar van 1997 verscheen, kreeg het boek het jaartal van de komende winter op de kaft. Daardoor bestaat er geen editie met 1997 op de kaft: na het Groot winterboek 1996 volgde meteen het Groot winterboek 1998. Vanaf deel 18, het Winterboek 1999 dat in 1998 verscheen, viel het woord Groot weg. Bert vroeg de jaargangen 1997 tot 2026, dat zijn de 29 boeken die vanaf het najaar van 1997 verschenen: Groot winterboek 1998 tot en met Winterboek 2026. De k is het jaartal op de kaft, de j is het jaar waarin het boek werkelijk in de winkel lag, dus telkens een jaar eerder. Het Winterboek 2027 was op 30 augustus 2026 nog niet verschenen en staat er niet bij. Op 8 november 2026 bijgewerkt: de reeks telt nu 46 delen, met Winterboek 2027 als deel 46. stripINFO.be geeft dat nummer expliciet.",
    "items": [
     {
      "k": "1998",
@@ -18813,6 +18861,12 @@
      "t": "Winterboek 2026",
      "j": 2025,
      "b": "Reeksdeel 45, verschenen in het najaar van 2025 met jaartal 2026 op de kaft"
+    },
+    {
+     "k": "2027",
+     "t": "Winterboek 2027",
+     "j": 2026,
+     "b": "Deel 46 van de reeks en voorlopig het hoogste nummer. 144 bladzijden softcover in kleur, DPG Media, 8,75 euro. Kleuren Wilma Leenders, cover Jan-Roman Pikula, vertaling Marije Jansen. Barcode 8710841426694; een ISBN staat er nergens bij. Bevestigd bij stripINFO.be (deelpagina en reeksoverzicht), aboland.nl en magvilla.nl. Geen van de drie geeft een dag of maand, alleen het jaar 2026. Aboland en Magvilla tonen het wel als Op voorraad, dus het ligt in de winkel; daarom staat er bewust GEEN verschijningsdatum in het datumveld en blijft het op de zoeklijst staan."
     }
    ]
   },
@@ -24754,7 +24808,7 @@
     {
      "k": "68",
      "t": "Gevleugelde Mythes",
-     "j": 0
+     "b": "Het verschijningsjaar stond hier als 0 ingevuld, wat geen jaartal is. Het is niet teruggevonden, dus het veld is nu leeg in plaats van fout."
     },
     {
      "k": "69",
@@ -24779,6 +24833,12 @@
      "t": "Zon, zee en zwemvliezen",
      "j": 2026,
      "b": "Bevestigd bij Comic Stripshop, Het Beeldverhaal en magvilla.nl."
+    },
+    {
+     "k": "73",
+     "t": "Gruwels en griezels",
+     "j": 2026,
+     "b": "DPG Media, 9,95 euro. Bevestigd bij magvilla.nl en aboland.nl, die het allebei als Op voorraad tonen. Geen van beide geeft een dag of maand of het aantal bladzijden, alleen het jaar 2026; daarom staat er bewust GEEN verschijningsdatum in het datumveld en blijft het op de zoeklijst staan."
     }
    ]
   },
@@ -25324,7 +25384,7 @@
    "type": "strip",
    "kleur": "#4B4B8E",
    "motief": "zwaard",
-   "bron": "stripINFO.be, gecontroleerd met stripspeciaalzaak.be en de uitgeverij — deel 25 verschijnt 1 oktober 2026 en staat er nog niet in. Gelezen van de foto van 2 november 2026, dezelfde doos als Vrouwen in 't Wit. Leesbaar op de rug: Blork Raider (1), No problemo (2), O wat schattig (3), Oeps! (4), 5 Walking Blork, 6 Sound of silence, 7 Only for your eyes, 8 Cold case, 9 Bomba fatale, 11 Yes I can, 12 Royal barbecue, 13 Toxic affair en 17 Dark web. Tussen 13 en 17 en tussen 9 en 11 staan nog ruggen die niet te lezen zijn, en de foto loopt rechts van nummer 17 af. Die delen zijn bewust niet aangevinkt. Gelezen van de foto van 2 november 2026. Alle nummers op de rug zijn leesbaar: 1 t/m 9 en 11 t/m 22, plus het losse album Princess Over. Tussen deel 9 (Bomba fatale) en deel 13 (Toxic affair) staan precies twee albums, en die dragen de nummers 11 en 12. Deel 10 (Watergate) staat dus NIET in de kast. Na deel 22 begint de rij Kid Paddle, dus 23, 24 en 25 ontbreken ook.",
+   "bron": "stripINFO.be, gecontroleerd met stripspeciaalzaak.be en de uitgeverij — deel 25 verschijnt 1 oktober 2026 en staat er nog niet in. Gelezen van de foto van 2 november 2026, dezelfde doos als Vrouwen in 't Wit. Leesbaar op de rug: Blork Raider (1), No problemo (2), O wat schattig (3), Oeps! (4), 5 Walking Blork, 6 Sound of silence, 7 Only for your eyes, 8 Cold case, 9 Bomba fatale, 11 Yes I can, 12 Royal barbecue, 13 Toxic affair en 17 Dark web. Tussen 13 en 17 en tussen 9 en 11 staan nog ruggen die niet te lezen zijn, en de foto loopt rechts van nummer 17 af. Die delen zijn bewust niet aangevinkt. Gelezen van de foto van 2 november 2026. Alle nummers op de rug zijn leesbaar: 1 t/m 9 en 11 t/m 22, plus het losse album Princess Over. Tussen deel 9 (Bomba fatale) en deel 13 (Toxic affair) staan precies twee albums, en die dragen de nummers 11 en 12. Deel 10 (Watergate) staat dus NIET in de kast. Na deel 22 begint de rij Kid Paddle, dus 23, 24 en 25 ontbreken ook. Op 10 november 2026 zijn de vier losse albums buiten de genummerde reeks toegevoegd: Game over forever (2012), The origins (2013), Midam's director's cut (2019) en Attack of the Blorks (2021). Geen van vier stond op de kastfoto, dus ze staan alle vier als ontbrekend - dat moet Bert nog nakijken. LET OP de nummering: stripINFO nummert de losse albums als INT 1 (Game over forever), S1 (The origins), S2 (Midam's director's cut), S3 (Princess over) en S4 (Attack of the Blorks). In deze lijst staat Princess Over al sinds 2 november onder S1, en bestaande nummers worden nooit hernummerd; daarom hebben de vier nieuwe de sleutels L1 tot L4 gekregen. De genummerde reeks loopt tot 25; deel 26 is nog niet aangekondigd.",
    "items": [
     {
      "k": "1",
@@ -25450,12 +25510,36 @@
      "k": "25",
      "t": "The snow must go on",
      "j": 2026,
-     "b": "Dupuis. Franse uitgave augustus 2026; de Nederlandstalige staat aangekondigd maar het jaartal is nog te bevestigen LET OP: de datum van de Nederlandstalige editie is niet bekend, dus er is bewust GEEN verschijningsdatum ingevuld."
+     "b": "Nederlandstalige editie bij Dupuis, 48 bladzijden softcover, 8,50 euro, ISBN 9789031442331. VERSCHENEN: De Poort heeft het op voorraad en stripINFO telt al zeventien verzamelaars die het in bezit hebben. De Poort geeft 1 oktober 2026 als datum, maar dat staat er maar bij een bron; daarom blijft het datumveld leeg en blijft het album gewoon op je zoeklijst staan. De Franse editie verscheen in augustus 2026."
     },
     {
      "k": "S1",
      "t": "Princess Over",
      "b": "Los album buiten de genummerde reeks, staat op de foto van 2 november 2026 tussen de delen 20 en 21."
+    },
+    {
+     "k": "L1",
+     "t": "Game over forever",
+     "j": 2012,
+     "b": "Bij stripINFO genummerd als INT 1, dus vermoedelijk een verzamelbundel. Wat er precies in zit is niet gedocumenteerd; daarom NIET aangevinkt, ook al heb je de delen 1 tot 9 wel. Stond niet op de kastfoto van 2 november 2026, dus niet aangevinkt."
+    },
+    {
+     "k": "L2",
+     "t": "The origins",
+     "j": 2013,
+     "b": "Bij stripINFO genummerd als S1. Stond niet op de kastfoto van 2 november 2026, dus niet aangevinkt."
+    },
+    {
+     "k": "L3",
+     "t": "Midam's director's cut",
+     "j": 2019,
+     "b": "Bij stripINFO genummerd als S2. Stond niet op de kastfoto van 2 november 2026, dus niet aangevinkt."
+    },
+    {
+     "k": "L4",
+     "t": "Attack of the Blorks",
+     "j": 2021,
+     "b": "Bij stripINFO genummerd als S4. Stond niet op de kastfoto van 2 november 2026, dus niet aangevinkt."
     }
    ]
   },
@@ -41582,6 +41666,1165 @@
      "k": "B1",
      "t": "Breckan and Co.'s Strange Discoveries Volume 1-5",
      "b": "DIT IS HET BOEK DAT BERT HEEFT. De zwarte hardcover die de vijf delen bundelt. ISBN 9798321407936."
+    }
+   ]
+  },
+  {
+   "id": "x-one-piece-mtg5g1",
+   "groep": "Viz Media",
+   "rubriek": "strips",
+   "taal": "en",
+   "naam": "One Piece",
+   "auteur": "Eiichiro Oda",
+   "type": "manga",
+   "kleur": "#C8102E",
+   "motief": "papegaai",
+   "bron": "Gefotografeerd door Bert op 5 november 2026. Bert heeft de box sets 2, 3 en 4; het volumebereik staat telkens letterlijk op de doos (24-46, 47-70 en 71-90). Daarom staan de delen 24 tot en met 90 aangevinkt plus die drie dozen: het verhaal telt, niet de band. LET OP: box set 1 (de delen 1 tot 23) stond NIET op de foto's en is dus NIET aangevinkt - dat moet Bert nog bevestigen. Box set 5 (Wano to Egghead, de delen 91 tot 111) verschijnt pas op 8 december 2026. Het hoogste Engelstalige deel dat bevestigd is, is 113, aangekondigd voor 10 november 2026; de reeks loopt dus nog door. Nagekeken bij Simon and Schuster (de verdeler van Viz) en bij Anime News Network. De verschijningsjaren van de losse delen zijn niet een voor een nagekeken en staan er daarom niet bij.",
+   "items": [
+    {
+     "k": "1",
+     "t": "One Piece, Vol. 1",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "2",
+     "t": "One Piece, Vol. 2",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "3",
+     "t": "One Piece, Vol. 3",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "4",
+     "t": "One Piece, Vol. 4",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "5",
+     "t": "One Piece, Vol. 5",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "6",
+     "t": "One Piece, Vol. 6",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "7",
+     "t": "One Piece, Vol. 7",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "8",
+     "t": "One Piece, Vol. 8",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "9",
+     "t": "One Piece, Vol. 9",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "10",
+     "t": "One Piece, Vol. 10",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "11",
+     "t": "One Piece, Vol. 11",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "12",
+     "t": "One Piece, Vol. 12",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "13",
+     "t": "One Piece, Vol. 13",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "14",
+     "t": "One Piece, Vol. 14",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "15",
+     "t": "One Piece, Vol. 15",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "16",
+     "t": "One Piece, Vol. 16",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "17",
+     "t": "One Piece, Vol. 17",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "18",
+     "t": "One Piece, Vol. 18",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "19",
+     "t": "One Piece, Vol. 19",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "20",
+     "t": "One Piece, Vol. 20",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "21",
+     "t": "One Piece, Vol. 21",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "22",
+     "t": "One Piece, Vol. 22",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "23",
+     "t": "One Piece, Vol. 23",
+     "b": "Zit in One Piece Box Set 1: East Blue and Baroque Works."
+    },
+    {
+     "k": "24",
+     "t": "One Piece, Vol. 24",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "25",
+     "t": "One Piece, Vol. 25",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "26",
+     "t": "One Piece, Vol. 26",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "27",
+     "t": "One Piece, Vol. 27",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "28",
+     "t": "One Piece, Vol. 28",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "29",
+     "t": "One Piece, Vol. 29",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "30",
+     "t": "One Piece, Vol. 30",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "31",
+     "t": "One Piece, Vol. 31",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "32",
+     "t": "One Piece, Vol. 32",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "33",
+     "t": "One Piece, Vol. 33",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "34",
+     "t": "One Piece, Vol. 34",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "35",
+     "t": "One Piece, Vol. 35",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "36",
+     "t": "One Piece, Vol. 36",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "37",
+     "t": "One Piece, Vol. 37",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "38",
+     "t": "One Piece, Vol. 38",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "39",
+     "t": "One Piece, Vol. 39",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "40",
+     "t": "One Piece, Vol. 40",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "41",
+     "t": "One Piece, Vol. 41",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "42",
+     "t": "One Piece, Vol. 42",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "43",
+     "t": "One Piece, Vol. 43",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "44",
+     "t": "One Piece, Vol. 44",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "45",
+     "t": "One Piece, Vol. 45",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "46",
+     "t": "One Piece, Vol. 46",
+     "b": "Zit in One Piece Box Set 2: Skypiea and Water Seven."
+    },
+    {
+     "k": "47",
+     "t": "One Piece, Vol. 47",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "48",
+     "t": "One Piece, Vol. 48",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "49",
+     "t": "One Piece, Vol. 49",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "50",
+     "t": "One Piece, Vol. 50",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "51",
+     "t": "One Piece, Vol. 51",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "52",
+     "t": "One Piece, Vol. 52",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "53",
+     "t": "One Piece, Vol. 53",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "54",
+     "t": "One Piece, Vol. 54",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "55",
+     "t": "One Piece, Vol. 55",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "56",
+     "t": "One Piece, Vol. 56",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "57",
+     "t": "One Piece, Vol. 57",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "58",
+     "t": "One Piece, Vol. 58",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "59",
+     "t": "One Piece, Vol. 59",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "60",
+     "t": "One Piece, Vol. 60",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "61",
+     "t": "One Piece, Vol. 61",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "62",
+     "t": "One Piece, Vol. 62",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "63",
+     "t": "One Piece, Vol. 63",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "64",
+     "t": "One Piece, Vol. 64",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "65",
+     "t": "One Piece, Vol. 65",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "66",
+     "t": "One Piece, Vol. 66",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "67",
+     "t": "One Piece, Vol. 67",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "68",
+     "t": "One Piece, Vol. 68",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "69",
+     "t": "One Piece, Vol. 69",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "70",
+     "t": "One Piece, Vol. 70",
+     "b": "Zit in One Piece Box Set 3: Thriller Bark to New World."
+    },
+    {
+     "k": "71",
+     "t": "One Piece, Vol. 71",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "72",
+     "t": "One Piece, Vol. 72",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "73",
+     "t": "One Piece, Vol. 73",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "74",
+     "t": "One Piece, Vol. 74",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "75",
+     "t": "One Piece, Vol. 75",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "76",
+     "t": "One Piece, Vol. 76",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "77",
+     "t": "One Piece, Vol. 77",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "78",
+     "t": "One Piece, Vol. 78",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "79",
+     "t": "One Piece, Vol. 79",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "80",
+     "t": "One Piece, Vol. 80",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "81",
+     "t": "One Piece, Vol. 81",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "82",
+     "t": "One Piece, Vol. 82",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "83",
+     "t": "One Piece, Vol. 83",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "84",
+     "t": "One Piece, Vol. 84",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "85",
+     "t": "One Piece, Vol. 85",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "86",
+     "t": "One Piece, Vol. 86",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "87",
+     "t": "One Piece, Vol. 87",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "88",
+     "t": "One Piece, Vol. 88",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "89",
+     "t": "One Piece, Vol. 89",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "90",
+     "t": "One Piece, Vol. 90",
+     "b": "Zit in One Piece Box Set 4: Dressrosa to Reverie."
+    },
+    {
+     "k": "91",
+     "t": "One Piece, Vol. 91",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "92",
+     "t": "One Piece, Vol. 92",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "93",
+     "t": "One Piece, Vol. 93",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "94",
+     "t": "One Piece, Vol. 94",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "95",
+     "t": "One Piece, Vol. 95",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "96",
+     "t": "One Piece, Vol. 96",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "97",
+     "t": "One Piece, Vol. 97",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "98",
+     "t": "One Piece, Vol. 98",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "99",
+     "t": "One Piece, Vol. 99",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "100",
+     "t": "One Piece, Vol. 100",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "101",
+     "t": "One Piece, Vol. 101",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "102",
+     "t": "One Piece, Vol. 102",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "103",
+     "t": "One Piece, Vol. 103",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "104",
+     "t": "One Piece, Vol. 104",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "105",
+     "t": "One Piece, Vol. 105",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "106",
+     "t": "One Piece, Vol. 106",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "107",
+     "t": "One Piece, Vol. 107",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "108",
+     "t": "One Piece, Vol. 108",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "109",
+     "t": "One Piece, Vol. 109",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "110",
+     "t": "One Piece, Vol. 110",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "111",
+     "t": "One Piece, Vol. 111",
+     "b": "Zit in One Piece Box Set 5: Wano to Egghead."
+    },
+    {
+     "k": "112",
+     "t": "One Piece, Vol. 112"
+    },
+    {
+     "k": "113",
+     "t": "One Piece, Vol. 113",
+     "b": "Verschijnt op 10 november 2026, ISBN 9781974766703, 208 bladzijden. Nagekeken bij Anime News Network.",
+     "d": "2026-11-10"
+    },
+    {
+     "k": "B1",
+     "t": "One Piece Box Set 1: East Blue and Baroque Works",
+     "b": "Bevat de delen 1 tot en met 23. NIET aangevinkt: deze doos stond niet op de foto's van 5 november 2026. Vraag aan Bert of hij ze heeft."
+    },
+    {
+     "k": "B2",
+     "t": "One Piece Box Set 2: Skypiea and Water Seven",
+     "b": "Bevat de delen 24 tot en met 46, plus de bonus-minicomic Strong World en een dubbelzijdige kleurenposter. Het volumebereik staat letterlijk op de doos op de foto."
+    },
+    {
+     "k": "B3",
+     "t": "One Piece Box Set 3: Thriller Bark to New World",
+     "b": "Bevat de delen 47 tot en met 70, plus een minicomic van 48 bladzijden en een dubbelzijdige kleurenposter. ISBN 9781421590523, 4 oktober 2016. Het volumebereik staat letterlijk op de doos op de foto."
+    },
+    {
+     "k": "B4",
+     "t": "One Piece Box Set 4: Dressrosa to Reverie",
+     "b": "Bevat de delen 71 tot en met 90, plus de bonus-minicollectie The Solitary Journey of Jimbei en een dubbelzijdige kleurenposter. Het volumebereik staat letterlijk op de doos op de foto."
+    },
+    {
+     "k": "B5",
+     "t": "One Piece Box Set 5: Wano to Egghead",
+     "b": "Bevat de delen 91 tot en met 111, plus een dubbelzijdige poster en een speelmat voor het kaartspel. ISBN 9781974769421, 4296 bladzijden. Verschijnt pas op 8 december 2026, dus nog niet te koop.",
+     "d": "2026-12-08"
+    }
+   ]
+  },
+  {
+   "id": "x-tokyo-ghoul-mtg5g2",
+   "groep": "Viz Media",
+   "rubriek": "strips",
+   "taal": "en",
+   "naam": "Tokyo Ghoul",
+   "auteur": "Sui Ishida",
+   "type": "manga",
+   "kleur": "#B3121D",
+   "motief": "sleutelgat",
+   "bron": "Gefotografeerd door Bert op 5 november 2026. De rode Complete Box Set staat op de foto; daarop staat letterlijk VOLUMES 1-14. Die veertien delen staan daarom aangevinkt, plus de doos zelf. LET OP: er bestaat ook een vervolgreeks, Tokyo Ghoul: re, met zestien delen en een eigen Complete Box Set. Die staat NIET op de foto en is dus niet aangevinkt; ze staat hier wel in de lijst zodat je ze op de beurs herkent. Nagekeken bij Anime News Network. De verschijningsjaren van de losse delen zijn niet nagekeken en staan er niet bij.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Tokyo Ghoul, Vol. 1",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "2",
+     "t": "Tokyo Ghoul, Vol. 2",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "3",
+     "t": "Tokyo Ghoul, Vol. 3",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "4",
+     "t": "Tokyo Ghoul, Vol. 4",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "5",
+     "t": "Tokyo Ghoul, Vol. 5",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "6",
+     "t": "Tokyo Ghoul, Vol. 6",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "7",
+     "t": "Tokyo Ghoul, Vol. 7",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "8",
+     "t": "Tokyo Ghoul, Vol. 8",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "9",
+     "t": "Tokyo Ghoul, Vol. 9",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "10",
+     "t": "Tokyo Ghoul, Vol. 10",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "11",
+     "t": "Tokyo Ghoul, Vol. 11",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "12",
+     "t": "Tokyo Ghoul, Vol. 12",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "13",
+     "t": "Tokyo Ghoul, Vol. 13",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "14",
+     "t": "Tokyo Ghoul, Vol. 14",
+     "b": "Zit in de Tokyo Ghoul Complete Box Set."
+    },
+    {
+     "k": "BOX",
+     "t": "Tokyo Ghoul Complete Box Set",
+     "b": "DIT IS DE DOOS DIE BERT HEEFT. Bevat de delen 1 tot en met 14, de volledige eerste reeks, plus een exclusieve dubbelzijdige poster. 2904 bladzijden, ISBN 9781974703180, verschenen 16 oktober 2018."
+    },
+    {
+     "k": "RE1",
+     "t": "Tokyo Ghoul: re, Vol. 1",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE2",
+     "t": "Tokyo Ghoul: re, Vol. 2",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE3",
+     "t": "Tokyo Ghoul: re, Vol. 3",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE4",
+     "t": "Tokyo Ghoul: re, Vol. 4",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE5",
+     "t": "Tokyo Ghoul: re, Vol. 5",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE6",
+     "t": "Tokyo Ghoul: re, Vol. 6",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE7",
+     "t": "Tokyo Ghoul: re, Vol. 7",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE8",
+     "t": "Tokyo Ghoul: re, Vol. 8",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE9",
+     "t": "Tokyo Ghoul: re, Vol. 9",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE10",
+     "t": "Tokyo Ghoul: re, Vol. 10",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE11",
+     "t": "Tokyo Ghoul: re, Vol. 11",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE12",
+     "t": "Tokyo Ghoul: re, Vol. 12",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE13",
+     "t": "Tokyo Ghoul: re, Vol. 13",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE14",
+     "t": "Tokyo Ghoul: re, Vol. 14",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE15",
+     "t": "Tokyo Ghoul: re, Vol. 15",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "RE16",
+     "t": "Tokyo Ghoul: re, Vol. 16",
+     "b": "Vervolgreeks. Zit in de Tokyo Ghoul: re Complete Box Set, die Bert NIET heeft."
+    },
+    {
+     "k": "REBOX",
+     "t": "Tokyo Ghoul: re Complete Box Set",
+     "b": "Bevat de zestien delen van de vervolgreeks plus een premium. ISBN 9781974718474. Staat NIET op de foto en is dus niet aangevinkt."
+    }
+   ]
+  },
+  {
+   "id": "x-demon-slayer-mtg5g3",
+   "groep": "Viz Media",
+   "rubriek": "strips",
+   "taal": "en",
+   "naam": "Demon Slayer: Kimetsu no Yaiba",
+   "auteur": "Koyoharu Gotouge",
+   "type": "manga",
+   "kleur": "#2E7D5B",
+   "motief": "zwaard",
+   "bron": "Gefotografeerd door Bert op 5 november 2026. De Complete Box Set staat op de foto; daarop staat letterlijk CONTAINS VOLUMES 1-23. Viz noemt dit de volledige reeks. Alle 23 delen staan daarom aangevinkt, plus de doos zelf: het verhaal telt, niet de band. Nagekeken bij Viz zelf. De spin-offs en de romans staan hier bewust niet in; vraag het als je die ook wil bijhouden. De verschijningsjaren van de losse delen zijn niet nagekeken en staan er niet bij.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 1",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "2",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 2",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "3",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 3",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "4",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 4",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "5",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 5",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "6",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 6",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "7",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 7",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "8",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 8",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "9",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 9",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "10",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 10",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "11",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 11",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "12",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 12",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "13",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 13",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "14",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 14",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "15",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 15",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "16",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 16",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "17",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 17",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "18",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 18",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "19",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 19",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "20",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 20",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "21",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 21",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "22",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 22",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "23",
+     "t": "Demon Slayer: Kimetsu no Yaiba, Vol. 23",
+     "b": "Zit in de Demon Slayer Complete Box Set."
+    },
+    {
+     "k": "BOX",
+     "t": "Demon Slayer: Kimetsu no Yaiba Complete Box Set",
+     "b": "DIT IS DE DOOS DIE BERT HEEFT. Bevat alle 23 delen plus een exclusief boekje en een dubbelzijdige kleurenposter. 4496 bladzijden, ISBN 9781974725953, verschenen 9 november 2021."
+    }
+   ]
+  },
+  {
+   "id": "x-rode-ridder-integrales-mtg5h1",
+   "groep": "De Rode Ridder",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "De Rode Ridder - de integrales",
+   "auteur": "Willy Vandersteen, Karel Biddeloo, Claus D. Scholz e.a.",
+   "type": "strip",
+   "kleur": "#6B1414",
+   "motief": "zwaard",
+   "bron": "Toegevoegd op 7 november 2026. Van De Rode Ridder bestaan DRIE aparte integrale-lijnen, en die ontbraken alle drie in de lijst. 1) De Eerste Avonturen: zes delen uit 2019 met blauwe kaften, de periode van Studio Vandersteen, albums 1 tot 36. 2) De Biddeloo-jaren: 27 delen van 2020 tot 2026, albums 37 tot 206; de delen 1 tot 7 heten Sword and sorcery, 8 tot 13 Monsters en aliens, en deel 27 Het Laatste Tijdperk sluit de lijn af. 3) De Claus-jaren: zeven delen voor 2027 en 2028, albums 207 tot 249, aangekondigd op 16 oktober 2026. ALLE VEERTIG STAAN AANGEVINKT, en dat is een gevolg van je keuze van 1 november: het verhaal telt, niet de band. Je hebt de losse albums 1 tot en met 290, dus de inhoud van elk van deze integrales zit al in je kast. Wil je ze toch als aparte hardcovers verzamelen, zeg het dan - dan zet ik ze allemaal weer uit. WAT NIET BEKEND IS: welke albums precies in welk integraal zitten, behalve bij Biddeloo 27 (201 tot 206). Dat staat nergens gedocumenteerd, ook niet op Bedetheque, dus het is hier bewust weggelaten in plaats van gegokt. De titels van de delen 14 tot 26 van de Biddeloo-lijn en van alle Claus-delen zijn evenmin gevonden. Nagekeken bij Stripspeciaalzaak (twee pagina's) en bij Bedetheque; die laatste kent maar dertien Biddeloo-delen, dus de registratie daar is onvolledig.",
+   "items": [
+    {
+     "k": "E1",
+     "t": "De Eerste Avonturen, integraal 1",
+     "j": 2019,
+     "b": "Blauwe kaft. De zes delen van deze lijn bundelen samen de albums 1 tot en met 36, de periode van Studio Vandersteen voor Biddeloo. Welke albums in welk deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "E2",
+     "t": "De Eerste Avonturen, integraal 2",
+     "j": 2019,
+     "b": "Blauwe kaft. De zes delen van deze lijn bundelen samen de albums 1 tot en met 36, de periode van Studio Vandersteen voor Biddeloo. Welke albums in welk deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "E3",
+     "t": "De Eerste Avonturen, integraal 3",
+     "j": 2019,
+     "b": "Blauwe kaft. De zes delen van deze lijn bundelen samen de albums 1 tot en met 36, de periode van Studio Vandersteen voor Biddeloo. Welke albums in welk deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "E4",
+     "t": "De Eerste Avonturen, integraal 4",
+     "j": 2019,
+     "b": "Blauwe kaft. De zes delen van deze lijn bundelen samen de albums 1 tot en met 36, de periode van Studio Vandersteen voor Biddeloo. Welke albums in welk deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "E5",
+     "t": "De Eerste Avonturen, integraal 5",
+     "j": 2019,
+     "b": "Blauwe kaft. De zes delen van deze lijn bundelen samen de albums 1 tot en met 36, de periode van Studio Vandersteen voor Biddeloo. Welke albums in welk deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "E6",
+     "t": "De Eerste Avonturen, integraal 6",
+     "j": 2019,
+     "b": "Blauwe kaft. De zes delen van deze lijn bundelen samen de albums 1 tot en met 36, de periode van Studio Vandersteen voor Biddeloo. Welke albums in welk deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B1",
+     "t": "De Biddeloo-jaren, integraal 1: Sword and sorcery",
+     "j": 2020,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B2",
+     "t": "De Biddeloo-jaren, integraal 2: Sword and sorcery",
+     "j": 2020,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B3",
+     "t": "De Biddeloo-jaren, integraal 3: Sword and sorcery",
+     "j": 2020,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B4",
+     "t": "De Biddeloo-jaren, integraal 4: Sword and sorcery",
+     "j": 2021,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B5",
+     "t": "De Biddeloo-jaren, integraal 5: Sword and sorcery",
+     "j": 2021,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B6",
+     "t": "De Biddeloo-jaren, integraal 6: Sword and sorcery",
+     "j": 2021,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B7",
+     "t": "De Biddeloo-jaren, integraal 7: Sword and sorcery",
+     "j": 2021,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B8",
+     "t": "De Biddeloo-jaren, integraal 8: Monsters en aliens",
+     "j": 2022,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B9",
+     "t": "De Biddeloo-jaren, integraal 9: Monsters en aliens",
+     "j": 2022,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B10",
+     "t": "De Biddeloo-jaren, integraal 10: Monsters en aliens",
+     "j": 2022,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B11",
+     "t": "De Biddeloo-jaren, integraal 11: Monsters en aliens",
+     "j": 2022,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B12",
+     "t": "De Biddeloo-jaren, integraal 12: Monsters en aliens",
+     "j": 2023,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B13",
+     "t": "De Biddeloo-jaren, integraal 13: Monsters en aliens",
+     "j": 2023,
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B14",
+     "t": "De Biddeloo-jaren, integraal 14",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B15",
+     "t": "De Biddeloo-jaren, integraal 15",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B16",
+     "t": "De Biddeloo-jaren, integraal 16",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B17",
+     "t": "De Biddeloo-jaren, integraal 17",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B18",
+     "t": "De Biddeloo-jaren, integraal 18",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B19",
+     "t": "De Biddeloo-jaren, integraal 19",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B20",
+     "t": "De Biddeloo-jaren, integraal 20",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B21",
+     "t": "De Biddeloo-jaren, integraal 21",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B22",
+     "t": "De Biddeloo-jaren, integraal 22",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B23",
+     "t": "De Biddeloo-jaren, integraal 23",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B24",
+     "t": "De Biddeloo-jaren, integraal 24",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B25",
+     "t": "De Biddeloo-jaren, integraal 25",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B26",
+     "t": "De Biddeloo-jaren, integraal 26",
+     "b": "Deze lijn bundelt de albums 37 (De hachelijke jacht, waar Biddeloo instapt) tot en met 206, in 27 delen. Welke albums in dit deel zitten is nergens gedocumenteerd. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "B27",
+     "t": "De Biddeloo-jaren, integraal 27: Het Laatste Tijdperk",
+     "j": 2026,
+     "b": "LAATSTE deel van deze lijn. Bundelt de albums 201 tot en met 206: Het Boze Oog, De Piraten van Sluis, De Vulkaangod, De Rode Gezant, Het Scheepskerkhof en Gog en Magog. De vier laatste verschenen na het overlijden van Biddeloo in 2004. 240 bladzijden hardcover met ex libris van Fabio Bono, 37,50 euro; de luxe met linnen rug en twee ex librissen kost 75 euro. Verschijnt op 3 december 2026. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje.",
+     "d": "2026-12-03"
+    },
+    {
+     "k": "C1",
+     "t": "De Claus-jaren, integraal 1",
+     "d": "2027-03-11",
+     "j": 2027,
+     "b": "Nieuwe lijn, op 16 oktober 2026 aangekondigd door Standaard Uitgeverij: zeven integrales in 2027 en 2028 die samen de albums 207 (2005) tot en met 249 (2016) bundelen, plus de twee vervolgverhalen van album 247 (De Zwarte Drietand en Inferno). Elk deel bevat zes of zeven albums; de verdeling is nog niet bekend, net zomin als de titels. Verschijnt op 2027-03-11. Er komen opnieuw luxe-edities. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "C2",
+     "t": "De Claus-jaren, integraal 2",
+     "d": "2027-06-24",
+     "j": 2027,
+     "b": "Nieuwe lijn, op 16 oktober 2026 aangekondigd door Standaard Uitgeverij: zeven integrales in 2027 en 2028 die samen de albums 207 (2005) tot en met 249 (2016) bundelen, plus de twee vervolgverhalen van album 247 (De Zwarte Drietand en Inferno). Elk deel bevat zes of zeven albums; de verdeling is nog niet bekend, net zomin als de titels. Verschijnt op 2027-06-24. Er komen opnieuw luxe-edities. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "C3",
+     "t": "De Claus-jaren, integraal 3",
+     "d": "2027-10-07",
+     "j": 2027,
+     "b": "Nieuwe lijn, op 16 oktober 2026 aangekondigd door Standaard Uitgeverij: zeven integrales in 2027 en 2028 die samen de albums 207 (2005) tot en met 249 (2016) bundelen, plus de twee vervolgverhalen van album 247 (De Zwarte Drietand en Inferno). Elk deel bevat zes of zeven albums; de verdeling is nog niet bekend, net zomin als de titels. Verschijnt op 2027-10-07. Er komen opnieuw luxe-edities. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "C4",
+     "t": "De Claus-jaren, integraal 4",
+     "d": "2027-12-09",
+     "j": 2027,
+     "b": "Nieuwe lijn, op 16 oktober 2026 aangekondigd door Standaard Uitgeverij: zeven integrales in 2027 en 2028 die samen de albums 207 (2005) tot en met 249 (2016) bundelen, plus de twee vervolgverhalen van album 247 (De Zwarte Drietand en Inferno). Elk deel bevat zes of zeven albums; de verdeling is nog niet bekend, net zomin als de titels. Verschijnt op 2027-12-09. Er komen opnieuw luxe-edities. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "C5",
+     "t": "De Claus-jaren, integraal 5",
+     "j": 2028,
+     "b": "Nieuwe lijn, op 16 oktober 2026 aangekondigd door Standaard Uitgeverij: zeven integrales in 2027 en 2028 die samen de albums 207 (2005) tot en met 249 (2016) bundelen, plus de twee vervolgverhalen van album 247 (De Zwarte Drietand en Inferno). Elk deel bevat zes of zeven albums; de verdeling is nog niet bekend, net zomin als de titels. Aangekondigd voor 2028; de exacte datum is nog niet bekend, daarom staat er geen verschijningsdatum in het datumveld. Er komen opnieuw luxe-edities. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "C6",
+     "t": "De Claus-jaren, integraal 6",
+     "j": 2028,
+     "b": "Nieuwe lijn, op 16 oktober 2026 aangekondigd door Standaard Uitgeverij: zeven integrales in 2027 en 2028 die samen de albums 207 (2005) tot en met 249 (2016) bundelen, plus de twee vervolgverhalen van album 247 (De Zwarte Drietand en Inferno). Elk deel bevat zes of zeven albums; de verdeling is nog niet bekend, net zomin als de titels. Aangekondigd voor 2028; de exacte datum is nog niet bekend, daarom staat er geen verschijningsdatum in het datumveld. Er komen opnieuw luxe-edities. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
+    },
+    {
+     "k": "C7",
+     "t": "De Claus-jaren, integraal 7",
+     "j": 2028,
+     "b": "Nieuwe lijn, op 16 oktober 2026 aangekondigd door Standaard Uitgeverij: zeven integrales in 2027 en 2028 die samen de albums 207 (2005) tot en met 249 (2016) bundelen, plus de twee vervolgverhalen van album 247 (De Zwarte Drietand en Inferno). Elk deel bevat zes of zeven albums; de verdeling is nog niet bekend, net zomin als de titels. Aangekondigd voor 2028; de exacte datum is nog niet bekend, daarom staat er geen verschijningsdatum in het datumveld. Er komen opnieuw luxe-edities. Bert heeft de losse albums die hierin zitten al; vandaar het vinkje."
     }
    ]
   }
