@@ -38908,7 +38908,7 @@
      "k": "2026",
      "t": "Zware Jongens",
      "j": 2026,
-     "b": "Aangekondigd met de Zware Jongens als thema. Nog maar bij een bron bevestigd. LET OP: datum niet bevestigd; kan al in de winkel liggen."
+     "b": "Jubileumpocket met de Zware Jongens als thema. Beschikbaar sinds 9 november 2026 volgens De Poort. 256 bladzijden in kleur, softcover, 9,95 euro, EAN 8710841544497, DPG Media. De Poort zet de status op Op bestelling, dus hij ligt niet overal in de rekken; daarom blijft het datumveld leeg en blijft de pocket gewoon op je zoeklijst staan."
     }
    ]
   },
@@ -42947,6 +42947,72 @@
      "t": "Miss Jane Hamilton 1/2",
      "j": 2026,
      "b": "Verschenen 6 augustus 2026. ISBN 9789031442294. Eerste helft van een tweeluik; de tweede helft is nog niet aangekondigd."
+    }
+   ]
+  },
+  {
+   "id": "x-piet-pienter-handelsbladjaren-mtg5l1",
+   "groep": "Piet Pienter en Bert Bibber",
+   "rubriek": "strips",
+   "taal": "nl",
+   "naam": "De Handelsbladjaren (Adhemar)",
+   "auteur": "Pom (Jozef Van Hove)",
+   "type": "strip",
+   "kleur": "#1E7A66",
+   "motief": "sleutelgat",
+   "bron": "Toegevoegd op 17 november 2026, derde Piet Pienter-lijn naast de albumreeks en de integrales. WAT DIT IS: de strip verscheen vanaf 1951 in de krant Het Handelsblad, en pas vanaf april 1955 in de Gazet van Antwerpen. Negen verhalen zijn in Het Handelsblad verschenen. Pom heeft die later HERTEKEND EN GEWIJZIGD voor de Gazet van Antwerpen, en het zijn die latere versies die in de gewone albumreeks staan. Uitgeverij Adhemar geeft nu de EERSTE versies uit. Het is dus geen gewone heruitgave: dezelfde verhalen, maar een andere tekening en een andere tekst. Dat zie je ook aan deel 4, De stalen zeemeermin, dat onder dezelfde titel ook als S7 in de albumreeks staat. WAT NIET VASTSTAAT: geen van de bronnen zegt welke van de negen verhalen precies met welk album uit de reeks 1 tot 45 overeenkomen. Dat is hier dus niet ingevuld. Voor Bert maakt dat nu niets uit, want hij heeft van Piet Pienter nog geen enkel album. BRONNEN EN HUN GEBREKEN: nagekeken bij stripINFO.be (reeks 57262) en bij De Poort. stripINFO spreekt zichzelf tegen - de paginabeschrijving zegt 16 titels terwijl de lijst er 9 toont. De Poort noemt negen verhalen in de tekst maar heeft er maar zeven als product: de delen 7 en 8 staan nergens te koop en hebben geen datum. Negen is aangehouden, want beide bronnen noemen negen Handelsblad-verhalen.",
+   "items": [
+    {
+     "k": "1",
+     "t": "Het vredeswapen",
+     "b": "Verschenen 17 oktober 2025. 44 bladzijden. 12,95 euro softcover; er is ook een luxe editie van 100 euro. ISBN 9789086240210.",
+     "j": 2025
+    },
+    {
+     "k": "2",
+     "t": "Het gestolen vredeswapen",
+     "b": "Verschenen 22 juni 2026. 56 bladzijden. 12,95 euro softcover; er is ook een luxe editie van 100 euro. ISBN 9789086240760.",
+     "j": 2026
+    },
+    {
+     "k": "3",
+     "t": "De verborgen schat",
+     "b": "Verschenen 22 juni 2026. 52 bladzijden. 12,95 euro softcover; er is ook een luxe editie van 100 euro. ISBN 9789086240777.",
+     "j": 2026
+    },
+    {
+     "k": "4",
+     "t": "De stalen zeemeermin",
+     "b": "Verschenen 17 oktober 2025. 60 bladzijden. 12,95 euro softcover; er is ook een luxe editie van 100 euro. ISBN 9789086240753. LET OP: er staat ook een album De stalen zeemeermin in de gewone albumreeks (S7, 2009). Dat is DEZELFDE verhaallijn maar een ANDERE versie - zie de toelichting bij de reeks.",
+     "j": 2025
+    },
+    {
+     "k": "5",
+     "t": "Bibbergeld",
+     "b": "Verschenen 17 oktober 2025. 52 bladzijden. 12,95 euro softcover; er is ook een luxe editie van 100 euro. ISBN 9789086240746.",
+     "j": 2025
+    },
+    {
+     "k": "6",
+     "t": "De diamantmijnen van Koningin Salami",
+     "b": "Verschenen 22 juni 2026. 72 bladzijden. 12,95 euro softcover; er is ook een luxe editie van 100 euro. ISBN 9789086240784.",
+     "j": 2026
+    },
+    {
+     "k": "7",
+     "t": "El Rancho Grande",
+     "b": "GEEN verschijningsdatum gevonden. Het deel staat wel in de reekslijst van stripINFO en in de reeksbeschrijving van De Poort, maar De Poort heeft er geen productpagina voor, dus geen datum, bladzijden of ISBN."
+    },
+    {
+     "k": "8",
+     "t": "Bibber contra Tutter",
+     "b": "GEEN verschijningsdatum gevonden. Zelfde situatie als deel 7: wel in de reekslijst, niet als product te koop."
+    },
+    {
+     "k": "9",
+     "t": "Buldaarse Rhapsodie",
+     "b": "Verschenen 17 oktober 2025. 48 bladzijden. 12,95 euro softcover; er is ook een luxe editie van 100 euro. ISBN 9789086240739.",
+     "j": 2025
     }
    ]
   }
